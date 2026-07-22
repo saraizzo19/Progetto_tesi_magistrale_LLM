@@ -1,0 +1,21 @@
+# Ambienti virtuali e file di cache Python
+.env
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Pesi dei modelli LLM e checkpoint (File di grandi dimensioni)
+*.gguf
+*.bin
+*.safetensors
+*.pt
+checkpoints/
+lora_adapters/
+runs/
+
+# File di sistema operativi
+.DS_Store
+Thumbs.db
