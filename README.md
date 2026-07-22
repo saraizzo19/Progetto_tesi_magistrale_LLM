@@ -1,14 +1,15 @@
-# Adattamento LLM al Dominio IT (IT Localization Fine-Tuning)
+# Adattamento LLM al dominio IT (IT localization fine-tuning)
 
-Questo repository contiene il codice, i dati e l'analisi sperimentale per un progetto di tesi magistrale incentrato sul trasferimento di dominio IT (Information Technology) in modelli linguistici di dimensioni ridotte (4B - 8B parametri). 
+Questo repository contiene il codice, i dati e l'analisi sperimentale per un progetto di tesi magistrale incentrato sul trasferimento di dominio IT (information technology) in modelli linguistici di dimensioni ridotte (4B - 8B parametri). 
 
-L'obiettivo è valutare l'efficacia del *Supervised Fine-Tuning* (SFT) tramite protocolli LoRA (Low-Rank Adaptation) per la localizzazione di interfacce software dall'inglese all'italiano, confrontando le architetture **Qwen 2.5** e **Google Gemma 3**.
+L'obiettivo è valutare l'efficacia del *supervised fine-tuning* (SFT) tramite protocolli LoRA (low-rank adaptation) per la localizzazione di interfacce software dall'inglese all'italiano, confrontando le architetture **Qwen 2.5** e **Google Gemma 3**.
 
-## Struttura del Repository
+## Struttura del repository
 
-* `/data`: Contiene i vettori testuali estratti durante le fasi di inferenza (Baseline Zero-Shot, Post-Tuning, Post-Ottimizzazione).
-* `/notebooks`: Script e Jupyter Notebooks utilizzati su Google Colab per l'addestramento (Unsloth) e l'estrazione testuale.
-* `/results`: File di analisi qualitativa (Framework MQM-DQF) e quantitativa (SacreBLEU, COMET) delle performance dei modelli.
+* `/data`: contiene i vettori testuali estratti durante le fasi di inferenza (Baseline Zero-Shot, Post-Tuning, Post-Ottimizzazione).
+* `/notebooks`: script e Jupyter Notebooks utilizzati su Google Colab per l'addestramento (Unsloth) e l'estrazione testuale.
+* `/results`: file di analisi qualitativa (Framework MQM-DQF) e quantitativa (SacreBLEU, COMET) delle performance dei modelli.
+* `/python`: contiene gli script che sono stati utilizzati in locale su VS Code.
 
-## Risultati Principali
-La ricerca dimostra che l'assorbimento di un dominio tecnico rigido è soggetto a severe *Scaling Laws*. I modelli da 4B parametri hanno manifestato fenomeni di *Conversational Override* (Gemma) e *Underfitting Formale* (Qwen), mentre il modello Qwen 8B ha gestito la terminologia IT con maggiore efficacia, sebbene abbia presentato fenomeni di *Source Language Leakage* su termini ultra-specialistici.
+## Risultati principali
+La ricerca dimostra che l'assorbimento di un dominio tecnico rigido è soggetto a severe *Scaling Laws*. I modelli da 4B parametri hanno manifestato fenomeni di *conversational override* (Gemma) e *underfitting formale* (Qwen), mentre il modello Qwen 8B ha gestito la terminologia IT con maggiore efficacia, sebbene abbia presentato fenomeni di *source language leakage* su termini ultra-specialistici.
