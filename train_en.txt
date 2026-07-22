@@ -1,0 +1,584 @@
+Please close the other instances of this message and try again.
+The children of this directory will have 7 parent directories.
+The report links errors to documentation about how to remedy common problems.
+The security certificate for {0} is invalid.
+Which Amazon MP3 storefront to use by default.
+There was an error whilst launching the debugger.
+"Online Sources
+Amazon MP3 Import
+Download and import music purchased from Amazon.com."
+%s: %s is not in mbox format.
+Useful for concept albums and classical music.
+Examine and remove any rejected files.
+Could not find a valid project backend for the directory given (%s).
+"Should brasero filter hidden files
+Should brasero filter hidden files."
+"Failed to show help
+Baobab
+A graphical tool to analyze disk usage."
+"While the test is running, click the button again to cancel it."
+"Once you are done with all the modifications, click OK."
+"Import media from a variety of sources
+Import Playlist..."
+"Mail Files
+Problem Creating Mailboxes %s
+You've successfully set up Balsa."
+The signature could not be verified due to an invalid crypto engine.
+"Unable to open the file: %s
+Unable to open %s."
+"Recently played games
+A list of recently played games."
+"Found level '%s' in: %s
+Atomix
+A puzzle game about atoms and molecules
+translator-credits
+Congratulations!"
+"Do not install:
+Build but do not install the target."
+Please check that the track's location is accessible by the system.
+"See above for details
+CVS command is running — please wait until it finishes!"
+Transferring POP message to %s failed.
+"Data copy error
+Mailbox %s does not appear to be an Mbox mailbox."
+"Pick a Color
+Directory could not be created (%s)
+Error while loading the project."
+"Are you sure you want to remove the target ""%s"" from the project?"
+Cannot start terminal for debugging.
+"Apple device Support
+Support for most iPod/iPhone/iPad devices."
+You may bypass the Preferences dialog by using drag and drop to move plugin tabs.
+Do you want to do that ?
+Click on Video project in the main window or choose ProjectNew projectNew video project.
+"unknown error
+forwarded message
+Message from %s, subject: ""%s""
+(URL)
+Attach file
+Attaching message failed."
+Are you sure you want to remove the following target from project?
+Make sure 'gdb' is installed on the system.
+The source file will be deleted from the file system.
+Then click the Validate button to start the test.
+Pressing ControlAlta will select the last focused widget's accessible in Accerciser.
+"To see more of the tree at startup, choose a greater depth."
+"Could not obtain backup filename
+Loading
+Saving..."
+"Quick open operations
+The program is already running."
+The CD/DVD copy options dialog will be shown; make the desired modifications (see for more information).
+"Could not open %s: %s
+The file '%s' is read-only!"
+"Balsa Filters
+Filter ""%s"" has no condition."
+"The option not to recognize ""format=flowed"" text has been removed."
+Next select a schema to use for the test.
+"Established under name '%s'
+Failed to register: %s
+Name collision, picking new name '%s'."
+"Please wait...
+Scanning of %s failed: %s Check network connectivity."
+This information will be written to the disc using CD-TEXT technology.
+Selecting an accessible makes it available for further inspection using the loaded plugins.
+"CVSROOT
+Module
+Vendor
+Release
+Are you sure that you do not want a log message?"
+Move ~a onto an empty reserve slot.
+Imports from the current working directory or Python path are also allowed.
+"The possible values are:
+To split the track, click on Slice."
+Do you wish to discard the currently displayed values and reload configuration from disk?
+"Accerciser Main Window
+Shows main window."
+"Use default GNOME terminal profile
+You must provide a tool name!"
+Interrupting the process may make disc unusable.
+"Cannot execute gnome-terminal
+Cannot start terminal for debugging."
+"Action
+Visible
+Sensitive
+System:
+The ""%s"" utility is not installed."
+"Sync your Android, iPod, and other devices."
+Those names should be changed and truncated to 64 characters.
+Under this section you will find a list view of all the available plugins.
+"If you choose to create a new project, all changes made will be lost."
+PAL/SECAM: format mainly used in European televisions.
+Double click a row in the table to show the associated accessible in the tree.
+"When Accerciser is first run, most plugins will reside here."
+The following section explains the five types of project that you can create with Brasero.
+Allow to execute program without debugger.
+"Default window height
+The window height value."
+Could not find a valid project backend for the given directory (%s).
+"From the menu bar, choose ToolsCheck Integrity, or press CtrlF."
+"There is no plugin, default action, or application configured to handle this file type."
+"Can not compile ""%s"": No compile rule defined for this file type."
+"Installation directories:
+List of custom installation directories used by targets in this group."
+Do you want to save your change to the existing category?
+Additional Vala compiler flags for this target.
+Some important programs or development packages required to build this project are missing.
+This option is not implemented yet.
+Please insert a recordable CD or DVD with at least %i MiB of free space.
+"You can use %% to get a ""%"" character."
+Some files don't have a suitable name for a fully Windows-compatible CD.
+Address could not be written to this address book.
+"Audio Project
+This section explains how to create an audio CD."
+"Target: %s
+Are you sure you want to remove the following source file from project?"
+The primary notebook is the place where are created new notes.
+"Set _Default Preferences
+But I prefer tea."
+Anjuta is very extensible with plugins.
+Both are required for autocompletion in python files.
+There are several plugins you can choose from.
+"If you close without saving, your changes will be discarded."
+CD-RW audio discs may not play correctly in older CD players and CD-TEXT won't be written.
+Could not attach the file %s: %s.
+Removing the preferred plugin will let Anjuta prompt you again to choose different plugin.
+The decryption cannot be performed because this message is displayed more than once.
+Please make sure they are installed properly before generating the project.
+The maximum number of results has been reached.
+"Installation failed: %s
+The ""%s"" package is not installed."
+"Simple notebook for GNOME
+Take notes and export them everywhere."
+"In the text box, enter a label to identify the disc."
+Please check the preferences or install Valgrind package.
+"The file with pathname ""%s"" is not a directory."
+"Languages:
+Select the languages for which you want to use this snippet."
+The role of the name is purely informative.
+"Detaching the process…
+Failed to create FIFO file named %s."
+"New version saved as ""%s""
+Could not unlink file %s: %s
+Cannot open mailbox."
+"Scintilla Editor
+The file '%s' has been changed."
+"Disc Copy
+Insert the CD or DVD you wish to copy into your drive."
+"Select Path
+The selected path is already selected for indexing and wasn't added."
+"Parsing a message part failed: %s
+Possible disk space problem."
+The extension will be added according to the type.
+"DVD and Audio CD Support
+Watch DVDs, listen to and rip Audio CDs."
+"MTP Media Player Support
+Support for MTP devices, including many Creative Zen devices."
+"There are opened filter run dialogs, close them before you can modify filters."
+You can start it by clicking the button below.
+Appending new files to a multisession disc is not advised.
+"Key: %s
+%s Please enter the passphrase for the secret key!"
+"To search for optional terms, use OR."
+The signature is valid but the key used to verify the signature has been revoked.
+"Automatically refresh channels interval
+The refresh rate for when to refresh all channels."
+You should select MIME mode if the complete message shall be protected.
+"Horizontal split
+Position of the horizontal split of the main window."
+"A typical value is ""sudo %s"" or ""su -c %q""."
+Group: %s The group will not be deleted from file system.
+The color name set here will be used as the color when creating new notes.
+"Couldn't create a directory: mkdir() failed on pathname ""%s"", with error ""%s""."
+"If you choose to create a new project, all files already added will be discarded."
+"Confirm Rebuild iPod Database
+Rebuilding your iPod database may take some time."
+Do you still want to stop the debugger?
+Please make sure Anjuta documentation package is install.
+"If you do not save, all your changes will be lost."
+"I_mport Session
+Click here to import its contents
+Please wait while the project is loading."
+"Right plugin view
+This is one of the two default plugin views."
+"Evolution's address book, memos and tasks."
+Only one directory can be specified.
+Display the results as a ring chart or a treemap chart.
+"Couldn't check out the supplied URI ""%s""."
+PackageKit is required for installing missing packages.
+"Additional objects:
+Additional object files for this target."
+A data integrity test will begin as soon as the disc is inserted.
+Additional Yacc or Bison parser generator flags for this target.
+"Brasero Main Window
+The Brasero main window."
+Various instruments for viewing and controlling an interface are available under each expander.
+"X position of main window
+The stored position of the main window, the X coordinate."
+"Git version control
+API Help
+Devhelp Plugin for Anjuta."
+This target does not have any profiling data.
+"Default window width
+The window width value."
+"Torrent Downloader
+Support downloading BitTorrent files from podcasts."
+Type them separated by a single space.
+Insert a blank CD or DVD into your drive.
+There are not enough neighbours for this station.
+Choose Add AC3 audio stream to add an AC-3 Dolby Digital stream to the disc.
+"Getting ready to start debugging session…
+The program is attached."
+"The streaming system is offline for maintenance, please try again later."
+This can be a problem when writing DVDs or large images.
+"Missing components
+Unable to build project assistant user interface reading %s."
+An image of the disc has been created on your hard drive.
+New project has been created successfully.
+"_Search Directory
+""%s"" does not have a suitable type for video projects."
+Also note that any playlists you have on your iPod will be lost.
+Anjuta is unable to attach to itself.
+"Usage: billreminder [OPTIONS...]
+Displays the version number for this application."
+"_Resolve Conflicts...
+Resolve conflicts in your working copy."
+Project creation could fail if some files cannot be written.
+An error prevented the signature verification.
+"If you don't save, changes will be permanently lost."
+"_Update...
+Sync your local copy with the Subversion tree
+Copy Files/Folders..."
+There is no recordable disc inserted.
+"Debugger connected
+Program attached
+Attaching to process: %d...
+A process is already running."
+Additional Objective C compiler flags for this target.
+"_Patch…
+Import an existing autotools project to Anjuta
+Please select a project backend to use."
+"GnomeCard Address Book
+Configure Balsa
+Use Balsa as default email client?"
+"Internet Radio
+Listen to and organize Internet Radio stations."
+"Account details are needed before you can connect to Last.fm
+No network connection detected."
+"Your search for ""{0}"" did not match any files on your computer."
+Please insert a recordable CD with at least %i MiB of free space.
+"The disc in ""%s"" is not rewritable."
+Banshee can build a new database for you.
+The program will run without a terminal.
+"Utilities
+BPM Detection
+Detect the beats per minute (BPM) of your music."
+Face header file %s contains binary data.
+"Enable ""-immed"" flag with cdrecord
+Whether to use ""-immed"" flag with cdrecord."
+"Vala support Plugin
+Vala support plugin, adds code completion."
+"Git: Pushing...
+Git: Rebasing
+Git: File removed."
+"Pane to display audio projects
+The pane to display with audio projects."
+"_Eject when done importing
+When an audio CD has been imported, automatically eject it."
+This option is mainly useful for integration use with other applications.
+"--version, -v\t\tDisplays the version number for this application."
+"Save and Log In
+Sign up for Last.fm
+Last.fm username or password is invalid."
+"Search service started
+Starting service failed
+Service is already running!"
+This artist does not have enough fans for radio.
+"The disc in ""%s"" is empty."
+Press the button in the top-right of the main window and select Scan Folder….
+"Program
+No file or project currently opened."
+Additional C compiler flags for this target.
+"Last.fm Radio
+Last.fm streaming radio for paid subscribers."
+The size of the file is over 2 GiB.
+Usually this process is longer than using an external MD5 file.
+"For the best value, check the CD/DVD case."
+"Pane to display video projects
+The pane to display with video projects."
+The signature is valid but the key used to verify the signature has expired.
+"Importers for Amarok, Rhythmbox and iTunes
+Import your library from Amarok, Rhythmbox or iTunes."
+Warning: You should choose a name for the snippet!
+Check if you have write access to the project directory.
+"See above for details
+Add Breakpoint…
+Running…
+_Debug Process…
+Debug _Remote Target…
+Add source paths…
+Debugger Command…
+Unable to execute: ""%s""."
+I do not yet know how to remove it from remote server.
+POP3 error: cannot open %s for writing.
+Can not configure project: Missing configure script in %s.
+"Are you sure you want to remove package ""%s""?"
+You must enter a name for the server.
+"Enter Passphrase
+%s The passphrase for this key was bad, please try again!"
+Recording audio tracks on a rewritable disc is not advised.
+"Not enough space available on the disc in ""%s""."
+"Please select branches to delete
+Git: Deleted selected tags."
+What is the reason for this?
+Please insert a disc that is not copy protected.
+Symbol Database Plugin for Anjuta (unstable).
+"This is %(appname)s - Version: %(version)s
+Print output messages."
+Stations are only available to paying Last.fm subscribers.
+Please make sure your version of Anjuta is up to date.
+You can click on the project type you wish to start from here.
+Move ~a onto an empty tableau slot.
+Select this to split the track where a silence is present.
+"The match ""%s"" was not found."
+Using Banshee and iTunes with the same iPod is not recommended.
+"Application performance profiler
+Powerful debugging tool."
+System will attempt to resubmit the message until you delete it.
+"Keep target path:
+Keep relative target path for installing it."
+Please replace the disc with a disc holding data.
+Are you sure you want to remove the following source file from the project?
+See for how to change this key combination.
+"Single layout view
+Available new pluginviews
+The default plugin layout for the top panel."
+"This dialog contains tabs for each section, select the Plugins tab."
+An link to the project web page if provided.
+Source: %s The source file will not be deleted from file system.
+"The disc in ""%s"" needs to be reloaded."
+Scanning over the network may be slower than scanning a local file system.
+You have finished all Atomix levels.
+Revert changes to your working copy.
+The file '%s' on the disk is more recent than the current buffer.
+The user ID is of unknown validity.
+"From the drop-down list Select a disc, select the disc you want to erase."
+"Width of the main window
+The width of the main window."
+Additional C preprocessor flags for this target.
+Unplayed games do not need to be represented.
+From the Hashing algorithm to be used drop-down list select the algorithm you want to use.
+"Pane to display data projects
+The pane to display with data projects."
+"Are you sure you want to remove the element ""%s"" from the project?"
+"Banshee can rebuild your database, but some settings might be lost."
+"Unable to export filter %s, an error occurred."
+Such a disc cannot be copied without the proper plugins.
+"The menu bar contains File, Edit, Bookmarks, View, and Help menus."
+"The destination mailbox of the filter ""%s"" is ""%s""."
+"When You Start Brasero
+When you start Brasero the following window will be shown."
+A tool with the same name already exists!
+"Failed to save cache file ""%s"": %s."
+"_Rename for Full Windows Compatibility
+_Disable Full Windows Compatibility
+Do you want to replace ""%s""?"
+"Shared Library (Libtool)
+Add support to compile shared and static libraries with Libtool."
+Common additional C preprocessor flags for all targets in this group.
+Subversion: Committing changes to the repository...
+"Failed to Login to Last.fm
+Either your username or password is invalid."
+"Before using this new configuration, the default one needs to be removed."
+"Program attached
+Attaching to process: %d...
+A process is already running."
+You are searching for a five.
+"About Accerciser
+Accerciser was written by Eitan Isaacson (eitan@ascender.com)."
+Gnome editor is not defined in your preferred applications.
+"Server error, please try again later."
+Could not find the JHBuild library directory.
+Directories cannot be added to video discs.
+First you may choose EditPreferences to activate the Preferences dialog.
+"_Discard File
+_Add File
+Do you want to search for audio files inside the directory?"
+Mailbox %s does not appear to be a Mh mailbox.
+"You may use ""New IMAP subfolder"" later to add a mailbox with this name."
+"Error Initializing MTP Device Support
+There was an error intializing MTP device support."
+"Most of the time the register function name contains the word ""register""."
+Directories cannot be added to an audio disc.
+"Please select a different directory, or try upgrading to a newer version of Anjuta."
+Would you like to terminate it and attach the new process?
+"A file named ""%s"" cannot be written: %s."
+Please enter the URL of the repository to pull from.
+Choose Create a VCD to create a Video CD.
+"Plugin View Management
+Accerciser has two modes for viewing plugins."
+The request is missing a required parameter.
+It is possible to divide a track in multiple parts.
+It will ask for details of the initial structure for the application.
+"Amazon MP3 Store Source
+Browse, search, and purchase music from the Amazon MP3 store."
+Press Tab to show completions for the current command.
+Please select a project backend to open %s.
+"Animations
+Whether or not to animate card moves."
+"Height of main window
+The height of the main window."
+This label will be shown as the name of the disc.
+Do you want to continue with full Windows compatibility disabled?
+"If the path is relative, it is relative to the home directory."
+Please ensure Banshee has been cleanly installed.
+NOTE: Such a file hierarchy is known to work on linux.
+A file with this name already exists in the folder.
+Disk Usage Analyzer is a graphical application for analysing storage device usage.
+This part is not a real PGP signature.
+"Dubious entry
+New project creation has failed."
+"The selection includes simple generic, flat (no subdirectory), GTK+, GNOME, Java, Python projects and more."
+This station is only available to subscribers.
+This title will be shown as the name of the disc.
+"The signature, if there is any, cannot be checked."
+Insert the CD or DVD to be checked into the drive.
+Data removed from fast blanked media can still be recovered with special tools.
+"DAAP Sharing
+Browse and listen to music shared over your local network."
+See the GNU General Public License for more details.
+Do you really want to attach this file as reference?
+You need JHBuild from 2012-11-06 or later.
+The source file will not be deleted from the file system.
+"The default game, Klondike, is being started instead."
+"Default user name used in new project
+If empty, the current user name is used."
+Appending audio tracks to a CD is not advised.
+Are you sure you want to remove the following module from the project?
+"Notification Area Icon
+Display an icon in the notification area for controlling Banshee."
+"You may use ""New IMAP Folder"" later to add this folder again."
+"Insert predefined macros into Editor
+Macro Plugin
+Patch Plugin
+Patches files and directories."
+Make sure Anjuta is installed correctly.
+Please replace the disc with a recordable CD or DVD.
+Accerciser is an interactive Python accessibility explorer for the GNOME desktop.
+Save the changes of current project before closing?
+From this drop-down list you can only select File image.
+Any unsaved changes will be lost.
+"Whether to use ""-use-the-force-luke=dao"" flag with growisofs
+Whether to use ""-use-the-force-luke=dao"" flag with growisofs."
+Please check the path to this target's profiling data file.
+"Are you sure you want to remove the shortcut ""%s"" from the project?"
+"Highlight fill color
+The color and opacity of the highlight fill."
+"Reply to all recipients of the current message
+Reply to _Group..."
+The contents of the project changed since it was saved.
+"Window position
+Window position (x and y)."
+You may also mention what is the required version of the package.
+Move your mouse over the rings chart displays more details about the folder and subfolders.
+From Video formats select the format of the video that will be burned.
+Could not save file %s: %s.
+Whether the toolbar should be visible in main window.
+"Sending error: %s
+You have new mail."
+The user ID is never valid.
+This plugin is a fully-fledged IPython console.
+"UPnP Client
+Browse and play music and videos shared over your local network using UPnP."
+Invalid or corrupted anjuta plugins profile.
+Please replace the disc with a recordable DVD.
+Could not open the file %s.
+They should be relevant to the snippet content.
+The API key used by this application is invalid.
+"If you select a gradient, there will be two buttons for the color chooser."
+"A file named ""%s"" already exists."
+"Last.fm Scrobbling
+Last.fm scrobbling and context pane recommendations."
+Click on Copy to start the copying process.
+Files are currently being converted to another format.
+SMTP server cannot be reached.
+"Getting ready to start debugging session...
+No executable specified."
+No result found for this research.
+Do you want to replace it with the one you are saving?
+"In the text box, enter the title you want to give to the disc."
+Common additional Fortran compiler flags for all targets in this group.
+"No silence could be detected
+An error occured while detecting silences."
+"Changes to be committed
+Changed but not updated
+No staged files selected."
+Enables to set consistent sound levels between tracks.
+"Manual section:
+Section where are installed the man pages."
+Please install them and check the python path in the preferences.
+"Breakpoint number %s hit
+Function finished
+Debugger is ready."
+Place a two in the leftmost slot of row ~a.
+A list of URIs for partitions to be excluded from scanning.
+The signature could not be verified due to a missing key.
+Close it before you can modify filters.
+"To run the validator, first select an item in the accessibility tree."
+"Sound Menu Integration
+Control Banshee from the Sound Menu."
+Click on Pause on the toolbar or choose EditInsert a Pause.
+Are you sure you want to remove the following elements from the project?
+This mail address is already in this address book.
+All files need to be analysed to complete this operation.
+"Module: %s
+Package: %s
+The group will be deleted from the file system."
+Please replace the disc with a recordable CD.
+This group does not have enough members for radio.
+It is not possible to write with the current set of plugins.
+You can also select a recently used server instead of entering a new URL.
+"The filter ""%s"" is not compatible with the mailbox type of ""%s""."
+"MPRIS D-Bus interface
+Control Banshee using the MPRIS D-Bus interface."
+"File to syncronize the profile XML
+Failed to read '%s': XML parse error."
+"Git
+There are no branches available."
+"Please install ""packagekit-gnome"" package from your distribution, or install the missing packages manually."
+This will result in the removal of the old obsolete paths.
+Subversion: File will be removed on next commit.
+"Categories Manager
+The category ""%s"" already exists in the database!"
+A graph painter for the inheritance of the classes.
+"To save the project for later use, choose ProjectSave."
+"Device Support
+iPod Support
+Support for most iPod devices."
+"Do not rename the target with an optional prefix, used to avoid overwritting system program."
+Click on Data project in the main window or choose ProjectNew ProjectNew Data Project.
+"Enter new variable
+Are you sure you want to remove variable ""%s""?"
+See your operating system documentation for more information.
+The plugin is extensible with test schemas that define rules for validation.
+"Please enter a URL
+Add Remote
+Apply Mailbox Files
+No stash selected."
+"Clean All
+Cleaning whole of the Project:
+This file has not been saved."
+"Use external program from Anjuta
+Automake Build
+Basic autotools build plugin."
+"Choose charset
+File %s is not encoded in US-ASCII or UTF-8."
+Without mount points disk usage cannot be analyzed.
+"Import %s
+I_mport %s
+Do you want to import the session from '%s'?"
+"Unable to build user interface for tool editor
+Opening %s
+(output)
+(error)
+Running command: %s..."

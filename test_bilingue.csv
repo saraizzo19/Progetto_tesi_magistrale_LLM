@@ -1,0 +1,164 @@
+﻿Inglese;Italiano;Affidabilità
+It allows to use ownCloud as a storage location and online editor.;Consente di usare ownCloud per l'archiviazione e la modifica online.;0.858
+This file has not been saved.;Il file specificato non è stato trovato.;0.771
+"Alarms
+_Alert before due date:
+day(s).";"Avvisi
+Avverti prima della data di scadenza:
+giorno(i).";0.808
+"Are you sure you want to remove all the completed to-do items in the category ""%s""?";Eliminare tutti gli elementi «da fare» completati nella categoria «%s»?;0.848
+"Glade interface designer
+Task Manager
+Todo Plugin for Anjuta.";"Disegnatore di interfacce Glade
+Gestore compiti
+Plugin «da fare» per Anjuta.";0.755
+"The disc in ""%s"" is not supported.";Il disco in «%s» non è supportato.;0.881
+Usage: billreminderd [OPTIONS...] Options: --help, -h, -?\tShow this message.;Utilizzo: billreminderd [OPTIONS...] Options: --help, -h, -?\tMostra questo messaggio.;0.955
+Failed to create fifo file named %s.;Fallita la creazione di un file FIFO nominato «%s».;0.905
+"Build Project
+Building source directory of the Project:
+Unable to build Project.";"Genera progetto
+Genero la directory dei sorgenti del progetto:
+Impossibile eseguire il progetto.";0.832
+Shows the menu bar and the five types of project to choose from.;Contiene la barra dei menù e cinque tipi di progetti da poter scegliere.;0.867
+The second column lists how many nodes will be shown if the item is unfolded.;La seconda colonna mostra la quantità di nodi che verranno visualizzati all'apertura dell'elemento.;0.797
+Include this target in the distributed package.;Include questo obiettivo nel pacchetto distribuito.;0.927
+The data size is too large for the disc even with the overburn option.;La dimensione dei dati eccede la capacità del disco anche attivando l'opzione overburn.;0.791
+Could not get the right pipe for the process.;Impossibile ottenere la pipe giusta per il processo.;0.918
+"(pid=%d)
+Lock File found: Possibly the program was exited unexpectedly.";"(pid=%d)
+Trovato file di lock: Probabilmente il programma è uscito inaspettatamente.";0.941
+Please insert a recordable DVD with at least %i MiB of free space.;Inserire un DVD scrivibile con almeno %i MiB di spazio libero.;0.898
+Enables to check the integrity of files.;Consente a di controllare l'integrità dei file.;0.956
+Right-click on any of the plugins listed to configure it's view.;Fare clic con il tasto destro su qualsiasi plugin per configurarne la visualizzazione.;0.863
+View artist information from Wikipedia in the context pane.;Visualizza le informazioni dell'artista da Wikipedia nel pannello contestuale.;0.773
+No track information (artist, title, ...) will be written to the disc.;Nessuna informazione sulla traccia (artista, titolo...) verrà scritta sul disco.;0.897
+Click on the Check button to start the integrity check.;Fare clic sul pulsante Controlla per avviare il controllo di integrità.;0.83
+From the Image style drop-down list select how you want the image to be positioned.;Dall'elenco a discesa Stile immagine selezionare come posizionare l'immagine.;0.865
+They cannot be resumed automatically the next time Banshee is run.;Non verranno ripresi automaticamente al prossimo avvio di Banshee.;0.818
+"Stopping service failed
+Service was not running!";"Fallita l'interruzione del servizio
+Servizio non in esecuzione!";0.858
+Do you want to loose your changes and close it ?;Se sicuro di voler abbandonare i cambiamenti?;0.879
+From the Method drop-down list select the splitting method.;Dall'elenco a discesa Metodo, selezionare il metodo di divisione.;0.839
+Select one of the two plugins and click on Configure.;Selezionare uno dei dei plugin e fare clic su Configura.;0.919
+You can choose which plugins should be active for your project.;Si può scegliere quali plugin attivare per il proprio progetto.;0.959
+"Unable to edit script
+New accelerator...";"Impossibile modificare lo script
+Nuovo acceleratore...";0.874
+"Active Chart
+Which type of chart should be displayed.";"Grafico attivo
+Quale tipo di grafico deve essere visualizzato.";0.779
+"Section VCD type:
+Choose Create a SVCD to create a Super Video CD.";"Sezione Tipo VCD:
+Scegliere Crea un SVCD per creare un Super Video CD.";0.972
+"""%s"" is not a valid folder
+Could not analyze disk usage.";"«%s» non è una cartella valida
+Impossibile analizzare l'utilizzo del disco.";0.8
+"_Discard Project
+Select Files
+Do you really want to empty the current project?";Scegliendo di creare un nuovo progetto, i file selezionati saranno scartati.;0.77
+Common additional C++ compiler flags for all targets in this group.;Opzioni comuni aggiuntive del compilatore C++ per tutti gli obiettivi in questo gruppo.;0.828
+In essence, Accerciser is a next generation at-poke tool.;Essenzialmente, Accerciser è uno strumento at-poke di ultima generazione at-poke.;0.859
+"Import ‟{0}”
+iTunes® 7 introduced new compatibility issues and currently only works with other iTunes® 7 clients.";iTunes® 7 introduce nuovi problemi di compatibilità e attualmente funziona solo con altri client iTunes® 7.;0.929
+"There are no videos to write to disc
+There is no inserted disc to copy.";"Non è presente alcun brano da scrivere sul disco
+Aggiungere dei video.";0.802
+"Installing the Project:
+Unable to clean Project.";"Ripulisco la directory dei sorgenti del progetto:
+Impossibile eseguire il progetto.";0.81
+It focuses on providing simple and usable user interface, yet powerful for efficient development.;Tutto questo fornendo una interfaccia utente semplice e utilizzabile, ma potente per un sviluppo efficace.;0.882
+Are you sure you want to remove all the completed todo items?;Rimuovere tutti gli elementi «da fare» completati?;0.81
+Please insert a rewritable disc holding data.;Inserire un disco riscrivibile contenente dati.;0.779
+The file '%s' has been deleted on the disk.;Il file «%s» è stato eliminato dal disco.;0.912
+Fast blanking is a way of quickly erasing a disc.;La cancellazione veloce è un metodo per cancellare velocemente un disco.;0.799
+"Include in distribution:
+Include this target in the distributed package.";"Includere nella distribuzione:
+Includi questo obiettivo nel pacchetto distribuito.";0.954
+To find more information about Accerciser, please visit the Accerciser GNOME Live!;Per ulteriori informazioni su Accerciser occorre visitare la pagina Accerciser GNOME Live!;0.934
+"Could not get file info
+This file is too big.";"Impossibile ottenere le informazioni sul file%s"", ""This file is too big.";0.807
+The color and opacity of the highlight border.;I rettangolini nero e bianco reimpostano i colori.;0.799
+Interfaces that are supported by the selected accessible are shown as sensitive.;Le interfacce supportate dell'accessibile selezionato sono visualizzate come sensibili.;0.933
+"There is only one selected file (""%s"").";È stato selezionato un solo file («%s»).;0.924
+The plugin will test the selected accessible and all of its descendants.;Il plugin verificherà l'accessibile selezionato e tutti i suoi discendenti.;0.923
+"Compile
+Do you want to clear the list?";"Compila
+Si è sicuri di voler pulire la lista?";0.826
+Additional Fortran compiler flags for this target.;Opzioni aggiuntive del compilatore Fortran per questo obiettivo.;0.831
+There are unfinished jobs, please wait until they are finished.;Ci sono dei lavori non finiti, attendere fino a quando hanno finito.;0.838
+It doesn't appear to be a valid disc image or a valid cue file.;"Non sembra essere un file immagine di disco o un file ""cue"" valido.";0.812
+"Libtool support:
+Add support to compile shared and static libraries with libtool.";"Supporto a libtool:
+Aggiunge il supporto per compilare librerie condivise e statiche con libtool.";0.935
+Open an executable or attach to a process to start debugging.;Caricare un eseguibile o collegare un processo per iniziare il debug.;0.793
+The update occurs after 10 seconds of no keypress by user.;L'aggiornamento viene fatto dopo 10 secondi se l'utente non preme alcun tasto.;0.844
+Pressing ControlAltt will select the accessible of the widget that is under the pointer.;Premendo CtrlAltt verrà selezionato l'accessibile del widget che si trova sotto al puntatore.;0.797
+"Are you sure you want to remove the source ""%s"" from the project?";Rimuovere veramente il file sorgente «%s» dal progetto?;0.88
+If not, add it from the preferences.;In caso contrario, aggiungerla dalle preferenze.;0.778
+To view the available plugins, choose EditPlugins.;Per visualizzare i plugin disponibili, scegliere ModificaPlugin.;0.93
+"Scanning of %s failed: %s
+Local _mbox mailbox...
+Local Mail_dir mailbox...
+Local M_H mailbox...";"La scansione di ""%s"" è fallita: %s
+Casella _mbox locale...";0.807
+"Duplicate Artists
+Displayed are artists that should likely be merged.";"Artisti duplicati
+Quelli mostrati sono artisti che probabilmente dovrebbero essere uniti.";0.922
+Insert the erasable CD or DVD in your drive.;Sostituire il disco con un CD o DVD scrivibile.;0.802
+This may result in improper behaviour or instabilities.;Questo può risultare in comportamenti impropri o instabilità.;0.874
+View plugins in a single layout.;Visualizza i plugin in una disposizione unica.;0.856
+This window is the starting point for all of your projects.;Questa è la finestra iniziale per tutte le diverse tipologie di progetti.;0.856
+Monitors won't give you Vitamin D -- but sunlight will...;I monitor non ti danno la vitamina D, il sole invece sì...;0.927
+GnuPG is rebuilding the trust database and is currently unavailable.;GnuPG sta ricostruendo il database delle fiducie e al momento non è disponibile.;0.878
+Please insert a recordable CD or DVD.;Inserire un CD o un DVD scrivibile.;0.795
+"You can select ""Find in: All"" to search everywhere.";Selezionare «Trova in: Tutto» per cercare ovunque.;0.875
+A file chooser dialog will open.;"Aprire un file
+Per aprire un file, scegliere FileApri per visualizzare il dialogo Apri file.";0.753
+A 96 kbps WMA is equivalent to a 128 kbps MP3.;Un WMA a 96 kbps equivale ad un MP3 di 128 kbps.;0.989
+No third-party clients can connect to iTunes® music shares anymore.;Nessun client di terze parti può connettersi alla condivisione musicale di iTunes®.;0.906
+Stay entertained and up to date with podcasts and video podcasts.;Diverte e tiene aggiornato con i podcast, anche video.;0.8
+"Internet Archive
+Browse and search the Internet Archive's vast media collection.";"Archivio Internet
+Esplora e cerca nella vasta collezione multimediale dell'Archivio Internet.";0.839
+Note that the recipient must have proper permissions to see the `real' file.;"Si noti che il destinatario necessita di appropriati permessi per vedere il ""vero"" file.";0.883
+"Build Distribution
+Building the distribution package of the Project:
+Unable to auto generate.";"Genera distribuzione
+Genero il pacchetto di distribuzione del progetto:
+Impossibile autogenerare.";0.831
+Click on Audio project in the main window or choose ProjectNew ProjectNew Audio Project.;Nella finestra principale fare clic su Progetto audio oppure selezionare ProgettoNuovo progettoNuovo progetto audio.;0.937
+"Data Project
+Insert a blank CD-R/W or DVD-R/W into your drive.";"Progetto dati
+Inserire un CD-R/W o un DVD-R/W vuoto nel proprio masterizzatore.";0.783
+"No recently used resource found with URI ""%s""
+Unknown item
+_%d.";"Nessuna risorsa trovata utilizzata di recente con URI «%s»
+Oggetto sconosciutorecent menu label
+_%d.";0.791
+There aren't any available executable targets for this project.;Non ci sono obiettivi eseguibili disponibili per questo progetto.;0.885
+For more information, see the Wikipedia pages for SVCD and VCD.;Per maggiori informazioni, consultare le pagine di Wikipedia relative a SVCD e VCD.;0.987
+Common additional C compiler flags for all targets in this group.;Opzioni comuni aggiuntive del compilatore C per tutti gli obiettivi in questo gruppo.;0.836
+"Import Media to Library
+Your media library is empty.";"Importa file multimediali nella collezione
+La collezione multimediale è vuota.";0.769
+For information on symbol specifications, see section 4.5 of the gprof info page.;Per informazioni sulle specifiche di simbolo, vedere la sezione 4.5 della pagina di informazioni di gprof.;0.938
+Additional C++ compiler flags for this target.;Opzioni aggiuntive del compilatore C++ per questo obiettivo.;0.824
+A new recordable disc will be required once the one currently loaded has been copied.;È necessario un nuovo disco scrivibile una volta copiato quello presente.;0.836
+Subscribe to podcasts and stream or download episodes.;Si abbona ai podcast ed esegue o scarica gli episodi.;0.866
+Could not create CD ripping driver.;Impossibile creare il driver per l'estrazione del CD.;0.855
+"Automatically refresh channels
+Automatically refresh all channels at a regular interval.";"Aggiornare i canali automaticamente
+Aggiornare tutti i canali a intervalli regolari.";0.797
+NTSC: format mainly used in Americans, Canadians and Japanese televisions.;NTSC: formato usato principalmente nelle televisioni americane, canadesi e giapponesi.;0.976
+Click the New button to create your first note.;Fare clic su «Nuova» per creare la prima nota.;0.899
+Importing may or may not work as expected, or at all.;L'importazione può o non può funzionare come previsto, o affatto.;0.889
+Replacing it will overwrite its content (on the disc only).;Sostituendolo ne verrà sovrascritto il contenuto (solo sul disco).;0.812
+Could not detect any mount point.;Impossibile rilevare alcun punto di mount.;0.871
+Cannot load Global defaults and configuration files: %s.;Impossibile caricare i predefiniti globali e i file di configurazione: %s.;0.781
+The file '%s' has been deleted.;Il file «%s» è stato eliminato.;0.945
+"_Discard Changes
+Do you really want to create a new project and discard the current one?";"Scarta _modifiche
+Creare veramente un nuovo progetto e scartare quello corrente?";0.902
+Press Enter to execute any valid Python code.;Premendo Invio verrà eseguito ogni comando Python valido.;0.795

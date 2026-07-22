@@ -1,0 +1,756 @@
+﻿Inglese;Italiano;Affidabilità
+Please close the other instances of this message and try again.;Chiudere le altre istanze di questo messaggio e riprovare.;0.85
+The children of this directory will have 7 parent directories.;I discendenti di questa directory avranno 7 directory superiori.;0.821
+The report links errors to documentation about how to remedy common problems.;Il report collega gli errori alla documentazione riguardante i rimedi ai problemi più comuni.;0.922
+The security certificate for {0} is invalid.;Il certificato di sicurezza per {0} non è valido.;0.907
+Which Amazon MP3 storefront to use by default.;Quale facciata del negozio Amazon MP3 usare predefinitamente.;0.873
+There was an error whilst launching the debugger.;C'è stato un errore durante l'avvio del debug.;0.843
+"Online Sources
+Amazon MP3 Import
+Download and import music purchased from Amazon.com.";"Fonti in rete
+Importa Amazon MP3
+Scarica e importa musica acquistata da Amazon.com.";0.897
+%s: %s is not in mbox format.;"%s: ""%s"" non è nel formato mbox.";0.974
+Useful for concept albums and classical music.;Utile per i concept-album e la musica classica.;0.931
+Examine and remove any rejected files.;Esaminare e rimuovere ogni file respinto.;0.852
+Could not find a valid project backend for the directory given (%s).;Impossibile trovare un backend di progetto valido per la directory fornita (%s).;0.888
+"Should brasero filter hidden files
+Should brasero filter hidden files.";"Indica se filtrare i file nascosti
+Indica se filtrare i file nascosti.";0.751
+"Failed to show help
+Baobab
+A graphical tool to analyze disk usage.";"Visualizzazione dell'aiuto non riuscita
+Baobab
+Uno strumento grafico per analizzare l'utilizzo del disco.";0.898
+While the test is running, click the button again to cancel it.;Un'ulteriore pressione del pulsante arresterà l'esecuzione del test.;0.751
+Once you are done with all the modifications, click OK.;Una volta applicate tutte le modifiche, fare clic su OK.;0.837
+"Import media from a variety of sources
+Import Playlist...";"Importa multimedia da diverse sorgenti
+Importa scaletta...";0.794
+"Mail Files
+Problem Creating Mailboxes %s
+You've successfully set up Balsa.";"File di posta
+Problema nella creazione delle caselle %s
+Balsa è stato configurato con successo.";0.758
+The signature could not be verified due to an invalid crypto engine.;Impossibile verificare la firma perché il motore crittografico è corrotto.;0.773
+"Unable to open the file: %s
+Unable to open %s.";"Impossibile aprire il file: %s
+Impossibile aprire «%s».";0.931
+"Recently played games
+A list of recently played games.";"Partite giocate recentemente
+Un elenco delle partite giocate recentemente.";0.854
+"Found level '%s' in: %s
+Atomix
+A puzzle game about atoms and molecules
+translator-credits
+Congratulations!";"Trovato livello %s in: %s
+Atomix
+Un rompicapo con atomi e molecole.";0.897
+"Do not install:
+Build but do not install the target.";"Non installare:
+Genera ma non installare l'obiettivo.";0.872
+Please check that the track's location is accessible by the system.;Verificare che la posizione della traccia sia accessibile dal sistema.;0.76
+"See above for details
+CVS command is running — please wait until it finishes!";"Vedere sopra per dettagli
+Il comando CVS è in esecuzione — attendere fino a quando finirà.";0.866
+Transferring POP message to %s failed.;"Trasferimento del messaggio POP in ""%s"" fallito.";0.929
+"Data copy error
+Mailbox %s does not appear to be an Mbox mailbox.";"Errore di copia dei dati
+La casella ""%s"" non sembra di tipo Mbox.";0.762
+"Pick a Color
+Directory could not be created (%s)
+Error while loading the project.";"Scelta colore
+Impossibile creare la directory (%s)
+Errore nel caricare il progetto.";0.891
+"Are you sure you want to remove the target ""%s"" from the project?";Rimuovere veramente la scorciatoia «%s» dal progetto?;0.896
+Cannot start terminal for debugging.;Impossibile avviare il terminale per il debug.;0.845
+"Apple device Support
+Support for most iPod/iPhone/iPad devices.";"Supporto dispositivi Apple
+Supporto per molti dispositivi iPod, iPhone e iPad.";0.943
+You may bypass the Preferences dialog by using drag and drop to move plugin tabs.;È possibile ignorare la finestra Preferenze usando il trascinamento per muovere le schede dei plugin.;0.769
+Do you want to do that ?;Si è sicuri di volere ciò?;0.781
+Click on Video project in the main window or choose ProjectNew projectNew video project.;Nella finestra principale fare clic su Progetto video oppure scegliere ProgettoNuovo progettoNuovo progetto video.;0.926
+"unknown error
+forwarded message
+Message from %s, subject: ""%s""
+(URL)
+Attach file
+Attaching message failed.";"Provare di nuovo
+Errore: servizio non disponibile
+Si è verificato un errore inviando un'immagine: %s.";0.758
+Are you sure you want to remove the following target from project?;Rimuovere il seguente obiettivo dal progetto?;0.923
+Make sure 'gdb' is installed on the system.;Assicurarsi che «gdb» sia installato nel sistema.;0.975
+The source file will be deleted from the file system.;Il file sorgente sarà eliminato dal file system.;0.909
+Then click the Validate button to start the test.;Premere quindi il pulsante Validazione per avviare il test.;0.907
+Pressing ControlAlta will select the last focused widget's accessible in Accerciser.;Premendo CtrlAlta verrà selezionato l'ultimo widget dell'accessibile selezionato in Accerciser.;0.861
+To see more of the tree at startup, choose a greater depth.;Per vedere una parte maggiore dell'albero all'avvio, scegliere una profondità maggiore.;0.793
+"Could not obtain backup filename
+Loading
+Saving...";Impossibile recuperare il nome del file di backup.;0.813
+"Quick open operations
+The program is already running.";"Operazioni apertura veloce
+Il programma è in esecuzione.";0.88
+"The CD/DVD copy options dialog will be shown; make the desired modifications (see for more information).";Il dialogo Opzioni per la copia di CD/DVD viene mostrato.;0.817
+"Could not open %s: %s
+The file '%s' is read-only!";"Impossibile aprire «%s»: %s
+Il file «%s» è di sola lettura.";0.913
+"Balsa Filters
+Filter ""%s"" has no condition.";"Filtri di Balsa
+Il Filtro ""%s"" non ha condizioni.";0.814
+"The option not to recognize ""format=flowed"" text has been removed.";"L'opzione per non riconoscere il testo ""formato=distribuito"" è stata rimossa.";0.769
+Next select a schema to use for the test.;Occorre quindi selezionare uno schema di test.;0.811
+"Established under name '%s'
+Failed to register: %s
+Name collision, picking new name '%s'.";Il nome «%s» non è valido perché contiene almeno uno dei seguenti caratteri: %s.;0.763
+"Please wait...
+Scanning of %s failed: %s Check network connectivity.";"La scansione di ""%s"" è fallita: %s Controllare la connessione di rete.";0.858
+This information will be written to the disc using CD-TEXT technology.;Questa informazione sarà scritta sul disco usando la tecnologia CD-TEXT.;0.944
+Selecting an accessible makes it available for further inspection using the loaded plugins.;La selezione di un elemento accessibile ne rende disponibile l'analisi successiva per mezzo dei plugin caricati.;0.826
+"CVSROOT
+Module
+Vendor
+Release
+Are you sure that you do not want a log message?";"CVSROOT
+Modulo
+Fornitore
+Rilascio
+Si vuole un messaggio di registro?";0.754
+Move ~a onto an empty reserve slot.;Sposta ~a su un posto vuoto nella riserva.;0.815
+Imports from the current working directory or Python path are also allowed.;È anche possibile l'importazione dalla directory di lavoro o da un percorso Python.;0.873
+"The possible values are:
+To split the track, click on Slice.";"Le modalità disponibili sono:
+Per dividere la traccia, fare clic su Dividi.";0.775
+Do you wish to discard the currently displayed values and reload configuration from disk?;Scartare i valori attualmente mostrati e ricaricare la configurazione dal disco?;0.799
+"Accerciser Main Window
+Shows main window.";"Finestra principale di Accerciser
+Visualizza la finestra principale .";0.923
+"Use default GNOME terminal profile
+You must provide a tool name!";"Utilizzare il profilo predefinito del terminale di GNOME
+Occorre fornire un nome per lo strumento.";0.871
+Interrupting the process may make disc unusable.;Interrompere il processo può rendere il disco inutilizzabile.;0.847
+"Cannot execute gnome-terminal
+Cannot start terminal for debugging.";"Impossibile eseguire gnome-terminal
+Errore: Impossibile avviare il terminale per il debugging.";0.887
+"Action
+Visible
+Sensitive
+System:
+The ""%s"" utility is not installed.";"Azione
+Visibile
+Sensibile
+Sistema:
+L'utilità «%s» non è installata.";0.897
+Sync your Android, iPod, and other devices.;Sincronizza Android, iPod e altri dispositivi.;0.851
+Those names should be changed and truncated to 64 characters.;Quei nomi dovrebbero essere modificati e limitati a 64 caratteri.;0.935
+Under this section you will find a list view of all the available plugins.;In questa sezione è contenuto un elenco di tutti i plugin disponibili.;0.956
+If you choose to create a new project, all changes made will be lost.;Se si sceglie di creare un nuovo progetto, tutte le modifiche andranno perse.;0.974
+PAL/SECAM: format mainly used in European televisions.;PAL/SECAM: formato usato principalmente nelle televisioni europee.;0.98
+Double click a row in the table to show the associated accessible in the tree.;Un doppio clic su una riga della tabella mostrerà il relativo accessibile nell'albero.;0.908
+When Accerciser is first run, most plugins will reside here.;Quando Accerciser viene avviato per la prima volta, molti plugin risiedono qui.;0.926
+The following section explains the five types of project that you can create with Brasero.;La seguente sezione descrive le diverse tipologie di progetti che è possibile creare con Brasero.;0.912
+Allow to execute program without debugger.;Permette di eseguire il programma senza il debug.;0.93
+"Default window height
+The window height value.";"Altezza predefinita della finestra
+Il valore dell'altezza della finestra.";0.912
+Could not find a valid project backend for the given directory (%s).;Impossibile trovare un backend di progetto valido per la directory fornita (%s).;0.89
+From the menu bar, choose ToolsCheck Integrity, or press CtrlF.;Dalla barra dei menù, scegliere StrumentiControllo integrità o premere CtrlF.;0.862
+There is no plugin, default action, or application configured to handle this file type.;Non ci sono plugin, azione predefinita o applicazione configurati per gestire questo tipo di file.;0.921
+"Can not compile ""%s"": No compile rule defined for this file type.";Impossibile compilare «%s»: nessuna regola di compilazione definita per questo tipo di file.;0.895
+"Installation directories:
+List of custom installation directories used by targets in this group.";"Directory d'installazione:
+Elenco di directory di installazione personalizzate utilizzate dagli obiettivi di questo gruppo.";0.841
+Do you want to save your change to the existing category?;Vuoi salvare le modifiche nella categoria esistente?;0.895
+Additional Vala compiler flags for this target.;Opzioni aggiuntive del compilatore Vala per questo obiettivo.;0.834
+Some important programs or development packages required to build this project are missing.;Mancano alcuni programmi o pacchetti di sviluppo importanti richiesti per la generazione di questo progetto.;0.904
+This option is not implemented yet.;Questa opzione non è stata ancora implementata.;0.918
+Please insert a recordable CD or DVD with at least %i MiB of free space.;Inserire un CD o un DVD scrivibile con almeno %i MiB di spazio libero.;0.896
+"You can use %% to get a ""%"" character.";Si può utilizzare «%%» per ottenere un carattere «%».;0.956
+Some files don't have a suitable name for a fully Windows-compatible CD.;Alcuni file non hanno un nome adatto a un CD compatibile con sistemi Windows.;0.96
+Address could not be written to this address book.;L'indirizzo non può essere scritto in questa rubrica.;0.811
+"Audio Project
+This section explains how to create an audio CD.";"Progetto audio
+Questa sezione spiega come creare un CD audio.";0.982
+"Target: %s
+Are you sure you want to remove the following source file from project?";"Obiettivo: %s
+Rimuovere il seguente file sorgente dal progetto?";0.896
+The primary notebook is the place where are created new notes.;Il taccuino principale è il posto dove vengono create le nuove note.;0.777
+"Set _Default Preferences
+But I prefer tea.";"Imposta opzioni _predefinite
+Ma io preferisco il tè.";0.9
+Anjuta is very extensible with plugins.;Usando i plugin è possibile estendere Anjuta secondo le proprie esigenze.;0.778
+Both are required for autocompletion in python files.;Entrambi sono richiesti per il completamento automatico nei file python.;0.8
+There are several plugins you can choose from.;Sono disponibili diversi plugin da poter scegliere.;0.972
+If you close without saving, your changes will be discarded.;Se chiudi senza salvare, le modifiche andranno perse.;0.824
+CD-RW audio discs may not play correctly in older CD players and CD-TEXT won't be written.;I dischi audio CD-RW potrebbero non essere utilizzabili con vecchi lettori CD.;0.902
+Could not attach the file %s: %s.;Impossibile caricare il file: «%s» (%s).;0.919
+Removing the preferred plugin will let Anjuta prompt you again to choose different plugin.;La rimozione del plugin preferito farà sì che ne venga richiesto uno diverso.;0.847
+The decryption cannot be performed because this message is displayed more than once.;La decifrazione non può essere effettuata perché questo messaggio è visualizzato più di una volta.;0.843
+Please make sure they are installed properly before generating the project.;Assicurarsi che siano installati correttamente prima di generare il progetto.;0.867
+The maximum number of results has been reached.;Il numero massimo di risultati è stato raggiunto.;0.947
+"Installation failed: %s
+The ""%s"" package is not installed.";"Installazione fallita: %s
+Il pacchetto «%s» non è installato.";0.973
+"Simple notebook for GNOME
+Take notes and export them everywhere.";"Semplice taccuino per GNOME
+Prendi appunti ed esportali ovunque.";0.808
+In the text box, enter a label to identify the disc.;Nella casella di testo, digitare un'etichetta per identificare il disco.;0.856
+Please check the preferences or install Valgrind package.;Controllare le preferenze o installare il pacchetto di Valgrind.;0.898
+"The file with pathname ""%s"" is not a directory.";"Il file con percorso ""%s"" non è una directory.";0.966
+"Languages:
+Select the languages for which you want to use this snippet.";Selezionare il linguaggio per cui aggiungere una snippet o una snippet nel gruppo di linguaggi.;0.832
+The role of the name is purely informative.;Il ruolo del nome è puramente informativo.;0.882
+"Detaching the process…
+Failed to create FIFO file named %s.";"Scollegamento dal processo…
+Creazione di un file FIFO nominato «%s» non riuscita.";0.951
+"New version saved as ""%s""
+Could not unlink file %s: %s
+Cannot open mailbox.";Impossibile eseguire «%s»: posta non inviata.;0.754
+"Scintilla Editor
+The file '%s' has been changed.";Il file «%s» è stato cambiato.;0.833
+"Disc Copy
+Insert the CD or DVD you wish to copy into your drive.";"Copia disco
+Inserire il CD o il DVD da copiare nel lettore.";0.863
+"Select Path
+The selected path is already selected for indexing and wasn't added.";"Seleziona percorso
+Il percorso selezionato è già incluso nell'indicizzazione e non è stato aggiunto.";0.77
+"Parsing a message part failed: %s
+Possible disk space problem.";"L'analisi di una parte del messaggio è fallita: %s
+Possibile problema di spazio su disco.";0.825
+The extension will be added according to the type.;L'estensione sarà aggiunta in accordo al tipo.;0.839
+"DVD and Audio CD Support
+Watch DVDs, listen to and rip Audio CDs.";"Supporto DVD e CD audio
+Visiona i DVD, ascolta ed estrae i CD audio.";0.866
+"MTP Media Player Support
+Support for MTP devices, including many Creative Zen devices.";"Supporto riproduttore multimediale MTP
+Supporto per i dispositivi MTP, inclusi molti dispositivi Creative Zen.";0.953
+There are opened filter run dialogs, close them before you can modify filters.;Chiuderle per poter modificare i filtri.;0.82
+You can start it by clicking the button below.;Per avviarlo fare clic sul pulsante qui sotto.;0.869
+Appending new files to a multisession disc is not advised.;Non è consigliato aggiungere nuovi file a un disco multi-sessione.;0.847
+"Key: %s
+%s Please enter the passphrase for the secret key!";"Chiave: %s
+Inserire la passphrase per la chiave segreta.";0.881
+To search for optional terms, use OR.;Per cercare termini opzionali, usare OR.;0.833
+The signature is valid but the key used to verify the signature has been revoked.;La firma è valida ma la chiave usata per verificarla è stata revocata.;0.927
+"Automatically refresh channels interval
+The refresh rate for when to refresh all channels.";"Intervallo di rilettura automatica
+La frequenza con cui rileggere tutti i canali.";0.762
+You should select MIME mode if the complete message shall be protected.;Per proteggere l'intero messaggio bisognerebbe selezionare la modalità MIME.;0.903
+"Horizontal split
+Position of the horizontal split of the main window.";"Divisione verticale
+Posizione della divisione verticale della finestra principale.";0.857
+"A typical value is ""sudo %s"" or ""su -c %q"".";Un valore tipico è «sudo %s» o «su -c %q».;0.987
+Group: %s The group will not be deleted from file system.;Gruppo: %s Il gruppo non sarà eliminato dal file system.;0.964
+The color name set here will be used as the color when creating new notes.;Il colore impostato qui verrà usato come predefinito quando verranno create nuove note.;0.861
+"Couldn't create a directory: mkdir() failed on pathname ""%s"", with error ""%s"".";"Impossibile creare una directory: mkdir() ha fallito sul percorso ""%s"".";0.945
+If you choose to create a new project, all files already added will be discarded.;Scegliendo di creare un nuovo progetto, tutti i file già aggiunti verranno scartati.;0.92
+"Confirm Rebuild iPod Database
+Rebuilding your iPod database may take some time.";"Conferma ricostruzione database iPod
+La ricostruzione del database iPod potrebbe richiedere tempo.";0.945
+Do you still want to stop the debugger?;Si vuole veramente fermare il debugger?;0.853
+Please make sure Anjuta documentation package is install.;Controllare che il pacchetto della documentazione di Anjuta sia installato.;0.86
+If you do not save, all your changes will be lost.;I tuoi cambiamenti andranno persi se non salvi.;0.88
+"I_mport Session
+Click here to import its contents
+Please wait while the project is loading.";"I_mporta sessione
+Fare clic qui per importare i contenuti
+Attendere mentre il progetto viene caricato.";0.752
+"Right plugin view
+This is one of the two default plugin views.";"Vista plugin destro
+Questa è una delle due viste predefinite dei plugin.";0.781
+Evolution's address book, memos and tasks.;Rubrica, memo e compiti di Evolution.;0.891
+Only one directory can be specified.;Può essere specificata una sola directory.;0.853
+Display the results as a ring chart or a treemap chart.;Visualizzare i risultati su un grafico ad anelli o ad albero.;0.862
+"Couldn't check out the supplied URI ""%s"".";Impossibile fare il checkout dell'URI fornito «%s».;0.835
+PackageKit is required for installing missing packages.;PackageKit è richiesto per installare i pacchetti mancanti.;0.955
+"Additional objects:
+Additional object files for this target.";"Oggetti aggiuntivi:
+File di oggetti aggiuntivi per questo obiettivo.";0.864
+A data integrity test will begin as soon as the disc is inserted.;La verifica dell'integrità dei dati inizierà appena verrà inserito il disco.;0.866
+Additional Yacc or Bison parser generator flags for this target.;Opzioni aggiuntive dei generatori di analizzatori Yacc e Bison per questo obiettivo.;0.789
+"Brasero Main Window
+The Brasero main window.";"Finestra principale di Brasero
+La finestra principale di Brasero.";0.928
+Various instruments for viewing and controlling an interface are available under each expander.;Gli strumenti per visualizzare e controllare le interfacce sono disponibili mediante gli espansori.;0.754
+"X position of main window
+The stored position of the main window, the X coordinate.";"Posizione X della finestra principale
+La posizione memorizzata della finestra principale, coordinata X.";0.91
+"Git version control
+API Help
+Devhelp Plugin for Anjuta.";"Controllo di versione Git
+Aiuto API
+Plugin Devhelp per Anjuta.";0.931
+This target does not have any profiling data.;Questo obiettivo non ha alcun dato di profilo.;0.757
+"Default window width
+The window width value.";"Larghezza predefinita della finestra
+Il valore della larghezza della finestra.";0.876
+"Torrent Downloader
+Support downloading BitTorrent files from podcasts.";"Scaricatore Torrent
+Supporto allo scaricamento di file BitTorrent dai podcast.";0.963
+Type them separated by a single space.;Digitarli separati da un singolo spazio.;0.805
+Insert a blank CD or DVD into your drive.;Inserire un CD o un DVD vuoto nel proprio masterizzatore.;0.786
+There are not enough neighbours for this station.;Non c'è abbastanza vicinato per questa stazione.;0.929
+Choose Add AC3 audio stream to add an AC-3 Dolby Digital stream to the disc.;Scegliere Aggiungere flusso audio AC3 per aggiungere un flusso AC-3 Dolby Digital al disco.;0.921
+"Getting ready to start debugging session…
+The program is attached.";"Preparazione all'avvio della sessione di debug…
+Il programma è in esecuzione.";0.832
+The streaming system is offline for maintenance, please try again later.;Il sistema di streaming è fuori rete per manutenzione, riprovare più tardi.;0.826
+This can be a problem when writing DVDs or large images.;Potrebbe essere un problema nel masterizzare DVD o immagini di grandi dimensioni.;0.859
+"Missing components
+Unable to build project assistant user interface reading %s.";"Componenti mancanti
+Impossibile generare l'interfaccia utente dell'assistente progetto leggendo «%s».";0.846
+An image of the disc has been created on your hard drive.;Un'immagine del disco è stata creata nel disco fisso.;0.816
+New project has been created successfully.;Il nuovo progetto è stato creato con successo.;0.978
+"_Search Directory
+""%s"" does not have a suitable type for video projects.";"Cerca _directory
+«%s» non dispone di un tipo adatto per i progetti video.";0.898
+Also note that any playlists you have on your iPod will be lost.;Notare che tutte le scalette presenti sull'iPod verranno perdute.;0.755
+Anjuta is unable to attach to itself.;Anjuta non può collegarsi a sé stesso.;0.862
+"Usage: billreminder [OPTIONS...]
+Displays the version number for this application.";"Utilizzo: billreminder [OPZIONI...]
+Visualizza il numero di versione di questa applicazione.";0.841
+"_Resolve Conflicts...
+Resolve conflicts in your working copy.";Risolve i conflitti nella propria copia di lavoro.;0.836
+Project creation could fail if some files cannot be written.;La creazione del progetto potrebbe fallire se qualche file non può essere scritto.;0.967
+An error prevented the signature verification.;Un errore ha impedito la verifica della firma.;0.904
+If you don't save, changes will be permanently lost.;Se non si salva, le modifiche andranno perse per sempre.;0.894
+"_Update...
+Sync your local copy with the Subversion tree
+Copy Files/Folders...";"_Aggiorna...
+Sincronizzare la propria copia locale con l'albero Subversion
+Copia file/cartelle...";0.851
+There is no recordable disc inserted.;Non è inserito alcun disco scrivibile.;0.772
+"Debugger connected
+Program attached
+Attaching to process: %d...
+A process is already running.";"Debug connesso
+Programma collegato
+Collegamento al processo: %d...
+Un processo è già in esecuzione.";0.87
+Additional Objective C compiler flags for this target.;Opzioni aggiuntive del compilatore Objective C per questo obiettivo.;0.86
+"_Patch…
+Import an existing autotools project to Anjuta
+Please select a project backend to use.";"_Patch…
+Importa un progetto autotools esistente in Anjuta
+Selezionare un backend di progetto da usare.";0.894
+"GnomeCard Address Book
+Configure Balsa
+Use Balsa as default email client?";"Rubrica GnomeCard
+Configura Balsa
+Usare Balsa come applicazione di posta predefinita?";0.759
+"Internet Radio
+Listen to and organize Internet Radio stations.";"Radio Internet
+Ascolta e organizza le stazioni radio di Internet.";0.976
+"Account details are needed before you can connect to Last.fm
+No network connection detected.";"Richiesti i dettagli dell'account per potersi connettere a Last.fm
+Nessuna connessione di rete individuata.";0.903
+"Your search for ""{0}"" did not match any files on your computer.";La ricerca di «{0}» non ha prodotto alcun risultato nei file sul computer in uso.;0.812
+Please insert a recordable CD with at least %i MiB of free space.;Inserire un CD scrivibile con almeno %i MiB di spazio libero.;0.899
+"The disc in ""%s"" is not rewritable.";Il disco in «%s» non è riscrivibile.;0.895
+Banshee can build a new database for you.;Banshee può creare un nuovo database.;0.941
+The program will run without a terminal.;Il programma sarà eseguito senza un terminale.;0.955
+"Utilities
+BPM Detection
+Detect the beats per minute (BPM) of your music.";"Utilità
+Rilevamento BPM
+Rileva i battiti per minuto (BPM) della musica.";0.819
+Face header file %s contains binary data.;Il file di intestazione Face %s contiene dati binari.;0.864
+"Enable ""-immed"" flag with cdrecord
+Whether to use ""-immed"" flag with cdrecord.";"Abilita flag ""-immed"" con cdrecord
+Indica se usare il flag ""-immed"" con cdrecord.";0.941
+"Vala support Plugin
+Vala support plugin, adds code completion.";"Esempio Vala
+Un plugin di esempio scritto in Vala.";0.792
+"Git: Pushing...
+Git: Rebasing
+Git: File removed.";"Git: invio...
+Git: cambio base
+Git: file rimosso.";0.861
+"Pane to display audio projects
+The pane to display with audio projects.";"Riquadro per visualizzare i progetti audio
+Il riquadro da visualizzare con i progetti audio.";0.78
+"_Eject when done importing
+When an audio CD has been imported, automatically eject it.";Quando un CD audio è stato importato, sarà espulso automaticamente.;0.822
+This option is mainly useful for integration use with other applications.;Quest'opzione è utile per l'integrazione con altre applicazioni.;0.95
+--version, -v\t\tDisplays the version number for this application.;--version, -v\t\tMostra il numero della versione di questo programma.;0.867
+"Save and Log In
+Sign up for Last.fm
+Last.fm username or password is invalid.";"Salva e accedi
+Iscriviti a Last.fm
+Il nome utente o la password di Last.fm non sono validi.";0.887
+"Search service started
+Starting service failed
+Service is already running!";"Servizio di ricerca avviato
+Avvio del servizio fallito
+Servizio già in esecuzione!";0.782
+This artist does not have enough fans for radio.;Questo artista non ha abbastanza ammiratori per la radio.;0.931
+"The disc in ""%s"" is empty.";Il disco in «%s» è vuoto.;0.904
+Press the button in the top-right of the main window and select Scan Folder….;Fare clic sul pulsante in alto a destra delle finestra principale e selezionare Analizza cartella.;0.852
+"Program
+No file or project currently opened.";"Programma
+Nessun file o progetto attualmente aperto.";0.945
+Additional C compiler flags for this target.;Opzioni aggiuntive del compilatore C per questo obiettivo.;0.834
+"Last.fm Radio
+Last.fm streaming radio for paid subscribers.";"Radio Last.fm
+Radio in streaming di Last.fm per abbonati paganti.";0.929
+The size of the file is over 2 GiB.;La dimensione del file è oltre i 2 GiB.;0.962
+Usually this process is longer than using an external MD5 file.;Questo processo, solitamente, è più lungo rispetto l'utilizzo di un file MD5 esterno.;0.978
+For the best value, check the CD/DVD case.;Per il valore ottimale, consultare la custodia del CD/DVD.;0.77
+"Pane to display video projects
+The pane to display with video projects.";"Riquadro per visualizzare i progetti video
+Il riquadro da visualizzare con i progetti video.";0.79
+The signature is valid but the key used to verify the signature has expired.;La firma è valida ma la chiave usata per verificarla è scaduta.;0.86
+"Importers for Amarok, Rhythmbox and iTunes
+Import your library from Amarok, Rhythmbox or iTunes.";"Importa da Amarok, Rhythmbox e iTunes
+Importa la collezione da Amarok, Rhythmbox o iTunes.";0.932
+Warning: You should choose a name for the snippet!;Il nome serve solo come promemoria per lo scopo della snippet.;0.752
+Check if you have write access to the project directory.;Controllare di avere accesso in scrittura alla directory del progetto.;0.919
+"See above for details
+Add Breakpoint…
+Running…
+_Debug Process…
+Debug _Remote Target…
+Add source paths…
+Debugger Command…
+Unable to execute: ""%s"".";"Vedere sopra per dettagli
+Aggiungi punto di interruzione…
+Esecuzione…
+_Debug processo…
+Debug obiettivo _remoto…
+Aggiungi percorsi sorgente…
+Comando debug…
+Impossibile eseguire: «%s».";0.831
+I do not yet know how to remove it from remote server.;Non è ancora noto il modo di rimuoverla dal server remoto.;0.78
+POP3 error: cannot open %s for writing.;"Errore POP3: impossibile aprire ""%s"" per scrivere.";0.959
+Can not configure project: Missing configure script in %s.;Impossibile configurare il progetto: manca lo script di configurazione in «%s».;0.852
+"Are you sure you want to remove package ""%s""?";Rimuovere veramente il pacchetto «%s» dal progetto?;0.804
+You must enter a name for the server.;Occorre inserire un nome per il server.;0.923
+"Enter Passphrase
+%s The passphrase for this key was bad, please try again!";"_Passphrase:
+La passphrase per questa chiave non era valida, ritentare.";0.751
+Recording audio tracks on a rewritable disc is not advised.;Non è consigliato scrivere tracce audio su un disco riscrivibile.;0.879
+"Not enough space available on the disc in ""%s"".";Non c'è abbastanza spazio disponibile in «%s».;0.801
+"Please select branches to delete
+Git: Deleted selected tags.";"Selezionare i rami da eliminare
+Git: etichette selezionate eliminate.";0.85
+What is the reason for this?;Quale è il motivo per questo?;0.971
+Please insert a disc that is not copy protected.;Inserire un disco che non sia protetto alla copia.;0.811
+Symbol Database Plugin for Anjuta (unstable).;Plugin database dei simboli per Anjuta (instabile).;0.908
+"This is %(appname)s - Version: %(version)s
+Print output messages.";"Questo è %(appname)s - Versione: %(version)s
+Stampa i messaggi di output.";0.937
+Stations are only available to paying Last.fm subscribers.;Questa stazione è disponibile solo per gli abbonati a Last.fm paganti.;0.873
+Please make sure your version of Anjuta is up to date.;Assicurarsi che la propria versione di Anjuta sia aggiornata.;0.899
+You can click on the project type you wish to start from here.;Per iniziare un progetto è sufficiente fare clic sul tipo di progetto desiderato.;0.813
+Move ~a onto an empty tableau slot.;Sposta ~a su un posto vuoto della tavola.;0.835
+Select this to split the track where a silence is present.;Selezionare questa modalità per dividere la traccia alla presenza di un silenzio.;0.829
+"The match ""%s"" was not found.";La corrispondenza «%s» non è stata trovata.;0.777
+Using Banshee and iTunes with the same iPod is not recommended.;Non è consigliato usare Banshee e iTunes con lo stesso iPod.;0.976
+"Application performance profiler
+Powerful debugging tool.";"Profilatore di prestazioni di applicazione
+Potente strumento di debug.";0.887
+System will attempt to resubmit the message until you delete it.;Il sistema tenterà di rispedirlo fino a quando non verrà cancellato.;0.787
+"Keep target path:
+Keep relative target path for installing it.";"Mantenere il percorso dell'obiettivo:
+Mantiene il percorso dell'obiettivo relativo per l'installazione.";0.828
+Please replace the disc with a disc holding data.;Sostituire il disco con uno contenente dati.;0.767
+Are you sure you want to remove the following source file from the project?;Rimuovere il seguente file sorgente dal progetto?;0.919
+See for how to change this key combination.;Selezionare nel riquadro di modifica la chiave da modificare.;0.789
+"Single layout view
+Available new pluginviews
+The default plugin layout for the top panel.";"Disposizione singola
+Nuovi pluginview disponibili
+Il plugin di disposizione predefinito per il pannello superiore.";0.815
+This dialog contains tabs for each section, select the Plugins tab.;Questa finestra contiene schede per ogni sezione, selezionare quindi la scheda Plugin.;0.812
+An link to the project web page if provided.;Un collegamento alla pagina web del progetto, se ne è fornito.;0.901
+Source: %s The source file will not be deleted from file system.;Sorgente: %s Il file sorgente non sarà eliminato dal file system.;0.907
+"The disc in ""%s"" needs to be reloaded.";È necessario ricaricare il disco in «%s».;0.865
+Scanning over the network may be slower than scanning a local file system.;L'analisi attraverso la rete potrebbe essere più lenta rispetto all'analisi di un file system locale.;0.884
+You have finished all Atomix levels.;Hai concluso con successo tutti i livelli di Atomix.;0.92
+Revert changes to your working copy.;Si può poi modificare la copia senza alterare l'originale.;0.754
+The file '%s' on the disk is more recent than the current buffer.;"ATTENZIONE: Il file ""%s"" sul disco è più recente del buffer corrente.";0.933
+The user ID is of unknown validity.;La validità dell'ID utente non è definita.;0.84
+From the drop-down list Select a disc, select the disc you want to erase.;Dall'elenco a discesa Selezionare un disco, selezionare il disco da cancellare.;0.84
+"Width of the main window
+The width of the main window.";"Larghezza della finestra principale
+La larghezza della finestra principale.";0.911
+Additional C preprocessor flags for this target.;Opzioni aggiuntive del preprocessore C per questo obiettivo.;0.841
+Unplayed games do not need to be represented.;Non è necessario rappresentare le partite mai giocate.;0.79
+From the Hashing algorithm to be used drop-down list select the algorithm you want to use.;Dall'elenco a discesa Algoritmo di hash da usare selezionare l'algoritmo da usare.;0.874
+"Pane to display data projects
+The pane to display with data projects.";"Riquadro per visualizzare i progetti dati
+Il riquadro da visualizzare con i progetti dati.";0.755
+"Are you sure you want to remove the element ""%s"" from the project?";"Si è sicuri di voler eliminare l'elemento ""%s"" dal database del progetto?";0.886
+Banshee can rebuild your database, but some settings might be lost.;Banshee può ricostruire il database, ma qualche impostazione può essere perduta.;0.935
+Unable to export filter %s, an error occurred.;Impossibile esportare il filtro %s, è avvenuto un errore.;0.902
+Such a disc cannot be copied without the proper plugins.;Un tale disco non può essere copiato senza i plugin appropriati.;0.891
+The menu bar contains File, Edit, Bookmarks, View, and Help menus.;Un elenco corredato di informazioni sull'uso, si trova alla sezione Menu file.;0.762
+"The destination mailbox of the filter ""%s"" is ""%s"".";"La casella di destinazione del filtro ""%s"" è ""%s"".";0.897
+"When You Start Brasero
+When you start Brasero the following window will be shown.";"Quando si avvia Brasero
+Quando si avvia Brasero, viene mostrata la seguente finestra.";0.903
+A tool with the same name already exists!;Uno strumento con lo stesso nome esiste già.;0.831
+"Failed to save cache file ""%s"": %s.";"Salvataggio del file di cache ""%s"" fallito: %s.";0.962
+"_Rename for Full Windows Compatibility
+_Disable Full Windows Compatibility
+Do you want to replace ""%s""?";"_Rinomina per compatibilità Windows
+_Disabilita compatibilità Windows
+Sostituire «%s»?";0.832
+"Shared Library (Libtool)
+Add support to compile shared and static libraries with Libtool.";"Libreria condivisa (Libtool)
+Aggiunge il supporto per compilare librerie condivise e statiche con Libtool.";0.901
+Common additional C preprocessor flags for all targets in this group.;Opzioni comuni aggiuntive del preprocessore C per tutti gli obiettivi in questo gruppo.;0.834
+Subversion: Committing changes to the repository...;"Subversion: esecuzione del commit dei cambiamenti al repository...
+Subversion: copia completa.";0.941
+"Failed to Login to Last.fm
+Either your username or password is invalid.";"Accesso non riuscito a Last.fm
+Il nome utente o la password non sono validi.";0.899
+Before using this new configuration, the default one needs to be removed.;Prima di utilizzare questa nuova configurazione, occorre rimuovere quella predefinita.;0.814
+"Program attached
+Attaching to process: %d...
+A process is already running.";"Nome programma:
+Collego il processo: %d
+Un processo è già in esecuzione.";0.818
+You are searching for a five.;Ci sono 5 possibilità su 6.;0.754
+"About Accerciser
+Accerciser was written by Eitan Isaacson (eitan@ascender.com).";"Informazioni su Accerciser
+Accerciser è stato scritto da Eitan Isaacson (eitan@ascender.com).";0.973
+Gnome editor is not defined in your preferred applications.;Non è stato definito un editor di GNOME nelle applicazioni preferite.;0.916
+Server error, please try again later.;Errore del server, riprovare più tardi.;0.841
+Could not find the JHBuild library directory.;Impossibile trovare la directory della libreria di JHBuild.;0.948
+Directories cannot be added to video discs.;Non è possibile aggiungere directory a dischi video.;0.899
+First you may choose EditPreferences to activate the Preferences dialog.;Anzitutto occorre selezionare ModificaPreferenze per attivare la finestra di dialogo delle Preferenze.;0.842
+"_Discard File
+_Add File
+Do you want to search for audio files inside the directory?";"_Scarta file
+A_ggiungi file
+Cercare dei file audio all'interno della directory?";0.869
+Mailbox %s does not appear to be a Mh mailbox.;«%s» non è un file mailbox.;0.776
+"You may use ""New IMAP subfolder"" later to add a mailbox with this name.";"Sarà possibile usare in seguito ""Nuova sotto-cartella IMAP"" peraggiungere una casella con questo nome.";0.766
+"Error Initializing MTP Device Support
+There was an error intializing MTP device support.";"Errore inizializzazione nel supporto del dispositivo MTP
+Errore inizializzando il supporto al dispositivo MTP.";0.934
+"Most of the time the register function name contains the word ""register"".";Nella maggior parte dei casi la funzione di registrazione contiene la parola «register».;0.861
+Directories cannot be added to an audio disc.;Non è possibile aggiungere directory a un disco audio.;0.934
+Please select a different directory, or try upgrading to a newer version of Anjuta.;Selezionare una directory diversa, o provare ad aggiornare a una nuova versione di Anjuta.;0.905
+Would you like to terminate it and attach the new process?;Si vuole interromperlo e collegare il nuovo processo?;0.858
+"A file named ""%s"" cannot be written: %s.";Un file di nome «%s» non può essere scritto: %s.;0.984
+Please enter the URL of the repository to pull from.;Inserire l'URL del repository da cui prelevare.;0.805
+Choose Create a VCD to create a Video CD.;Scegliere Crea un VCD per creare un Video CD.;0.983
+"Plugin View Management
+Accerciser has two modes for viewing plugins.";"Gestione vista plugin
+Accerciser dispone di due modalità per la visualizzazione dei plugin.";0.943
+The request is missing a required parameter.;La richiesta manca di un parametro necessario.;0.879
+It is possible to divide a track in multiple parts.;È possibile dividere una traccia in molteplici parti.;0.843
+It will ask for details of the initial structure for the application.;Vi sarà chiesta la struttura di base iniziale dell'applicazione che desiderate sviluppare.;0.819
+"Amazon MP3 Store Source
+Browse, search, and purchase music from the Amazon MP3 store.";"Fonte negozio Amazon MP3
+Esplora, cerca e acquista musica dal negozio Amazon MP3.";0.927
+Press Tab to show completions for the current command.;Premere Tab per visualizzare i possibili completamenti per il comando attuale.;0.872
+Please select a project backend to open %s.;Selezionare un backend di progetto per aprire «%s».;0.878
+"Animations
+Whether or not to animate card moves.";"Animazioni
+Indica se usare o meno l'animazione nel muovere le carte.";0.869
+"Height of main window
+The height of the main window.";"Altezza delle finestra principale
+L'altezza della finestra principale.";0.956
+This label will be shown as the name of the disc.;Questa etichetta verrà mostrato come nome del disco.;0.822
+Do you want to continue with full Windows compatibility disabled?;Continuare disabilitando la compatibilità con i sistemi Windows?;0.813
+If the path is relative, it is relative to the home directory.;Se il percorso è relativo, è relativo rispetto alla directory home.;0.872
+Please ensure Banshee has been cleanly installed.;Assicurarsi che Banshee sia stato correttamente installato.;0.851
+NOTE: Such a file hierarchy is known to work on linux.;Nota: una tale gerarchia di file è nota funzionare con Linux.;0.928
+A file with this name already exists in the folder.;Un file con lo stesso nome esiste già.;0.808
+Disk Usage Analyzer is a graphical application for analysing storage device usage.;Analizzatore di utilizzo del disco è un'applicazione per l'analisi grafica dell'utilizzo dei dispositivi di archiviazione.;0.788
+This part is not a real PGP signature.;Questa parte non è una vera firma PGP.;0.905
+"Dubious entry
+New project creation has failed.";La creazione di un nuovo progetto è fallita.;0.894
+The selection includes simple generic, flat (no subdirectory), GTK+, GNOME, Java, Python projects and more.;La selezione include progetti semplici e generici, flat (nessuna sotto-directory), GTK+, GNOME, Java, Python e altri.;0.957
+This station is only available to subscribers.;Questa stazione è disponibile solo per gli abbonati.;0.873
+This title will be shown as the name of the disc.;Questo titolo verrà mostrato come il nome del disco.;0.832
+The signature, if there is any, cannot be checked.;La firma, se c'è, non può essere verificata.;0.892
+Insert the CD or DVD to be checked into the drive.;Inserire il CD o il DVD da controllare nel lettore.;0.818
+Data removed from fast blanked media can still be recovered with special tools.;I dati rimossi tramite una cancellazione veloce possono essere recuperati attraverso l'uso di strumenti particolari.;0.791
+"DAAP Sharing
+Browse and listen to music shared over your local network.";"Condivisione DAAP
+Esplora e ascolta la musica condivisa sulla rete locale.";0.905
+See the GNU General Public License for more details.;See the GNU General Public License for more details.;1.0
+Do you really want to attach this file as reference?;Allegare ugualmente il file come riferimento?;0.769
+You need JHBuild from 2012-11-06 or later.;È necessario avere JHBuild 2012-11-06 o successivo.;0.944
+The source file will not be deleted from the file system.;Il file sorgente non sarà eliminato dal file system.;0.932
+The default game, Klondike, is being started instead.;Il gioco predefinito, Klondike, è avviato al suo posto.;0.775
+"Default user name used in new project
+If empty, the current user name is used.";"Nome utente predefinito usato nel nuovo progetto
+Se vuoto, verrà usato il nome utente corrente.";0.915
+Appending audio tracks to a CD is not advised.;Non è consigliato aggiungere tracce audio a un CD.;0.887
+Are you sure you want to remove the following module from the project?;Rimuovere il seguente modulo dal progetto?;0.847
+"Notification Area Icon
+Display an icon in the notification area for controlling Banshee.";"Icona area di notifica
+Mostra un'icona nell'area di notifica per controllare Banshee.";0.946
+"You may use ""New IMAP Folder"" later to add this folder again.";"Sarà possibile usare in seguito ""Nuova cartella IMAP"" per aggiungerla di nuovo.";0.767
+"Insert predefined macros into Editor
+Macro Plugin
+Patch Plugin
+Patches files and directories.";"Inserisce macro predefinite nell'editor
+Plugin macro
+Plugin patch
+Applica patch a file e directory.";0.947
+Make sure Anjuta is installed correctly.;Assicurarsi che Anjuta sia installato correttamente.;0.966
+Please replace the disc with a recordable CD or DVD.;Sostituire il disco con un CD o DVD supportato.;0.897
+Accerciser is an interactive Python accessibility explorer for the GNOME desktop.;Accerciser è un esploratore interattivo di accessibilità per l'ambiente grafico GNOME scritto in Python.;0.944
+Save the changes of current project before closing?;Salvare il progetto attuale prima di chiudere?;0.827
+From this drop-down list you can only select File image.;Da questo elenco a discesa è possibile selezionare solo File immagine.;0.896
+Any unsaved changes will be lost.;Le modifiche non salvate saranno perse.;0.906
+"Whether to use ""-use-the-force-luke=dao"" flag with growisofs
+Whether to use ""-use-the-force-luke=dao"" flag with growisofs.";"Indica se usare il flag ""-use-the-force-luke=dao"" con growisofs
+Indica se usare il flag ""-use-force-luke=dao"" con growisofs.";0.909
+Please check the path to this target's profiling data file.;Controllare il percorso a questo file di dati del profilo dell'obiettivo.;0.833
+"Are you sure you want to remove the shortcut ""%s"" from the project?";Rimuovere veramente il modulo «%s» dal progetto?;0.834
+"Highlight fill color
+The color and opacity of the highlight fill.";"Riempimento colore di sfondo
+imposta il colore di riempimento al colore di sfondo correntemente selezionato.";0.794
+"Reply to all recipients of the current message
+Reply to _Group...";"Risponde a tutti i destinatari di questo messaggio
+Rispondi al _gruppo...";0.914
+The contents of the project changed since it was saved.;Il contenuto del progetto è cambiato da quando è stato salvato.;0.959
+"Window position
+Window position (x and y).";"Posizione della finestra
+Posizione della finestra (x e y).";0.917
+You may also mention what is the required version of the package.;Si può anche dire quale è la versione richiesta del pacchetto.;0.946
+Move your mouse over the rings chart displays more details about the folder and subfolders.;Spostanto il mouse sul grafico ad anello vengono visualizzati i dettagli della cartella e delle sotto-cartelle.;0.782
+From Video formats select the format of the video that will be burned.;Da Formato video selezionare il formato del video da masterizzare.;0.785
+Could not save file %s: %s.;Il file non può essere salvato come «%s».;0.884
+Whether the toolbar should be visible in main window.;Indica se la barra degli strumenti nella finestra principale debba essere visibile.;0.869
+"Sending error: %s
+You have new mail.";"Errore di spedizione: %s
+Hai nuova posta.";0.837
+The user ID is never valid.;"L'ID utente non è mai valido.marginalmente
+L'ID utente è marginalmente valido.";0.766
+This plugin is a fully-fledged IPython console.;Questo plugin rappresenta una console IPython completa.;0.947
+"UPnP Client
+Browse and play music and videos shared over your local network using UPnP.";"Client UPnp
+Esplora e riproduce musica e video condivisi tramite la rete locale usando UPnP.";0.935
+Invalid or corrupted anjuta plugins profile.;Profilo dei plugin di Anjuta danneggiato o non valido.;0.944
+Please replace the disc with a recordable DVD.;Sostituire il disco con un DVD scrivibile.;0.859
+Could not open the file %s.;Il file %s non può essere aperto per la scrittura.;0.854
+They should be relevant to the snippet content.;Le snippet sono specifiche del linguaggio del documento attuale.;0.751
+The API key used by this application is invalid.;La chiave API usata da questa applicazione non è valida.;0.912
+If you select a gradient, there will be two buttons for the color chooser.;Se viene selezionato un gradiente, saranno presenti due pulsanti per la selezione del colore.;0.85
+"A file named ""%s"" already exists.";Un file di nome «%s» esiste già.;0.947
+"Last.fm Scrobbling
+Last.fm scrobbling and context pane recommendations.";"Scrobbling di Last.fm
+Scrobbling di Last.fm e i consigli nel pannello contestuale.";0.864
+Click on Copy to start the copying process.;Fare clic su Copia per avviare il processo di copiatura.;0.833
+Files are currently being converted to another format.;È in corso la conversione in un altro formato.;0.75
+SMTP server cannot be reached.;Il server SMTP non può essere raggiunto.;0.975
+"Getting ready to start debugging session...
+No executable specified.";"Preparazione all'avvio della sessione di debug...
+Caricamento dell'eseguibile:
+Nessun eseguibile specificato.";0.774
+No result found for this research.;Non è stato trovato alcun risultato.;0.796
+Do you want to replace it with the one you are saving?;Sostituirlo con quello che si sta salvando?;0.815
+In the text box, enter the title you want to give to the disc.;Nella casella di testo, digitare il titolo da dare al disco.;0.824
+Common additional Fortran compiler flags for all targets in this group.;Opzioni comuni aggiuntive del compilatore Fortran per tutti gli obiettivi in questo gruppo.;0.808
+"No silence could be detected
+An error occured while detecting silences.";"Non è possibile individuare alcun silenzio
+Si è verificato un errore durante l'individuazione dei silenzi.";0.84
+"Changes to be committed
+Changed but not updated
+No staged files selected.";"Modifiche delle quali eseguire il commit
+Modificato ma non aggiornato
+Nessun file di recesso selezionato.";0.807
+Enables to set consistent sound levels between tracks.;Consente a di impostare livelli sonori consistenti tra le tracce.;0.834
+"Manual section:
+Section where are installed the man pages.";"Sezione del manuale:
+Sezione dove sono installate le pagine man.";0.813
+Please install them and check the python path in the preferences.;Installarli e controllare il percorso a python nelle preferenze.;0.811
+"Breakpoint number %s hit
+Function finished
+Debugger is ready.";"Breakpoint
+Funzioni
+Il debugger è pronto.";0.843
+Place a two in the leftmost slot of row ~a.;Metti un due nel posto più a sinistra della riga ~a.;0.81
+A list of URIs for partitions to be excluded from scanning.;Un elenco di URI di partizioni da escludere dalla scansione.;0.91
+The signature could not be verified due to a missing key.;Impossibile verificare la firma a causa di una chiave mancante.;0.918
+Close it before you can modify filters.;Chiuderla per poter modificare i filtri.;0.886
+To run the validator, first select an item in the accessibility tree.;Per lanciare il validatore occorre anzitutto selezionare un elemento nell'albero degli accessibili.;0.874
+"Sound Menu Integration
+Control Banshee from the Sound Menu.";"Integrazione menù del suono
+Controlla l'applicazione dal menù del suono.";0.768
+Click on Pause on the toolbar or choose EditInsert a Pause.;Fare clic su Pausa sulla barra degli strumenti o scegliere ModificaInserisci una pausa.;0.784
+Are you sure you want to remove the following elements from the project?;Rimuovere i seguenti elementi dal progetto?;0.942
+This mail address is already in this address book.;Questo indirizzo di posta è già nella rubrica.;0.825
+All files need to be analysed to complete this operation.;Tutti i file devono essere analizzati per completare questa operazione.;0.907
+"Module: %s
+Package: %s
+The group will be deleted from the file system.";"Modulo: %s
+Pacchetto: %s
+Il gruppo sarà eliminato dal file system.";0.868
+Please replace the disc with a recordable CD.;Sostituire il disco con un CD scrivibile.;0.854
+This group does not have enough members for radio.;Questo gruppo non ha abbastanza membri per la radio.;0.979
+It is not possible to write with the current set of plugins.;Non è possibile scrivere con l'insieme di plugin presente.;0.929
+You can also select a recently used server instead of entering a new URL.;È possibile selezionare un server usato di recente invece che inserire un nuovo URL.;0.954
+"The filter ""%s"" is not compatible with the mailbox type of ""%s"".";"Il filtro ""%s"" è incompatibile con il tipo di casella di ""%s"".";0.852
+"MPRIS D-Bus interface
+Control Banshee using the MPRIS D-Bus interface.";"Interfaccia D-Bus di MPRIS
+Controlla l'applicazione usando l'interfaccia D-Bus di MPRIS.";0.885
+"File to syncronize the profile XML
+Failed to read '%s': XML parse error.";"File con il quale sincronizzare il profilo XML
+Fallito a leggere «%s»: errore analisi XML.";0.897
+"Git
+There are no branches available.";"Git
+Non ci sono rami disponibili.";0.828
+"Please install ""packagekit-gnome"" package from your distribution, or install the missing packages manually.";Installare il pacchetto «packagekit-gnome» dalla propria distribuzione, o installare manualmente i pacchetti mancanti.;0.886
+This will result in the removal of the old obsolete paths.;Tali percorsi obsoleti verranno quindi rimossi.;0.903
+Subversion: File will be removed on next commit.;Subversion: il file sarà rimosso al prossimo commit.;0.964
+"Categories Manager
+The category ""%s"" already exists in the database!";"Gestore delle categorie
+La categoria «%s» esiste già nel database!";0.9
+A graph painter for the inheritance of the classes.;Un disegnatore di grafico per l'ereditarietà delle classi.;0.776
+To save the project for later use, choose ProjectSave.;"Aprire un progetto salvato
+Scegliere ProgettoProgetti recenti e selezionare il progetto da aprire.";0.779
+"Device Support
+iPod Support
+Support for most iPod devices.";"Supporto del dispositivo
+Supporto iPod
+Supporto per la maggior parte di dispositivi iPod.";0.984
+Do not rename the target with an optional prefix, used to avoid overwritting system program.;Non rinomina l'obiettivo con un prefisso opzionale, utilizzato per evitare la sovrascrittura di programmi di sistema.;0.832
+Click on Data project in the main window or choose ProjectNew ProjectNew Data Project.;Nella finestra principale fare clic su Progetto dati oppure scegliere ProgettoNuovo progettoNuovo progetto dati.;0.911
+"Enter new variable
+Are you sure you want to remove variable ""%s""?";"Inserisci nuova variabile
+Rimuovere la variabile «%s»?";0.845
+See your operating system documentation for more information.;Per maggiori informazioni, fare riferimento alla documentazione del proprio sistema operativo.;0.913
+The plugin is extensible with test schemas that define rules for validation.;Il plugin è estensibile con schemi di test che definiscano le regole di validazione.;0.918
+"Please enter a URL
+Add Remote
+Apply Mailbox Files
+No stash selected.";"Inserire un URL
+Aggiungi remoto
+Applica i file mailbox
+Nessun recesso selezionato.";0.82
+"Clean All
+Cleaning whole of the Project:
+This file has not been saved.";"Ripulisci completamente
+Ripulisco tutto il progetto:
+Questo file non è salvato.";0.826
+"Use external program from Anjuta
+Automake Build
+Basic autotools build plugin.";"Utilizza programmi esterni ad Anjuta
+Generazione di automake
+Plugin per generazione degli autotools di base.";0.893
+"Choose charset
+File %s is not encoded in US-ASCII or UTF-8.";"Scegliere il set di caratteri
+Il file %s non è codificato in US-ASCII né in UTF-8.";0.922
+Without mount points disk usage cannot be analyzed.;Senza punti di mount l'utilizzo del disco non può essere analizzato.;0.902
+"Import %s
+I_mport %s
+Do you want to import the session from '%s'?";"Importa %s
+I_mporta %s
+Importare la sessione da «%s»?";0.911
+"Unable to build user interface for tool editor
+Opening %s
+(output)
+(error)
+Running command: %s...";"Impossibile generare l'interfaccia utente per lo strumento editor
+Apertura di %s
+(uscita)
+(errore)
+Esecuzione comando: %s...";0.813

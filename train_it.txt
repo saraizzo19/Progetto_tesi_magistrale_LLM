@@ -1,0 +1,571 @@
+Chiudere le altre istanze di questo messaggio e riprovare.
+I discendenti di questa directory avranno 7 directory superiori.
+Il report collega gli errori alla documentazione riguardante i rimedi ai problemi più comuni.
+Il certificato di sicurezza per {0} non è valido.
+Quale facciata del negozio Amazon MP3 usare predefinitamente.
+C'è stato un errore durante l'avvio del debug.
+"Fonti in rete
+Importa Amazon MP3
+Scarica e importa musica acquistata da Amazon.com."
+"%s: ""%s"" non è nel formato mbox."
+Utile per i concept-album e la musica classica.
+Esaminare e rimuovere ogni file respinto.
+Impossibile trovare un backend di progetto valido per la directory fornita (%s).
+"Indica se filtrare i file nascosti
+Indica se filtrare i file nascosti."
+"Visualizzazione dell'aiuto non riuscita
+Baobab
+Uno strumento grafico per analizzare l'utilizzo del disco."
+Un'ulteriore pressione del pulsante arresterà l'esecuzione del test.
+"Una volta applicate tutte le modifiche, fare clic su OK."
+"Importa multimedia da diverse sorgenti
+Importa scaletta..."
+"File di posta
+Problema nella creazione delle caselle %s
+Balsa è stato configurato con successo."
+Impossibile verificare la firma perché il motore crittografico è corrotto.
+"Impossibile aprire il file: %s
+Impossibile aprire «%s»."
+"Partite giocate recentemente
+Un elenco delle partite giocate recentemente."
+"Trovato livello %s in: %s
+Atomix
+Un rompicapo con atomi e molecole."
+"Non installare:
+Genera ma non installare l'obiettivo."
+Verificare che la posizione della traccia sia accessibile dal sistema.
+"Vedere sopra per dettagli
+Il comando CVS è in esecuzione — attendere fino a quando finirà."
+"Trasferimento del messaggio POP in ""%s"" fallito."
+"Errore di copia dei dati
+La casella ""%s"" non sembra di tipo Mbox."
+"Scelta colore
+Impossibile creare la directory (%s)
+Errore nel caricare il progetto."
+Rimuovere veramente la scorciatoia «%s» dal progetto?
+Impossibile avviare il terminale per il debug.
+"Supporto dispositivi Apple
+Supporto per molti dispositivi iPod, iPhone e iPad."
+È possibile ignorare la finestra Preferenze usando il trascinamento per muovere le schede dei plugin.
+Si è sicuri di volere ciò?
+Nella finestra principale fare clic su Progetto video oppure scegliere ProgettoNuovo progettoNuovo progetto video.
+"Provare di nuovo
+Errore: servizio non disponibile
+Si è verificato un errore inviando un'immagine: %s."
+Rimuovere il seguente obiettivo dal progetto?
+Assicurarsi che «gdb» sia installato nel sistema.
+Il file sorgente sarà eliminato dal file system.
+Premere quindi il pulsante Validazione per avviare il test.
+Premendo CtrlAlta verrà selezionato l'ultimo widget dell'accessibile selezionato in Accerciser.
+"Per vedere una parte maggiore dell'albero all'avvio, scegliere una profondità maggiore."
+Impossibile recuperare il nome del file di backup.
+"Operazioni apertura veloce
+Il programma è in esecuzione."
+Il dialogo Opzioni per la copia di CD/DVD viene mostrato.
+"Impossibile aprire «%s»: %s
+Il file «%s» è di sola lettura."
+"Filtri di Balsa
+Il Filtro ""%s"" non ha condizioni."
+"L'opzione per non riconoscere il testo ""formato=distribuito"" è stata rimossa."
+Occorre quindi selezionare uno schema di test.
+Il nome «%s» non è valido perché contiene almeno uno dei seguenti caratteri: %s.
+"La scansione di ""%s"" è fallita: %s Controllare la connessione di rete."
+Questa informazione sarà scritta sul disco usando la tecnologia CD-TEXT.
+La selezione di un elemento accessibile ne rende disponibile l'analisi successiva per mezzo dei plugin caricati.
+"CVSROOT
+Modulo
+Fornitore
+Rilascio
+Si vuole un messaggio di registro?"
+Sposta ~a su un posto vuoto nella riserva.
+È anche possibile l'importazione dalla directory di lavoro o da un percorso Python.
+"Le modalità disponibili sono:
+Per dividere la traccia, fare clic su Dividi."
+Scartare i valori attualmente mostrati e ricaricare la configurazione dal disco?
+"Finestra principale di Accerciser
+Visualizza la finestra principale ."
+"Utilizzare il profilo predefinito del terminale di GNOME
+Occorre fornire un nome per lo strumento."
+Interrompere il processo può rendere il disco inutilizzabile.
+"Impossibile eseguire gnome-terminal
+Errore: Impossibile avviare il terminale per il debugging."
+"Azione
+Visibile
+Sensibile
+Sistema:
+L'utilità «%s» non è installata."
+"Sincronizza Android, iPod e altri dispositivi."
+Quei nomi dovrebbero essere modificati e limitati a 64 caratteri.
+In questa sezione è contenuto un elenco di tutti i plugin disponibili.
+"Se si sceglie di creare un nuovo progetto, tutte le modifiche andranno perse."
+PAL/SECAM: formato usato principalmente nelle televisioni europee.
+Un doppio clic su una riga della tabella mostrerà il relativo accessibile nell'albero.
+"Quando Accerciser viene avviato per la prima volta, molti plugin risiedono qui."
+La seguente sezione descrive le diverse tipologie di progetti che è possibile creare con Brasero.
+Permette di eseguire il programma senza il debug.
+"Altezza predefinita della finestra
+Il valore dell'altezza della finestra."
+Impossibile trovare un backend di progetto valido per la directory fornita (%s).
+"Dalla barra dei menù, scegliere StrumentiControllo integrità o premere CtrlF."
+"Non ci sono plugin, azione predefinita o applicazione configurati per gestire questo tipo di file."
+Impossibile compilare «%s»: nessuna regola di compilazione definita per questo tipo di file.
+"Directory d'installazione:
+Elenco di directory di installazione personalizzate utilizzate dagli obiettivi di questo gruppo."
+Vuoi salvare le modifiche nella categoria esistente?
+Opzioni aggiuntive del compilatore Vala per questo obiettivo.
+Mancano alcuni programmi o pacchetti di sviluppo importanti richiesti per la generazione di questo progetto.
+Questa opzione non è stata ancora implementata.
+Inserire un CD o un DVD scrivibile con almeno %i MiB di spazio libero.
+Si può utilizzare «%%» per ottenere un carattere «%».
+Alcuni file non hanno un nome adatto a un CD compatibile con sistemi Windows.
+L'indirizzo non può essere scritto in questa rubrica.
+"Progetto audio
+Questa sezione spiega come creare un CD audio."
+"Obiettivo: %s
+Rimuovere il seguente file sorgente dal progetto?"
+Il taccuino principale è il posto dove vengono create le nuove note.
+"Imposta opzioni _predefinite
+Ma io preferisco il tè."
+Usando i plugin è possibile estendere Anjuta secondo le proprie esigenze.
+Entrambi sono richiesti per il completamento automatico nei file python.
+Sono disponibili diversi plugin da poter scegliere.
+"Se chiudi senza salvare, le modifiche andranno perse."
+I dischi audio CD-RW potrebbero non essere utilizzabili con vecchi lettori CD.
+Impossibile caricare il file: «%s» (%s).
+La rimozione del plugin preferito farà sì che ne venga richiesto uno diverso.
+La decifrazione non può essere effettuata perché questo messaggio è visualizzato più di una volta.
+Assicurarsi che siano installati correttamente prima di generare il progetto.
+Il numero massimo di risultati è stato raggiunto.
+"Installazione fallita: %s
+Il pacchetto «%s» non è installato."
+"Semplice taccuino per GNOME
+Prendi appunti ed esportali ovunque."
+"Nella casella di testo, digitare un'etichetta per identificare il disco."
+Controllare le preferenze o installare il pacchetto di Valgrind.
+"Il file con percorso ""%s"" non è una directory."
+Selezionare il linguaggio per cui aggiungere una snippet o una snippet nel gruppo di linguaggi.
+Il ruolo del nome è puramente informativo.
+"Scollegamento dal processo…
+Creazione di un file FIFO nominato «%s» non riuscita."
+Impossibile eseguire «%s»: posta non inviata.
+Il file «%s» è stato cambiato.
+"Copia disco
+Inserire il CD o il DVD da copiare nel lettore."
+"Seleziona percorso
+Il percorso selezionato è già incluso nell'indicizzazione e non è stato aggiunto."
+"L'analisi di una parte del messaggio è fallita: %s
+Possibile problema di spazio su disco."
+L'estensione sarà aggiunta in accordo al tipo.
+"Supporto DVD e CD audio
+Visiona i DVD, ascolta ed estrae i CD audio."
+"Supporto riproduttore multimediale MTP
+Supporto per i dispositivi MTP, inclusi molti dispositivi Creative Zen."
+Chiuderle per poter modificare i filtri.
+Per avviarlo fare clic sul pulsante qui sotto.
+Non è consigliato aggiungere nuovi file a un disco multi-sessione.
+"Chiave: %s
+Inserire la passphrase per la chiave segreta."
+"Per cercare termini opzionali, usare OR."
+La firma è valida ma la chiave usata per verificarla è stata revocata.
+"Intervallo di rilettura automatica
+La frequenza con cui rileggere tutti i canali."
+Per proteggere l'intero messaggio bisognerebbe selezionare la modalità MIME.
+"Divisione verticale
+Posizione della divisione verticale della finestra principale."
+Un valore tipico è «sudo %s» o «su -c %q».
+Gruppo: %s Il gruppo non sarà eliminato dal file system.
+Il colore impostato qui verrà usato come predefinito quando verranno create nuove note.
+"Impossibile creare una directory: mkdir() ha fallito sul percorso ""%s""."
+"Scegliendo di creare un nuovo progetto, tutti i file già aggiunti verranno scartati."
+"Conferma ricostruzione database iPod
+La ricostruzione del database iPod potrebbe richiedere tempo."
+Si vuole veramente fermare il debugger?
+Controllare che il pacchetto della documentazione di Anjuta sia installato.
+I tuoi cambiamenti andranno persi se non salvi.
+"I_mporta sessione
+Fare clic qui per importare i contenuti
+Attendere mentre il progetto viene caricato."
+"Vista plugin destro
+Questa è una delle due viste predefinite dei plugin."
+"Rubrica, memo e compiti di Evolution."
+Può essere specificata una sola directory.
+Visualizzare i risultati su un grafico ad anelli o ad albero.
+Impossibile fare il checkout dell'URI fornito «%s».
+PackageKit è richiesto per installare i pacchetti mancanti.
+"Oggetti aggiuntivi:
+File di oggetti aggiuntivi per questo obiettivo."
+La verifica dell'integrità dei dati inizierà appena verrà inserito il disco.
+Opzioni aggiuntive dei generatori di analizzatori Yacc e Bison per questo obiettivo.
+"Finestra principale di Brasero
+La finestra principale di Brasero."
+Gli strumenti per visualizzare e controllare le interfacce sono disponibili mediante gli espansori.
+"Posizione X della finestra principale
+La posizione memorizzata della finestra principale, coordinata X."
+"Controllo di versione Git
+Aiuto API
+Plugin Devhelp per Anjuta."
+Questo obiettivo non ha alcun dato di profilo.
+"Larghezza predefinita della finestra
+Il valore della larghezza della finestra."
+"Scaricatore Torrent
+Supporto allo scaricamento di file BitTorrent dai podcast."
+Digitarli separati da un singolo spazio.
+Inserire un CD o un DVD vuoto nel proprio masterizzatore.
+Non c'è abbastanza vicinato per questa stazione.
+Scegliere Aggiungere flusso audio AC3 per aggiungere un flusso AC-3 Dolby Digital al disco.
+"Preparazione all'avvio della sessione di debug…
+Il programma è in esecuzione."
+"Il sistema di streaming è fuori rete per manutenzione, riprovare più tardi."
+Potrebbe essere un problema nel masterizzare DVD o immagini di grandi dimensioni.
+"Componenti mancanti
+Impossibile generare l'interfaccia utente dell'assistente progetto leggendo «%s»."
+Un'immagine del disco è stata creata nel disco fisso.
+Il nuovo progetto è stato creato con successo.
+"Cerca _directory
+«%s» non dispone di un tipo adatto per i progetti video."
+Notare che tutte le scalette presenti sull'iPod verranno perdute.
+Anjuta non può collegarsi a sé stesso.
+"Utilizzo: billreminder [OPZIONI...]
+Visualizza il numero di versione di questa applicazione."
+Risolve i conflitti nella propria copia di lavoro.
+La creazione del progetto potrebbe fallire se qualche file non può essere scritto.
+Un errore ha impedito la verifica della firma.
+"Se non si salva, le modifiche andranno perse per sempre."
+"_Aggiorna...
+Sincronizzare la propria copia locale con l'albero Subversion
+Copia file/cartelle..."
+Non è inserito alcun disco scrivibile.
+"Debug connesso
+Programma collegato
+Collegamento al processo: %d...
+Un processo è già in esecuzione."
+Opzioni aggiuntive del compilatore Objective C per questo obiettivo.
+"_Patch…
+Importa un progetto autotools esistente in Anjuta
+Selezionare un backend di progetto da usare."
+"Rubrica GnomeCard
+Configura Balsa
+Usare Balsa come applicazione di posta predefinita?"
+"Radio Internet
+Ascolta e organizza le stazioni radio di Internet."
+"Richiesti i dettagli dell'account per potersi connettere a Last.fm
+Nessuna connessione di rete individuata."
+La ricerca di «{0}» non ha prodotto alcun risultato nei file sul computer in uso.
+Inserire un CD scrivibile con almeno %i MiB di spazio libero.
+Il disco in «%s» non è riscrivibile.
+Banshee può creare un nuovo database.
+Il programma sarà eseguito senza un terminale.
+"Utilità
+Rilevamento BPM
+Rileva i battiti per minuto (BPM) della musica."
+Il file di intestazione Face %s contiene dati binari.
+"Abilita flag ""-immed"" con cdrecord
+Indica se usare il flag ""-immed"" con cdrecord."
+"Esempio Vala
+Un plugin di esempio scritto in Vala."
+"Git: invio...
+Git: cambio base
+Git: file rimosso."
+"Riquadro per visualizzare i progetti audio
+Il riquadro da visualizzare con i progetti audio."
+"Quando un CD audio è stato importato, sarà espulso automaticamente."
+Quest'opzione è utile per l'integrazione con altre applicazioni.
+"--version, -v\t\tMostra il numero della versione di questo programma."
+"Salva e accedi
+Iscriviti a Last.fm
+Il nome utente o la password di Last.fm non sono validi."
+"Servizio di ricerca avviato
+Avvio del servizio fallito
+Servizio già in esecuzione!"
+Questo artista non ha abbastanza ammiratori per la radio.
+Il disco in «%s» è vuoto.
+Fare clic sul pulsante in alto a destra delle finestra principale e selezionare Analizza cartella.
+"Programma
+Nessun file o progetto attualmente aperto."
+Opzioni aggiuntive del compilatore C per questo obiettivo.
+"Radio Last.fm
+Radio in streaming di Last.fm per abbonati paganti."
+La dimensione del file è oltre i 2 GiB.
+"Questo processo, solitamente, è più lungo rispetto l'utilizzo di un file MD5 esterno."
+"Per il valore ottimale, consultare la custodia del CD/DVD."
+"Riquadro per visualizzare i progetti video
+Il riquadro da visualizzare con i progetti video."
+La firma è valida ma la chiave usata per verificarla è scaduta.
+"Importa da Amarok, Rhythmbox e iTunes
+Importa la collezione da Amarok, Rhythmbox o iTunes."
+Il nome serve solo come promemoria per lo scopo della snippet.
+Controllare di avere accesso in scrittura alla directory del progetto.
+"Vedere sopra per dettagli
+Aggiungi punto di interruzione…
+Esecuzione…
+_Debug processo…
+Debug obiettivo _remoto…
+Aggiungi percorsi sorgente…
+Comando debug…
+Impossibile eseguire: «%s»."
+Non è ancora noto il modo di rimuoverla dal server remoto.
+"Errore POP3: impossibile aprire ""%s"" per scrivere."
+Impossibile configurare il progetto: manca lo script di configurazione in «%s».
+Rimuovere veramente il pacchetto «%s» dal progetto?
+Occorre inserire un nome per il server.
+"_Passphrase:
+La passphrase per questa chiave non era valida, ritentare."
+Non è consigliato scrivere tracce audio su un disco riscrivibile.
+Non c'è abbastanza spazio disponibile in «%s».
+"Selezionare i rami da eliminare
+Git: etichette selezionate eliminate."
+Quale è il motivo per questo?
+Inserire un disco che non sia protetto alla copia.
+Plugin database dei simboli per Anjuta (instabile).
+"Questo è %(appname)s - Versione: %(version)s
+Stampa i messaggi di output."
+Questa stazione è disponibile solo per gli abbonati a Last.fm paganti.
+Assicurarsi che la propria versione di Anjuta sia aggiornata.
+Per iniziare un progetto è sufficiente fare clic sul tipo di progetto desiderato.
+Sposta ~a su un posto vuoto della tavola.
+Selezionare questa modalità per dividere la traccia alla presenza di un silenzio.
+La corrispondenza «%s» non è stata trovata.
+Non è consigliato usare Banshee e iTunes con lo stesso iPod.
+"Profilatore di prestazioni di applicazione
+Potente strumento di debug."
+Il sistema tenterà di rispedirlo fino a quando non verrà cancellato.
+"Mantenere il percorso dell'obiettivo:
+Mantiene il percorso dell'obiettivo relativo per l'installazione."
+Sostituire il disco con uno contenente dati.
+Rimuovere il seguente file sorgente dal progetto?
+Selezionare nel riquadro di modifica la chiave da modificare.
+"Disposizione singola
+Nuovi pluginview disponibili
+Il plugin di disposizione predefinito per il pannello superiore."
+"Questa finestra contiene schede per ogni sezione, selezionare quindi la scheda Plugin."
+"Un collegamento alla pagina web del progetto, se ne è fornito."
+Sorgente: %s Il file sorgente non sarà eliminato dal file system.
+È necessario ricaricare il disco in «%s».
+L'analisi attraverso la rete potrebbe essere più lenta rispetto all'analisi di un file system locale.
+Hai concluso con successo tutti i livelli di Atomix.
+Si può poi modificare la copia senza alterare l'originale.
+"ATTENZIONE: Il file ""%s"" sul disco è più recente del buffer corrente."
+La validità dell'ID utente non è definita.
+"Dall'elenco a discesa Selezionare un disco, selezionare il disco da cancellare."
+"Larghezza della finestra principale
+La larghezza della finestra principale."
+Opzioni aggiuntive del preprocessore C per questo obiettivo.
+Non è necessario rappresentare le partite mai giocate.
+Dall'elenco a discesa Algoritmo di hash da usare selezionare l'algoritmo da usare.
+"Riquadro per visualizzare i progetti dati
+Il riquadro da visualizzare con i progetti dati."
+"Si è sicuri di voler eliminare l'elemento ""%s"" dal database del progetto?"
+"Banshee può ricostruire il database, ma qualche impostazione può essere perduta."
+"Impossibile esportare il filtro %s, è avvenuto un errore."
+Un tale disco non può essere copiato senza i plugin appropriati.
+"Un elenco corredato di informazioni sull'uso, si trova alla sezione Menu file."
+"La casella di destinazione del filtro ""%s"" è ""%s""."
+"Quando si avvia Brasero
+Quando si avvia Brasero, viene mostrata la seguente finestra."
+Uno strumento con lo stesso nome esiste già.
+"Salvataggio del file di cache ""%s"" fallito: %s."
+"_Rinomina per compatibilità Windows
+_Disabilita compatibilità Windows
+Sostituire «%s»?"
+"Libreria condivisa (Libtool)
+Aggiunge il supporto per compilare librerie condivise e statiche con Libtool."
+Opzioni comuni aggiuntive del preprocessore C per tutti gli obiettivi in questo gruppo.
+"Subversion: esecuzione del commit dei cambiamenti al repository...
+Subversion: copia completa."
+"Accesso non riuscito a Last.fm
+Il nome utente o la password non sono validi."
+"Prima di utilizzare questa nuova configurazione, occorre rimuovere quella predefinita."
+"Nome programma:
+Collego il processo: %d
+Un processo è già in esecuzione."
+Ci sono 5 possibilità su 6.
+"Informazioni su Accerciser
+Accerciser è stato scritto da Eitan Isaacson (eitan@ascender.com)."
+Non è stato definito un editor di GNOME nelle applicazioni preferite.
+"Errore del server, riprovare più tardi."
+Impossibile trovare la directory della libreria di JHBuild.
+Non è possibile aggiungere directory a dischi video.
+Anzitutto occorre selezionare ModificaPreferenze per attivare la finestra di dialogo delle Preferenze.
+"_Scarta file
+A_ggiungi file
+Cercare dei file audio all'interno della directory?"
+«%s» non è un file mailbox.
+"Sarà possibile usare in seguito ""Nuova sotto-cartella IMAP"" peraggiungere una casella con questo nome."
+"Errore inizializzazione nel supporto del dispositivo MTP
+Errore inizializzando il supporto al dispositivo MTP."
+Nella maggior parte dei casi la funzione di registrazione contiene la parola «register».
+Non è possibile aggiungere directory a un disco audio.
+"Selezionare una directory diversa, o provare ad aggiornare a una nuova versione di Anjuta."
+Si vuole interromperlo e collegare il nuovo processo?
+Un file di nome «%s» non può essere scritto: %s.
+Inserire l'URL del repository da cui prelevare.
+Scegliere Crea un VCD per creare un Video CD.
+"Gestione vista plugin
+Accerciser dispone di due modalità per la visualizzazione dei plugin."
+La richiesta manca di un parametro necessario.
+È possibile dividere una traccia in molteplici parti.
+Vi sarà chiesta la struttura di base iniziale dell'applicazione che desiderate sviluppare.
+"Fonte negozio Amazon MP3
+Esplora, cerca e acquista musica dal negozio Amazon MP3."
+Premere Tab per visualizzare i possibili completamenti per il comando attuale.
+Selezionare un backend di progetto per aprire «%s».
+"Animazioni
+Indica se usare o meno l'animazione nel muovere le carte."
+"Altezza delle finestra principale
+L'altezza della finestra principale."
+Questa etichetta verrà mostrato come nome del disco.
+Continuare disabilitando la compatibilità con i sistemi Windows?
+"Se il percorso è relativo, è relativo rispetto alla directory home."
+Assicurarsi che Banshee sia stato correttamente installato.
+Nota: una tale gerarchia di file è nota funzionare con Linux.
+Un file con lo stesso nome esiste già.
+Analizzatore di utilizzo del disco è un'applicazione per l'analisi grafica dell'utilizzo dei dispositivi di archiviazione.
+Questa parte non è una vera firma PGP.
+La creazione di un nuovo progetto è fallita.
+"La selezione include progetti semplici e generici, flat (nessuna sotto-directory), GTK+, GNOME, Java, Python e altri."
+Questa stazione è disponibile solo per gli abbonati.
+Questo titolo verrà mostrato come il nome del disco.
+"La firma, se c'è, non può essere verificata."
+Inserire il CD o il DVD da controllare nel lettore.
+I dati rimossi tramite una cancellazione veloce possono essere recuperati attraverso l'uso di strumenti particolari.
+"Condivisione DAAP
+Esplora e ascolta la musica condivisa sulla rete locale."
+See the GNU General Public License for more details.
+Allegare ugualmente il file come riferimento?
+È necessario avere JHBuild 2012-11-06 o successivo.
+Il file sorgente non sarà eliminato dal file system.
+"Il gioco predefinito, Klondike, è avviato al suo posto."
+"Nome utente predefinito usato nel nuovo progetto
+Se vuoto, verrà usato il nome utente corrente."
+Non è consigliato aggiungere tracce audio a un CD.
+Rimuovere il seguente modulo dal progetto?
+"Icona area di notifica
+Mostra un'icona nell'area di notifica per controllare Banshee."
+"Sarà possibile usare in seguito ""Nuova cartella IMAP"" per aggiungerla di nuovo."
+"Inserisce macro predefinite nell'editor
+Plugin macro
+Plugin patch
+Applica patch a file e directory."
+Assicurarsi che Anjuta sia installato correttamente.
+Sostituire il disco con un CD o DVD supportato.
+Accerciser è un esploratore interattivo di accessibilità per l'ambiente grafico GNOME scritto in Python.
+Salvare il progetto attuale prima di chiudere?
+Da questo elenco a discesa è possibile selezionare solo File immagine.
+Le modifiche non salvate saranno perse.
+"Indica se usare il flag ""-use-the-force-luke=dao"" con growisofs
+Indica se usare il flag ""-use-force-luke=dao"" con growisofs."
+Controllare il percorso a questo file di dati del profilo dell'obiettivo.
+Rimuovere veramente il modulo «%s» dal progetto?
+"Riempimento colore di sfondo
+imposta il colore di riempimento al colore di sfondo correntemente selezionato."
+"Risponde a tutti i destinatari di questo messaggio
+Rispondi al _gruppo..."
+Il contenuto del progetto è cambiato da quando è stato salvato.
+"Posizione della finestra
+Posizione della finestra (x e y)."
+Si può anche dire quale è la versione richiesta del pacchetto.
+Spostanto il mouse sul grafico ad anello vengono visualizzati i dettagli della cartella e delle sotto-cartelle.
+Da Formato video selezionare il formato del video da masterizzare.
+Il file non può essere salvato come «%s».
+Indica se la barra degli strumenti nella finestra principale debba essere visibile.
+"Errore di spedizione: %s
+Hai nuova posta."
+"L'ID utente non è mai valido.marginalmente
+L'ID utente è marginalmente valido."
+Questo plugin rappresenta una console IPython completa.
+"Client UPnp
+Esplora e riproduce musica e video condivisi tramite la rete locale usando UPnP."
+Profilo dei plugin di Anjuta danneggiato o non valido.
+Sostituire il disco con un DVD scrivibile.
+Il file %s non può essere aperto per la scrittura.
+Le snippet sono specifiche del linguaggio del documento attuale.
+La chiave API usata da questa applicazione non è valida.
+"Se viene selezionato un gradiente, saranno presenti due pulsanti per la selezione del colore."
+Un file di nome «%s» esiste già.
+"Scrobbling di Last.fm
+Scrobbling di Last.fm e i consigli nel pannello contestuale."
+Fare clic su Copia per avviare il processo di copiatura.
+È in corso la conversione in un altro formato.
+Il server SMTP non può essere raggiunto.
+"Preparazione all'avvio della sessione di debug...
+Caricamento dell'eseguibile:
+Nessun eseguibile specificato."
+Non è stato trovato alcun risultato.
+Sostituirlo con quello che si sta salvando?
+"Nella casella di testo, digitare il titolo da dare al disco."
+Opzioni comuni aggiuntive del compilatore Fortran per tutti gli obiettivi in questo gruppo.
+"Non è possibile individuare alcun silenzio
+Si è verificato un errore durante l'individuazione dei silenzi."
+"Modifiche delle quali eseguire il commit
+Modificato ma non aggiornato
+Nessun file di recesso selezionato."
+Consente a di impostare livelli sonori consistenti tra le tracce.
+"Sezione del manuale:
+Sezione dove sono installate le pagine man."
+Installarli e controllare il percorso a python nelle preferenze.
+"Breakpoint
+Funzioni
+Il debugger è pronto."
+Metti un due nel posto più a sinistra della riga ~a.
+Un elenco di URI di partizioni da escludere dalla scansione.
+Impossibile verificare la firma a causa di una chiave mancante.
+Chiuderla per poter modificare i filtri.
+Per lanciare il validatore occorre anzitutto selezionare un elemento nell'albero degli accessibili.
+"Integrazione menù del suono
+Controlla l'applicazione dal menù del suono."
+Fare clic su Pausa sulla barra degli strumenti o scegliere ModificaInserisci una pausa.
+Rimuovere i seguenti elementi dal progetto?
+Questo indirizzo di posta è già nella rubrica.
+Tutti i file devono essere analizzati per completare questa operazione.
+"Modulo: %s
+Pacchetto: %s
+Il gruppo sarà eliminato dal file system."
+Sostituire il disco con un CD scrivibile.
+Questo gruppo non ha abbastanza membri per la radio.
+Non è possibile scrivere con l'insieme di plugin presente.
+È possibile selezionare un server usato di recente invece che inserire un nuovo URL.
+"Il filtro ""%s"" è incompatibile con il tipo di casella di ""%s""."
+"Interfaccia D-Bus di MPRIS
+Controlla l'applicazione usando l'interfaccia D-Bus di MPRIS."
+"File con il quale sincronizzare il profilo XML
+Fallito a leggere «%s»: errore analisi XML."
+"Git
+Non ci sono rami disponibili."
+"Installare il pacchetto «packagekit-gnome» dalla propria distribuzione, o installare manualmente i pacchetti mancanti."
+Tali percorsi obsoleti verranno quindi rimossi.
+Subversion: il file sarà rimosso al prossimo commit.
+"Gestore delle categorie
+La categoria «%s» esiste già nel database!"
+Un disegnatore di grafico per l'ereditarietà delle classi.
+"Aprire un progetto salvato
+Scegliere ProgettoProgetti recenti e selezionare il progetto da aprire."
+"Supporto del dispositivo
+Supporto iPod
+Supporto per la maggior parte di dispositivi iPod."
+"Non rinomina l'obiettivo con un prefisso opzionale, utilizzato per evitare la sovrascrittura di programmi di sistema."
+Nella finestra principale fare clic su Progetto dati oppure scegliere ProgettoNuovo progettoNuovo progetto dati.
+"Inserisci nuova variabile
+Rimuovere la variabile «%s»?"
+"Per maggiori informazioni, fare riferimento alla documentazione del proprio sistema operativo."
+Il plugin è estensibile con schemi di test che definiscano le regole di validazione.
+"Inserire un URL
+Aggiungi remoto
+Applica i file mailbox
+Nessun recesso selezionato."
+"Ripulisci completamente
+Ripulisco tutto il progetto:
+Questo file non è salvato."
+"Utilizza programmi esterni ad Anjuta
+Generazione di automake
+Plugin per generazione degli autotools di base."
+"Scegliere il set di caratteri
+Il file %s non è codificato in US-ASCII né in UTF-8."
+Senza punti di mount l'utilizzo del disco non può essere analizzato.
+"Importa %s
+I_mporta %s
+Importare la sessione da «%s»?"
+"Impossibile generare l'interfaccia utente per lo strumento editor
+Apertura di %s
+(uscita)
+(errore)
+Esecuzione comando: %s..."

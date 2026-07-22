@@ -1,0 +1,134 @@
+It allows to use ownCloud as a storage location and online editor.
+This file has not been saved.
+"Alarms
+_Alert before due date:
+day(s)."
+"Are you sure you want to remove all the completed to-do items in the category ""%s""?"
+"Glade interface designer
+Task Manager
+Todo Plugin for Anjuta."
+"The disc in ""%s"" is not supported."
+"Usage: billreminderd [OPTIONS...] Options: --help, -h, -?\tShow this message."
+Failed to create fifo file named %s.
+"Build Project
+Building source directory of the Project:
+Unable to build Project."
+Shows the menu bar and the five types of project to choose from.
+The second column lists how many nodes will be shown if the item is unfolded.
+Include this target in the distributed package.
+The data size is too large for the disc even with the overburn option.
+Could not get the right pipe for the process.
+"(pid=%d)
+Lock File found: Possibly the program was exited unexpectedly."
+Please insert a recordable DVD with at least %i MiB of free space.
+Enables to check the integrity of files.
+Right-click on any of the plugins listed to configure it's view.
+View artist information from Wikipedia in the context pane.
+"No track information (artist, title, ...) will be written to the disc."
+Click on the Check button to start the integrity check.
+From the Image style drop-down list select how you want the image to be positioned.
+They cannot be resumed automatically the next time Banshee is run.
+"Stopping service failed
+Service was not running!"
+Do you want to loose your changes and close it ?
+From the Method drop-down list select the splitting method.
+Select one of the two plugins and click on Configure.
+You can choose which plugins should be active for your project.
+"Unable to edit script
+New accelerator..."
+"Active Chart
+Which type of chart should be displayed."
+"Section VCD type:
+Choose Create a SVCD to create a Super Video CD."
+"""%s"" is not a valid folder
+Could not analyze disk usage."
+"_Discard Project
+Select Files
+Do you really want to empty the current project?"
+Common additional C++ compiler flags for all targets in this group.
+"In essence, Accerciser is a next generation at-poke tool."
+"Import ‟{0}”
+iTunes® 7 introduced new compatibility issues and currently only works with other iTunes® 7 clients."
+"There are no videos to write to disc
+There is no inserted disc to copy."
+"Installing the Project:
+Unable to clean Project."
+"It focuses on providing simple and usable user interface, yet powerful for efficient development."
+Are you sure you want to remove all the completed todo items?
+Please insert a rewritable disc holding data.
+The file '%s' has been deleted on the disk.
+Fast blanking is a way of quickly erasing a disc.
+"Include in distribution:
+Include this target in the distributed package."
+"To find more information about Accerciser, please visit the Accerciser GNOME Live!"
+"Could not get file info
+This file is too big."
+The color and opacity of the highlight border.
+Interfaces that are supported by the selected accessible are shown as sensitive.
+"There is only one selected file (""%s"")."
+The plugin will test the selected accessible and all of its descendants.
+"Compile
+Do you want to clear the list?"
+Additional Fortran compiler flags for this target.
+"There are unfinished jobs, please wait until they are finished."
+It doesn't appear to be a valid disc image or a valid cue file.
+"Libtool support:
+Add support to compile shared and static libraries with libtool."
+Open an executable or attach to a process to start debugging.
+The update occurs after 10 seconds of no keypress by user.
+Pressing ControlAltt will select the accessible of the widget that is under the pointer.
+"Are you sure you want to remove the source ""%s"" from the project?"
+"If not, add it from the preferences."
+"To view the available plugins, choose EditPlugins."
+"Scanning of %s failed: %s
+Local _mbox mailbox...
+Local Mail_dir mailbox...
+Local M_H mailbox..."
+"Duplicate Artists
+Displayed are artists that should likely be merged."
+Insert the erasable CD or DVD in your drive.
+This may result in improper behaviour or instabilities.
+View plugins in a single layout.
+This window is the starting point for all of your projects.
+Monitors won't give you Vitamin D -- but sunlight will...
+GnuPG is rebuilding the trust database and is currently unavailable.
+Please insert a recordable CD or DVD.
+"You can select ""Find in: All"" to search everywhere."
+A file chooser dialog will open.
+A 96 kbps WMA is equivalent to a 128 kbps MP3.
+No third-party clients can connect to iTunes® music shares anymore.
+Stay entertained and up to date with podcasts and video podcasts.
+"Internet Archive
+Browse and search the Internet Archive's vast media collection."
+Note that the recipient must have proper permissions to see the `real' file.
+"Build Distribution
+Building the distribution package of the Project:
+Unable to auto generate."
+Click on Audio project in the main window or choose ProjectNew ProjectNew Audio Project.
+"Data Project
+Insert a blank CD-R/W or DVD-R/W into your drive."
+"No recently used resource found with URI ""%s""
+Unknown item
+_%d."
+There aren't any available executable targets for this project.
+"For more information, see the Wikipedia pages for SVCD and VCD."
+Common additional C compiler flags for all targets in this group.
+"Import Media to Library
+Your media library is empty."
+"For information on symbol specifications, see section 4.5 of the gprof info page."
+Additional C++ compiler flags for this target.
+A new recordable disc will be required once the one currently loaded has been copied.
+Subscribe to podcasts and stream or download episodes.
+Could not create CD ripping driver.
+"Automatically refresh channels
+Automatically refresh all channels at a regular interval."
+"NTSC: format mainly used in Americans, Canadians and Japanese televisions."
+Click the New button to create your first note.
+"Importing may or may not work as expected, or at all."
+Replacing it will overwrite its content (on the disc only).
+Could not detect any mount point.
+Cannot load Global defaults and configuration files: %s.
+The file '%s' has been deleted.
+"_Discard Changes
+Do you really want to create a new project and discard the current one?"
+Press Enter to execute any valid Python code.
