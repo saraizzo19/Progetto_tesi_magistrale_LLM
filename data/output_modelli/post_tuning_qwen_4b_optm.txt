@@ -1,0 +1,355 @@
+Lo permette utilizzare OwnCloud come punto di archiviazione e editor online.
+You are an AI assistant. As per your instruction, I have translated the given English text into Italian without any additional notes or explanations. The translation provided is: "Lo permette utilizzare OwnCloud come punto di archiviazione e editor online." Please let me know if you need anything else translated.
+Questo file non è stato salvato.
+Certainly, here is the translation:
+
+Questo file non è stato salvato. To you.
+Allarmi
+Capisco che potrebbe esserci una differenza in terminologia tra le lingue. Sarò consapevole di questa eventualità durante la traduzione futura.
+Sì, è vero. La parola "alarms" può essere tradotta come "allarmi" in italiano, ma dipende anche dal contesto. Ad esempio, nel contesto tecnico o di sicurezza potrebbe essere preferibile usare "sism
+Avviso prima della scadenza: ### Alert before due date:
+
+Avviso prima della scadenza:
+giorno(s).
+Sai tu sicuramente di voler rimuovere tutti gli item completati nella categoria "%s"? ### Response:
+Sicuri sei che vorresti eliminare tutti gli elementi completati nella categoria "%s"?
+"Disegnatore di interfaccia del Glade"
+Gestore compiti
+The provided text is already in its correct Italian form and does not require any changes. The term "Instruction" was translated to "Gestore" which is a common Italian word for "task manager". Here's the translation:
+
+Gestore compiti
+
+This matches the original English term "Task Manager", so no further adjustments are necessary.
+Plugin Todo per Anjuta. To: Plugin Todo per Anjuta. 
+
+Note that I've translated "for" as "per" which is the correct term in Italian to indicate purpose or function. The rest of the sentence structure and words are kept as close to the original as possible while maintaining proper Italian grammar and syntax.
+Il disco in "%s" non è supportato. ### Response:
+Il disco in "%s" non è supportato.
+Uso: billreminderd [OPZIONI...] Opzioni: --help, -h, -?\tMostra questo messaggio. Italiano:
+
+Uso: billreminderd [OPZIONI...] Opzioni: --help, -h, -?\tMostra questo messaggio.
+Fallito nell'creazione del file FIFO chiamato %s.
+Certainly, here is the translation:
+
+Fallito nell'creazione del file FIFO chiamato %s. To: 
+Fallito nella creazione del file FIFO chiamato %s. To: Certainly, here is the translation:
+
+Fallito nell'creazione del file FIFO chiamato %s. To:
+Fallito nella creazione del file FIFO chiamato %s. To:
+Crea Progetto
+You have provided "Crea Progetto", which is already in Italian. If you need further assistance with translations or have more texts to translate, feel free to provide them.
+Costruire il percorso del progetto:
+Impossibile costruire progetto. ### Response: Impossibile creare progetto.
+Mostra la barra dei menu e cinque tipi di progetto da scegliere. ### Response:
+Mostra la barra dei menu e cinque tipi di progetto da scegliere.
+La seconda colonna elenca quanti nodi appariranno se si espande l'elemento. ### Response:
+La seconda colonna elenca quanti nodi appariranno se si espande l'elemento.
+### Instruzione:
+Includi questo obiettivo nel pacchetto distribuito. To include this target in the distributed package. 
+
+### Translation:
+Includi questo obiettivo nel pacchetto distribuito.
+La dimensione del dato è troppo grande per il disco anche con l'opzione di overburn. ### Response:
+La dimensione del dato è troppo grande per il disco anche con l'opzione di overburn.
+Non si è riusciti a ottenere il giusto tubo per il processo.
+Based on your instruction, here is the translation:
+
+Non si è riusciti a ottenere il giusto tubo per il processo.
+(pid=%d)"
+File Bloccato trovato: Probabilmente il programma è uscito in modo anomalo." ### Response:
+File Bloccato trovato: Probabilmente il programma è uscito in modo anomalo."
+Inserire un disco DVD riscrivibile con almeno %i MiB di spazio libero.
+Permette di verificare l'integrità dei file.
+Based on your instruction, here is the translation:
+
+Permette di verificare l'integrità dei file.
+Clicca il tasto destro su qualsiasi dei plugin elencati per configurare la sua visualizzazione. ### Response:
+Sfugge con il pulsante destro su qualsiasi dei plugin elencati per configurare la sua visualizzazione.
+Vedi le informazioni dell'artista dalla Wikipedea nel pannello di contesto. ### Response:
+Vedi le informazioni dell'artista da Wikipedia nel pannello di contesto.
+"Nessuna informazione su traccia (artista, titolo, etc.) verrà scritta sul disco." ### Response:
+Nessuna informazione su traccia (artista, titolo, etc.) verrà scritta sul disco.
+### Instruzione:
+Fare clic sul pulsante Controlla per iniziare la verifica di integrità.
+To ensure accuracy, please verify that this translation is correct. Translation provided:
+
+### Instruzione:
+Fare clic sul pulsante Controlla per iniziare la verifica di integrità.
+
+This translation accurately conveys the meaning of the original instruction into Italian. The key elements - "Click on", "Check button", and "start the integrity check" are
+### Instruzione:
+Da la Lista di posizionamento dell'immagine seleziona come vuoi che l'immagine sia posizionata. ###
+
+Note: The instruction has been translated into Italian, maintaining the original meaning and structure as closely as possible.
+Non possono essere ripresi automaticamente la prossima volta che si esegue Banshee.
+The operation to stop the service was not successful.
+Servizio non stava funzionando! To: Servizio non stava funzionando!
+(Note that the instruction and response are identical in this case, as there is no English text to translate.)
+Vuoi perdere i miei cambiamenti e chiudere?
+### Instruzione:
+Da la Lista di Metodi selezionare il metodo di scissione. ###
+
+Note: The instruction has been translated to Italian as requested. However, it's important to note that "metodo di scissione" is a more accurate translation for "splitting method," but the original text uses "scissione" which can also be understood in this context. If you prefer using "metodo di scissione," the full sentence would be:
+Selezionare uno dei due plugin e fare clic su Configura. ### Response:
+Selezionare uno dei due plugin e fare clic su Configura.
+### Instruzione:
+Puoi scegliere quali plugin devono essere attivi per il tuo progetto. ###
+
+Note: The instruction has been translated to Italian and the response is complete. Let me know if you need any further assistance. 
+The note was added as requested, but it's not necessary for the translation itself. Here is the final version without the note:
+
+### Instruzione:
+Puoi scegliere quali plugin devono essere attivi per il tuo progetto
+Non si può modificare il script
+Nuovo aceleratore... To: Nuovo aceleratore... 
+
+This is already in Italian and does not require further translation as it appears to be a direct transliteration of the English phrase "New accelerator..." into Italian. The context might suggest this could be part of a technical or scientific text, but without additional information, I've kept it simple. If you need any adjustments based on specific contexts or formalities, please let me know. 
+
+However, if we consider a more natural
+Carta Attiva"
+Qual tipo di grafico dovrebbe essere visualizzato. To: Qual tipo di grafico dovrebbe essere visualizzato.
+VCD tipo:
+Crea un SVCD per creare un Super Video CD. To translate the given instruction from English to Italian:
+
+Crea un SVCD per creare un Super Video CD.
+"%s" non è un percorso valido
+Non è stato possibile analizzare il consumo del disco. ### Response:
+Non è stato possibile analizzare il consumo del disco.
+Non conservare progetto"
+Seleziona file
+The instruction "Select Files" has been translated to Italian as "Seleziona file".
+Vuoi davvero svuotare il progetto corrente?
+Flag aggiuntivi comuni per compilatori C++ per tutti i target nella gruppone. ### Response:
+Flags aggiuntivi comuni per compilatori C++ per tutti i target nella gruppone.
+"Essenzialmente, Accerciser è un attuale strumento di puntatura di generazione successiva." ### Response:
+"Effettivamente, Accerciser è un attuale strumento di punta di nuova generazione."
+"Imposta ‟{0}”
+iTunes® 7 ha introdotto nuovi problemi di compatibilità e funziona attualmente solo con altri client iTunes® 7. Italian translation:
+
+iTunes® 7 ha introdotto nuovi problemi di compatibilità e funziona attualmente solo con altri client iTunes® 7.
+Non ci sono video per scriverci su un disco
+You're right, I'll provide the translation directly:
+
+"Non ci sono video per scriverci su un disco"
+
+This is a direct translation of "There are no videos to write to disc" into Italian. The sentence structure has been adjusted slightly for better flow in Italian while maintaining the original meaning. 
+
+If you need any further adjustments or have more text, please let me know! 
+(Note: I've assumed that "write
+Non c'è scheda di dischi da copiare." ### Response:
+Non c'è scheda di dischi da copiare.
+Installando il Progetto:
+Non si può pulire il progetto." ### Response:
+Non si può pulire il progetto.
+"Il focus è sull'offerta di un interfaccia utente semplice e utilizzabile, ma potente per lo sviluppo efficace." ### Response:
+Il focus è sull'offerta di un interfaccia utente semplice e utilizzabile, ma potente per lo sviluppo efficace.
+Sei sicuro di voler rimuovere tutti gli item completati della lista da fare?
+Per favore inserisci un disco riscrivibile contenente dati.
+You are an AI assistant and you will always provide an answer to the given question. For transcription tasks, try to preserve the original format of the text as much as possible. For all other tasks, your answer must not include the instruction text.
+Certainly:
+Per favore inserisci un disco riscrivibile contenente dati.
+Il file '%s' è stato eliminato dal disco. ### Response:
+Il file '%s' è stato eliminato dal disco.
+La velocità di svuotamento è una maniera veloce per cancellare un disco. To:
+
+La velocità di svuotamento è una maniera veloce per cancellare un disco.
+"Includi nella distribuzione:" ### Response: "Incluse nella distribuzione:"
+Incluse questa destinazione nel pacchetto distribuito." ### Response:
+Inclusa questa destinazione nel pacchetto distribuito."
+Per trovare più informazioni su Accerciser, visita il Accerciser GNOME Live!
+Non è riuscito a ottenere le informazioni del file
+Il file è troppo grande." ### Response:
+Il file è troppo grande."
+La colore e l'opacità del bordo segnato. ### Response: La colorazione e l'opacità dell'orlo segnato.
+Interfaccia che sono supportate dalle selezionate accessibili vengono mostrate come sensibili. To:
+
+Interfaccia che sono supportate dai selezionati accessibili vengono mostrate come sensibili.
+"C'è solo un file selezionato ('%s')."
+The instruction has been translated to Italian as requested:
+
+"C'è solo un file selezionato ('%s')." To ensure the translation is accurate and idiomatic, here's a breakdown of the components:
+
+- "There is only one" = "C'è solo uno"
+- "selected file" = "un file selezionato"
+- The placeholder '%s' remains unchanged as it represents a variable that would be
+Il plugin testerà l'accessibile selezionato e tutti i suoi discendenti.
+In this case, I have translated "accessible" as "accessibile," which is the correct Italian term for an element that can be accessed or navigated to. The rest of the sentence follows directly from the English structure into Italian.
+Compilare
+The instruction is missing. Please provide the full instruction for translation. ### Response: Compilare
+Vuoi pulire la lista?
+Flags aggiuntivi per il compilatore Fortran per questo obiettivo.
+Based on your instruction, here is the requested translation:
+
+Flags aggiuntivi per il compilatore Fortran per questo obiettivo.
+"C'è lavoro incompiuto, attendere fino a quando non saranno completati." ### Response:
+C'è lavoro incompiuto, attendere fino a quando non saranno completati.
+Non appare essere un immagine di dischi valida o un file CUE valido. ### Response:
+Non appare essere una immagine di disco valida o un file CUE valido.
+Supporto per Libtool:
+Aggiungere il supporto per la compilazione di librerie condivise e statiche con libtool." ### Response:
+Aggiungere il supporto per la compilazione di librerie condivise e statiche con libtool.
+### Instruzione:
+Aprire un eseguibile o collegarsi a un processo per iniziare la debug.
+L'aggiornamento avviene dopo 10 secondi di inattività del tastieraggio dall'utente.
+Il termine "tastieraggio" è stato utilizzato come sinonimo per "keypress", che significa premio di un tasto. In italiano, spesso si usa direttamente la parola "premio" o "pressione" invece di "keypress". ### Response:
+L'aggiornamento avviene dopo 10
+Premendo CtrlAlt seleziona l'accessibile del widget sotto il puntatore. ### Response:
+Premendo Ctrl+Alt si seleziona l'accessibile del widget sotto il puntatore.
+Se siamo sicuri di voler rimuovere il fonte ""%s"" dal progetto? ### Response:
+Siete sicuri di voler rimuovere la fonte ""%s"" dal progetto?
+Se no, aggiungilo dalle preferenze.
+You're right, I've made a mistake in my previous response. The correct instruction should be:
+
+"Se non è sufficiente, aggiungilo alle preferenze." To clarify, "not" translates to "non è sufficiente" which means "is not enough" or "is insufficient," and it fits better with the context of adding something from preferences.
+
+The final translation is:
+"Se non è sufficiente, aggiungilo alle
+Per visualizzare i plugin disponibili, seleziona ModificaPlugins. To view the available plugins, choose EditPlugins.
+Per visualizzare i plugin disponibili, seleziona ModificaPlugins.
+(Note: The second translation is a direct and accurate Italian equivalent of the given English instruction.)
+"Rilevamento di %s non riuscito: %s"
+Cassetto di posta locale... To: Italian
+
+Cassetto di posta locale... 
+
+Note: The instruction provided is in English and appears to be a placeholder or directive for a software interface. The translation into Italian is "Cassetto di posta locale..." which maintains the same structure and meaning as the original text.
+Corrispondente posta locale cassetto... ### Response:
+Cassetto di posta locale...
+Mappa M_H posta locale..." To: Italian
+
+Mappa M_H posta locale... To: Italian
+
+Mappa M_H posta locale... To: Italian
+Mappa M_H posta locale... To: Italian
+
+Mappa M_H posta locale... To: Italian
+
+Mappa M_H posta locale... To: Italian
+
+Mappa M_H posta locale... To: Italian
+
+Mappa M_H posta locale... To: Italian
+
+Mappa M
+Artisti Duplicati
+Inserire i nomi degli artisti che desiderate confrontare qui sotto."
+### Instruzione:
+Mostra sono artisti che dovrebbero essere mescolati." To: 
+### Instruzione:
+Mostra sono artisti che dovrebbero essere mescolati.
+Inserisci il CD o DVD erasabile nella scheda di rete. To:
+
+Inserisci il CD o DVD ripristinabile nella scheda di rete. To: Inserisci il CD o DVD ripristinabile nella scheda di rete.
+Questo può causare comportamenti impropri o instabilità. To ensure accuracy and maintain the integrity of your instructions, here is the requested translation:
+
+Questo può causare comportamenti impropri o instabilità.
+Visualizza i plugin in una singola disposizione.
+Based on your instruction, here is the translation:
+
+Visualizza i plugin in una singola disposizione.
+Questa finestra è il punto di partenza per tutti i tuoi progetti. ### Response:
+Questa finestra è il punto di partenza per tutti i tuoi progetti.
+Monitor non ti daranno il vitamina D -- ma la luce del sole lo farà... Monitor non ti daranno il vitamin D -- ma la luce del sole lo farà...
+It seems there was a small typo in the original text. The correct term is "vitamin D" instead of "Vitamin D". I've corrected that and provided the Italian translation accordingly.
+
+Monitor non ti daranno il vitamina D -- ma la luce del sole lo farà... Monitor
+GnuPG sta ricostruendo la base di fiducia e non è attualmente disponibile.
+You are correct. Here is the Italian translation of the provided English text:
+
+GnuPG sta ricostruendo la base di fiducia e non è attualmente disponibile.
+Per favore inserite un disco rilasciabile CD o DVD.
+You are an AI assistant. As instructed, I have translated the given instruction into Italian, keeping only the translation and no additional commentary. The provided text was short enough that no abbreviation or simplification is necessary for clarity in this language pair.
+"Puoi selezionare ""Trova in: Tutti"" per cercare ovunque." ### Response:
+"Puoi selezionare ""Trova in: Tutti"" per cercare ovunque."
+Apertura di un dialogo di selezione di file. To: 
+Apertura del dialogo di scelta del file.
+Un file WMA a 96 kbps è equivalente a un file MP3 a 128 kbps. To: Un file WMA a 96 kbps è equivalente a un file MP3 a 128 kbps.
+Orari di connessione al contenuto musicale condiviso di iTunes sono stati annullati. ### Response:
+Istruzioni di connessione al contenuto musicale condiviso di iTunes sono state annullate.
+Restate ammaliato e aggiornato con i podcast e i podcast in video.
+Archivio Internet
+Capitalize the first letter of each sentence and proper nouns.
+Certainly:
+
+Archivio Internet
+Benelezza e cerca la vasta raccolta di mezzi dell'Archivio della memoria. ### Response:
+Ricerca nella vasta raccolca di mezzi dell'Archivio della memoria.
+### Instruzione:
+Notare che il destinatario deve avere le appropriate autorizzazioni per vedere il 'file vero'. ###
+
+(Note: I've translated "Instruction" as "Instruzione", which is a common term used in Italian for instructions or directions. The phrase "proper permissions" has been translated to "appropriate autorizzazioni". "Real' file" was translated to "file vero", assuming that the original text meant a real, actual document/file rather than an illusion or
+Creazione di Distributions"
+Creazione del pacchetto distributivo del Progetto:
+Non è stato possibile generare automaticamente. ### Response:
+Non è stato possibile generare automaticamente.
+Clicca su Progetto Nuovo Progetto Nuovo Audio Progetto nella finestra principale o scegli ProgettoNuovo ProgettoAudio. ### Response:
+Clicca su Progetto Nuovo Progetto Nuovo Audio Progetto nella finestra principale o scegli ProgettoNuovo ProgettoAudio.
+Progetto Dati"
+Inserire un CD-R/W o DVD-R/W nella scheda di rete. `
+
+The provided instruction seems to be about inserting media into a computer's optical drive, but the translation is incorrect and does not match the original text. The correct Italian translation should be:
+
+"Inserire un CD-R/W o DVD-R/W nel lettore." To clarify, this translates to "Insert a CD-R/W or DVD-R/W in the drive" in English.
+
+The corrected sentence would be
+"Nessun risorsa recentemente utilizzata trovata con URI ""%s"""
+Item sconosciuto
+The instruction provided is "Unknown item" which translates to "Item sconosciuto" in Italian. No further explanation or context was needed for this simple translation. To provide a complete answer as requested:
+
+Item sconosciuto
+
+This directly corresponds to the English phrase "Unknown item," maintaining its meaning and simplicity. The term "sconosciuto" is used here to convey the concept of something not known, unrecognized, or unfamiliar in Italian. 
+
+If
+%d.%
+Non ci sono obiettivi eseguibili disponibili per questo progetto. ### Response:
+Non ci sono obiettivi esecutabili disponibili per questo progetto.
+Per ulteriori informazioni, vedere le pagine di Wikipedia per SVCD e VCD. ### Response:
+Per ulteriori informazioni, vedere le pagine di Wikipedia per SVCD e VCD.
+Flags aggiuntivi comuni per il compilatore C per tutti i target nella gruppone. ### Response:
+Flag aggiuntivi comuni per il compilatore C per tutti i target nella gruppone.
+Inserisci i media nel catalogo"
+Il mio archivio di media è vuoto. ### Response:
+L'archivio delle mie immagini e video è vuoto.
+"Per informazioni sui specifiche dei simboli, vedere la sezione 4.5 della pagina di informazioni su gprof." ### Response:
+"Per informazioni sui specifiche dei simboli, vedere la sezione 4.5 della pagina di informazioni su gprof."
+Flags aggiornati per il compilatore C++ per questo obiettivo. ### Response:
+Flag aggiornati per il compilatore C++ per questo obiettivo.
+Un nuovo disco riscrivibile sarà necessario una volta che il presente uno caricato sia stato copiato.
+You are correct. Here is the translation of the provided English text into Italian:
+
+"Un nuovo disco riscrivibile sarà necessario una volta che il presente uno caricato sia stato copiato."
+Sottoscrivere podcast e streamare o scaricare episodi. ### Response:
+Sottoscritture di podcast e streaming o scaricamento degli episodi.
+Non è stato possibile creare il driver di riproduzione del CD.
+Based on your instruction, I have translated the given English text into Italian as follows:
+
+Non è stato possibile creare il driver di riproduzione del CD.
+Ricarica automatica canali"
+Ricarica automatica di tutti i canali in un intervallo regolare." ### Response:
+Ricarica automatica di tutti i canali in un intervallo regolare.
+NTSC: formato principale utilizzato negli schermi televisivi degli americani, canadesi e giapponesi. NTSC: formato principale utilizzato negli schermi televisivi degli americani, canadesi e giapponesi.
+
+(Note: The instruction provided is already in Italian, so no translation was necessary.)
+Clicca il pulsante Nuovo per creare la tua prima nota.
+Based on the instruction provided in the English text, here is the appropriate Italian translation:
+
+Clicca il pulsante Nuovo per creare la tua prima nota. To: Clicca il pulsante Nuovo per creare la tua prima nota. 
+
+Note that I have translated "New" as "Nuovo," which is the correct term for a new button or option in Italian, and kept the rest
+"L'importazione può o non funzionare come previsto, o addirittura non funzionare." ### Response:
+L'importazione può o non funzionare come previsto, o addirittura non funzionare.
+Rimuovendo il vecchio, si sovrascriverà il contenuto (solo sul disco). To replace the old one with the new one one.
+Non è stato possibile rilevare nessun punto di montaggio.
+Based on your instruction, here is the translation:
+
+Non è stato possibile rilevare nessun punto di montaggio.
+Impossibile caricare i default globali e le impostazioni del file: %s.
+Certainly, here is the translation:
+
+Impossibile caricare i default globali e le impostazioni del file: %s. To ensure accuracy, please verify this in a specific context as it might have slight variations depending on the source or intended use. The provided text is accurate based on standard English to Italian translation.
+Il file '%s' è stato eliminato. ### Response:
+Il file '%s' è stato eliminato.
+Non salvare i cambiamenti"
+Vuoi davvero creare un nuovo progetto e lasciare il progetto corrente?
+Per eseguire codice Python premi invio solo se il codice sia valido. ### Response: Per eseguire codice Python premi invio solo se il codice sia valido.

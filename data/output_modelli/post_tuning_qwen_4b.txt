@@ -1,0 +1,134 @@
+Permette di usare l'archivio e il motore di ricerca come un archivio locale e un editor online.
+Non è stato salvato il file.
+Allarme
+Avviso prima della scadenza:
+giorno/i."
+Rimuovere tutte le attività completate dalla categoria «%s»?
+Il disegnatore di interfaccia grafica Glade
+Gestore dei processi
+Plugin per l'editor di file di Anjuta.
+Il disco contenuto in «%s» non è supportato.
+Uso: billreminderd [OPZIONI...] Opzioni: --help, -h, -\tMostra questa pagina.
+Impossibile creare il file di fifo con nome «%s».
+«Progetto»
+Creazione del percorso di compilazione del progetto:
+Impossibile compilare il progetto.
+Mostra la barra dei menù e le cinque tipologie di progetti da scegliere.
+La seconda colonna elenca il numero di nodi da mostrare se l'elemento viene espanso.
+Includere questa obiettivo nel pacchetto distribuito.
+La dimensione del file è troppo grande per il disco anche con l'opzione di scrittura superiore.
+Impossibile ottenere il pipe giusto per il processo.
+(pid=%d)
+File di blocco trovato: Probabilmente il programma è stato eseguito in modo anomalo.
+Inserire un disco DVD scrivibile con almeno %i MiB di spazio libero.
+Permette di verificare l'integrità dei file.
+Fare clic destro su qualsiasi plugin nella lista per configurarlo.
+Visualizza le informazioni dell'artista da Wikipedia nel riquadro contenitore.
+Non sarà scritto alcun informazione di traccia (artista, titolo, ecc.) nel disco.
+Fare clic sul pulsante Controlla per avviare il controllo di integrità.
+Nel menu a discesa Stile immagine selezionare come si vuole posizionare l'immagine.
+Non possono essere ripresute automaticamente la prossima volta che si avvia Banshee.
+Impossibile fermare il servizio.
+Il servizio non è in esecuzione!
+Rimuovere le modifiche e chiudere?
+Dall'elenco delle opzioni selezionare il metodo di scissione.
+Selezionare uno dei due plugin e fare clic su Configura.
+È possibile scegliere quali plugin usare per il progetto.
+Impossibile modificare il file di script.
+Nuovo aceleratore...
+Carta attiva
+Quale tipo di grafico visualizzare.
+Tipo di sezione CD-V:
+Scegliere Crea un CD video super per creare un CD video super.
+Il percorso non è valido: «%s».
+Impossibile analizzare l'utilizzo del disco.
+Rimuovere il progetto
+Selezionare file
+Vuoi davvero svuotare il progetto corrente?
+Opzioni aggiuntive del compilatore C++ comuni per tutti i progetti nella gruppatura.
+«In sostanza, Accerciser è un'utilità di controllo avanzato per il mouse.»
+«Importa ‟{0}»
+iTunes® 7 ha introdotto nuove problematiche di compatibilità e funziona attualmente solo con altri client iTunes® 7.
+Non ci sono video da scrivere sul disco.
+Non è stato inserito un disco da copiare.
+Installazione del progetto:
+Impossibile pulire il progetto.
+«Foca è un'IDE semplice e utile per l'interfaccia utente, ma potente per lo sviluppo efficace.»
+Rimuovere tutte le attività completate?
+Inserire un disco riscrivibile contenente dati.
+Il file «%s» è stato eliminato dal disco.
+La scartatura veloce è un modo per cancellare rapidamente un disco.
+"Includere nella distribuzione:
+Includere questa obiettivo nel pacchetto distribuito.
+Per trovare informazioni su Accerciser, visita il sito web di Accerciser GNOME Live!
+Impossibile ottenere le informazioni del file.
+Il file è troppo grande.
+Opacità e colore del bordo di evidenziazione.
+Le interfacce supportate dallo strumento selezionato sono mostrate come sensibili.
+«Non è stato selezionato alcun file.»
+Il plugin eseguirà il test sulle selezionate e su tutte le loro discendenti.
+Compilazione
+Vuoi pulire la lista?
+Opzioni aggiuntive del compilatore Fortran per questo obiettivo.
+«Ci sono lavori in sospeso, attendere fino alla loro conclusione.»
+Non appare essere un'immagine di disco valida o un file CUE valido.
+Supporto Libtool:
+Aggiungere il supporto alla compilazione di librerie condivise e statiche con libtool.
+Aprire un eseguibile o collegarsi ad un processo per avviare il debug.
+L'aggiornamento avviene dopo 10 secondi di inattività dal punto di vista dell'utente.
+Premendo CtrlAlta si selezionerà l'accessibile del widget sotto il puntatore.
+Rimuovere il sorgente «%s» dal progetto?
+«Se non è già presente nel file di preferenze, aggiungerebbe il nuovo elemento.»
+Per visualizzare i plugin disponibili, fare clic su Modifica Plugin.
+«Analisi di «%s» fallita: %s».
+Migliaia di messaggi non sono stati salvati nel file mbox.
+Cartella di archiviazione locale «%s»...
+Migliaia di messaggi nella casella locale...
+Ripetere artisti
+Mostrati sono artisti che dovrebbero essere mescolati.
+Inserire un CD o un DVD scrivibile nel proprio lettore.
+Questo può portare ad azioni non previste o instabilità.
+Visualizza i plugin in una sola disposizione.
+Questa finestra è il punto di partenza per tutti i tuoi progetti.
+Non i monitori ti daranno vitamina D – ma il sole invece sì.
+GnuPG sta ricostruendo la base di fiducia e non è disponibile in questo momento.
+Inserire un disco o un DVD riscrivibile.
+«Per cercare ovunque, selezionare «Tutto».
+Un'opzione di scelta del file aprirà.
+Un file WMV a 96 kbps è equivalente a un file MP3 a 12 you should use the same bitrate for all files in your project.
+Non è più possibile connettersi da client terze parti alle condivisioni di musica di iTunes.
+Sfogiatevi e tenetevi aggiornati con i podcast e le videopodcast.
+Archivio Internet
+Esplora e cerca la vasta collezione di archivio multimediale dell'Internet Archive.
+Nota che il destinatario deve avere le autorizzazioni necessarie per vedere il file reale.
+«Genera distribuzione»
+Creazione del pacchetto distribuzione del progetto:
+Impossibile generare automaticamente.
+Fare clic sul progetto audio nella finestra principale o scegliere ProgettoNuovo progettoNuovo progetto audio.
+Progetto dati
+Inserire un nuovo disco CD-RW o DVD-RW nel proprio lettore.
+Nessun risorsa recentemente usata trovata con l'URI «%s».
+Elemento sconosciuto
+_«%d»
+Non ci sono obiettivi eseguibili disponibili per questo progetto.
+Per ulteriori informazioni, consultare le pagine di Wikipedia relative a SVCD e VCD.
+Opzioni comuni aggiuntive del compilatore C per tutti i progetti nella gruppatura.
+Importa materiale nel catalogo
+La tua libreria multimediale è vuota.
+Per informazioni sui tipi di simbolo, vedere la sezione 4.5 della pagina di documentazione dell'opzione gprof.
+Opzioni aggiuntive del compilatore C++.
+Un nuovo disco riscrivibile sarà necessario una volta che il disco attualmente caricato sia stato copiato.
+Sottoscrivere i podcast e ascoltare o scaricare episodi.
+Impossibile creare il driver di riproduzione CD.
+Ricarica automaticamente i canali
+Ricarica automaticamente tutti i canali con un intervallo regolare.
+«NTSC: formato usato principalmente negli Stati Uniti, Canada e Giappone nelle televisioni.»
+Fare clic sul pulsante Nuovo per creare la prima nota.
+«L'importazione potrebbe non funzionare come si aspettava o al tutto.»
+Sostituirlo scriverà il suo contenuto (solo sul disco).
+Non è stato possibile rilevare alcun punto di montaggio.
+Impossibile caricare i file di impostazioni globali e configurazione: «%s».
+Il file «%s» è stato eliminato.
+Rimuovere le modifiche
+C'è un progetto attuale? Si vuole davvero creare un nuovo progetto e discaricare l'esistente?
+Premere invio per eseguire il codice Python valido.

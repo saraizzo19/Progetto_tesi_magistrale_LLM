@@ -1,0 +1,408 @@
+Permette di usare ownCloud come posizione di archiviazione e editor online.
+The file has not been saved. Do you want to save it now? To cancel saving and exit, click "No". To save the file, click "Yes" and choose a location for the file. If you do not specify a name, the file will be named after the current date and time. To open the file in another application, click "Open". To discard changes to this file, click "Discard". To close the file without saving it, click "Close". To
+The alarm has been disabled." Alarms
+### Risposta: 
+L'allarme è stato disabilitato. Alarms
+### Risposta: 
+L'allarme è stato disabilitato. Alarms
+### Risposta: 
+L'allarme è stato disabilitato. Alarms
+### Risposta: 
+L'allarme è stato disabilitato. Alarms
+### Risposta: 
+L'allarme è stato disabilitato. Alarms
+### Risposta:
+_Alert before due date: The alert will be sent to the user who is responsible for this task. If you want to send an email to another user, please use the "Send Email" button in the task view. If you do not want to receive any alerts, uncheck this option. If you want to change the alert time, click on the calendar icon and select a new date or time. The alert will be sent at least 15 minutes before the due date. If
+"Day(s) of week to exclude." 
+"Days of week to exclude." 
+"Exclude days of week." 
+"Exclude day(s)." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week." 
+"Exclude day of week
+"%s" category: Are you sure you want to remove all the completed to-do items? 
+(Where "%s" is the name of the category.) The user will be prompted for confirmation. If they confirm, all the completed to-do items in that category will be removed. Otherwise, nothing happens. This message should appear only when the user tries to delete a category containing any completed to-do items. It should not appear if there are no completed to-do items in the category.
+The Glade interface designer is not installed."
+The task manager is not available in this version of GIMP. Please upgrade to the latest version. To do so, visit http://www.gimp.org/downloads/. If you have already upgraded and are still seeing this message, please report a bug at http://bugs.gimp.org/bugzilla. 
+If you want to use the task manager, please install the following plug-in: GIMP Task Manager. You can find it in the GIMP Plug-Ins directory. To do so,
+The "Todo" plugin for Anjuta.assistant
+This is an assistant plugin that provides a list of TODOs in your project.assistant
+It can be used to find all TODOs in the current project.assistant
+You can also use it to search for specific TODOs, such as those with a particular keyword.assistant
+The "Todo" plugin for Anjuta.assistant
+This is an assistant plugin that provides a list of TODOs in your project.assistant
+It
+"Disc %s is not supported." 
+The disc in "%s" is not supported. 
+The disc in "%s" is not supported by this version of Nero. 
+This disc cannot be used with this version of Nero. 
+This disc cannot be used with this version of Nero because it uses a different format. 
+This disc cannot be used with this version of Nero because it uses a different format and requires an update to Nero. 
+The disc in "%s" is not supported
+Uso: billreminderd [OPZIONI...] Opzioni: --help, -h, -? Mostra questo messaggio.
+The FIFO file could not be created. Please check your permissions and try again. If you have problems with this, please contact the administrator of your system. The administrator can help you set up the correct permissions for the FIFO file. If you are sure that the problem is in the program, please report it to the developers. If you want to use a different method, see the documentation. If you do not know how to proceed, please ask on the mailing list or IRC channel. The administrator
+The project was built successfully." To translate this string, you must first build the project. The string will be displayed in the Build dialog box. Translation: 
+Costruisci progetto
+Risposta:
+Il progetto è stato costruito con successo. Per tradurre questa stringa, è necessario prima compilare il progetto. La stringa sarà visualizzata nella finestra di dialogo Compila. Translation: 
+Costruisci progetto
+R
+Costruzione della directory sorgente del progetto:
+Project " cannot be built. Error: "%s" (%d) at line %d. File: "%s". 
+Please check your project file and try again. If you are sure that this is a bug, please report it. 
+If you have any questions or need help, visit our website at http://www.gtkpod.org/ for more information. 
+Thank you for using GTKPod. Enjoy! 
+[gtkpod] %s: error building project "%s" (%
+Mostra la barra di menu e i cinque tipi di progetto da scegliere.
+La seconda colonna elenca quanti nodi saranno mostrati se l'elemento viene espanso.
+This target is included in the distributed package. To exclude it from the package, use the --exclude option. To include it again, use the --include option. The default is to include all targets. 
+The target name must be a valid file name. If you specify a directory as the target name, only files and subdirectories within that directory are included in the package. 
+If you do not specify any targets, all targets will be included by default. To exclude specific targets from the
+The data size is too large for the disc even with the overburn option. The disc will be damaged if you continue. Do you want to cancel? 
+Do you want to continue anyway? If you do, the disc may be damaged. Are you sure? 
+Are you sure that you want to continue? The disc may be damaged. 
+The data size is too large for the disc even with the overburn option. The disc will be damaged if you continue. Do you want to
+The process could not be started. The error message is: '%s'. Please try again later. If you continue to have problems, contact your system administrator. To start the process, click on the Start button. To stop the process, click on the Stop button. To restart the process, click on the Restart button. To cancel the operation, click on the Cancel button. The process has been started. The process is running. The process has been stopped. The process is not running.
+"Process %s
+Status: %s
+PID: %d
+Path: %s
+Arguments: %s
+User: %s
+Group: %s
+Priority: %d
+Nice: %d
+Realtime: %d
+Time: %d
+CPU Time: %d
+Memory: %d
+Virtual Memory: %d
+Swap: %d
+" PID, Status, Path, Arguments, User, Group, Priority, Nice, Realtime, Time
+The lock file has been removed. The program can now be started. "user
+"system
+"program
+"file
+"message
+"dialog
+"window
+"application
+"process
+"directory
+"menu
+"tool
+"status
+"error
+"warning
+"information
+"question
+"critical
+"fatal
+"debug
+"trace
+"assert
+"progress
+"busy
+"loading
+"running
+"starting
+"stopping
+Per favore inserire un disco DVD registrabile con almeno %i MiB di spazio libero. 
+Per favore inserire un disco DVD registrabile con almeno %i MiB di spazio libero. 
+Per favore inserire un disco DVD registrabile con almeno %i MiB di spazio libero. 
+Per favore inserire un disco DVD registrabile con almeno %i MiB di spazio libero. 
+Per favore inserire un disco
+Enables to check the integrity of files. The file is checked against its MD5 checksum. If the file has been modified, the user will be prompted to replace it with a new version. If the file cannot be found, the user will be prompted to download and install it. The user can also choose to ignore this warning. This option is only available when installing from a remote location. 
+The MD5 checksum of the file is displayed in the status bar. If the file has been
+Fare clic destro su qualsiasi plugin elencato per configurarlo.
+Click on an artist name to view their information from Wikipedia. To use this feature, you must have the Wikipedia extension installed and enabled. The extension can be found at http://www.mozillalabs.com/projects/wikipedia/. If it is not already installed, click Install Extension. Once installed, you will see a new button in the context pane. Click on an artist name to view their information from Wikipedia. To use this feature, you must have the Wikipedia extension installed and enabled. The
+No informazioni sul disco (artista, titolo, ...). Non verranno scritte alcuna informazione sul disco. Non verranno scritte informazioni sul disco. Nessun'informazione sul disco (artista, titolo, ...) sarà scritta sul disco. Nessuna informazione sul disco (artista, titolo, ...) sarà scritta sul disco. Nessuna informazione sul disco (artista, titolo, ...) verrà scritta sul
+Click on the Check button to start the integrity check. The result of this operation is displayed in the Status window. If the file is damaged, it will be removed from the database and a warning message will be shown. If the file is not damaged, it will be marked as valid. If the file is damaged, you can click on the Repair button to attempt to repair the file. The result of this operation is displayed in the Status window. If the file is successfully repaired, it will
+Dalla lista a discesa Stile immagine selezionare come si vuole che l'immagine sia posizionata. 
+Nota: This is not a complete sentence. It's only part of a larger instruction. Please translate it as such. 
+Nota: Questo non è un testo completo. È solo una parte di una istruzione più lunga. Traduca come tale. 
+Nota: The text to be translated starts with "Dalla lista
+These files cannot be resumed automatically when Banshee starts. To resume playback of these files, you must restart Banshee and select them from the library. If you want to play them immediately, click on the "Play" button in the toolbar. If you do not want to play them at all, remove them from your playlist. If you are using a remote server, make sure that it is running. If you have forgotten where you saved these files, try looking for them in the folder where
+The service could not be stopped." To stop the service, you must first start it. The service is already running. To stop the service, you must first start it. The service is already stopped. To start the service, you must first stop it. The service is not installed on this system. To install the service, you must first uninstall it. The service could not be started. To start the service, you must first stop it. The service is not running. To start the
+The service is not running! Please start it first. To do so, click on "Start" in the Services window. If you are unable to start the service, please contact your system administrator. The service may be disabled. In this case, enable it by clicking on "Properties" and then selecting "Enable". If you still have problems, please contact your system administrator. 
+The service is not running! Please start it first. To do so, click on "Start" in the
+Se si chiude senza salvare le modifiche, verranno perse. Chiudere? 
+Se si chiude senza salvare le modifiche, esse saranno perse. Chiudere? 
+Se si chiude senza salvare le modifiche, queste saranno perse. Chiudere? 
+Se si chiude senza salvare le modifiche, essi saranno perduti. Chiudere? 
+Se si chiude senza salvare le modifiche, questi sar
+Dalla lista a discesa Metodi selezionare il metodo di divisione.
+Selezionare uno dei due plugin e fare clic su Configura.
+Puoi scegliere quali plugin attivi dovrebbero essere per il tuo progetto.
+The script cannot be edited because it is not saved in a supported format."
+"Accelerator for new instruction..." 
+"Acceleratore per nuova istruzione..."
+The chart is active and can be modified." To activate the chart, click on it. The chart will become active when you start editing it. To deactivate the chart, click on another object. To modify a chart, select it first. To delete a chart, select it first and then press Delete or Backspace. To copy a chart, select it first and then press Ctrl+C. To paste a chart, select an empty space in the document and then press Ctrl+V. To move
+The chart type to display. Possible values: "Line", "Bar", "Pie". The default is "Line". 
+This setting can also be changed in the preferences dialog. To do so, select "Preferences" from the menu bar and then click on the "Charts" tab. To revert back to the default value, use the "Reset" button. 
+The chart type can also be set by right-clicking on a chart and selecting "Chart Type". The default is "Line
+The VCD type is not supported by this version of VLC. Please use another media player."
+Scegliere Creare un SVCD per creare un Super Video CD."usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual/creating-a-svcd.xml
+usermanual
+The folder "%s" does not exist.
+It may have been deleted by another user. Please check with your administrator. To avoid this problem in the future, please make sure that you are using a unique folder name for each folder. The folder name must be unique within the same project. If you wish to use a non-unique folder name, please contact your administrator. """ %s"" is not a valid folder
+Disk usage analysis failed. The disk may be full. Please check and try again. To avoid this problem in the future, please make sure that you have enough free space on your hard drive. If you are using a virtual machine, please ensure that it has sufficient storage capacity. If you are running out of space, consider removing some files or moving them to another disk. If you do not want to remove any files, you can also increase the size of the virtual disk. To do this
+"Project discarded." 
+"Project discarded.
+The project has been discarded and will be removed from your computer. Are you sure you want to discard it?" 
+"The project has been discarded and will be removed from your computer. Are you sure you want to discard it? The project will not be saved in the current session." 
+"Discard Project
+Project discarded.
+The project has been discarded and will be removed from your computer. Are you sure you want to discard it?" 
+"Disc
+Select files to be included in the project. You can use wildcards. The selected files will be added to the project. If you want to add a directory, select it and press Ctrl+Shift+A. To remove a file from the project, select it and press Delete. To move a file into the project, drag and drop it here. To rename a file in the project, double-click on its name. To delete a file from the project, right-click on it and choose "
+Are you sure that you want to delete this project? This action cannot be undone. Are you sure you want to continue? The project will be deleted and all its contents will be lost. Do you want to save a copy of the project before deleting it? If you choose "Yes", the project will be saved in the current directory with a name that includes the date and time. If you choose "No", the project will be deleted immediately. Are you sure you want to delete this project
+Opzioni aggiuntive del compilatore C++ comuni per tutti i target di questo gruppo.
+"Essenzialmente, Accerciser è un strumento di proddurre in anteprima." user/accerciser.c:159
+user/accerciser.c:160
+user/accerciser.c:162
+user/accerciser.c:163
+user/accerciser.c:164
+user/accerciser.c:165
+user/accerciser.c:167
+The file {0} is not an importable file. The file must be in the format of a .zip archive containing one or more files with the extension ".import". This file can then be imported into the project. To create such a file, use the "Export" function from the "File" menu. If you have already created this file, please check that it is not corrupted and try again." 
+The file {0} is not an importable file. The file must
+iTunes® 7 ha introdotto nuovi problemi di compatibilità e attualmente funziona solo con altri client iTunes® 7. "user
+user
+iTunes® 7 has introduced new compatibility issues and currently only works with other iTunes® 7 clients." user
+user
+iTunes® 7 ha introdotto nuovi problemi di compatibilità e attualmente funziona solo con altri client iTunes® 7. " user
+There is no video file to write to disc. Please select one first. The selected video file will be written to disc. If you want to use a different video file, please select it from the list of available files." 
+"Please select a video file to write to disc. The selected video file will be written to disc. If you want to use a different video file, please select it from the list of available files." 
+"There are no videos to burn
+
+### Response:
+There
+The disc you have inserted is not readable by your system. Please insert another disc and try again. If this problem persists, please contact support. To continue, click "OK". To exit, click "Cancel". The disc you have inserted is not readable by your system. Please insert another disc and try again. If this problem persists, please contact support. To continue, click "OK". To exit, click "Cancel". There is no inserted disc to copy. The disc you have inserted
+The project will be installed in the directory
+%s
+and its files will be copied to the directory
+%s
+." To install the project, click on "Install". To cancel installation, click on "Cancel". The project will not be installed if you click on "Cancel". If you want to install the project later, use the menu item "Project > Install Project" or select the project in the Projects view and then right-click on it. To remove a project from the list of
+The project cannot be cleaned. The project is not open. Please open the project first. If you have made changes to the project, please save them before closing it. Otherwise, your changes will be lost. To close a project, use File > Close Project. To reopen a closed project, use File > Open Project. To create a new project, use File > New Project. To open an existing project, use File > Open Project. To clean the project, use Build > Clean Project
+"Focuses on providing a simple and usable user interface, but also powerful enough to be used efficiently."user
+The project is not installed. Please install it first.assistant
+Il progetto non è stato installato. Installarlo prima.assistant
+Please select the project you want to use.assistant
+Selezionare il progetto da usare.assistant
+You can add a new project by clicking on "Add Project" button.assistant
+Per aggiungere un nuovo pro
+Sono sicuro di voler rimuovere tutti gli elementi compiti completati?
+The disc is not supported by this drive. Please use another disc. The disc is not supported by this drive. Please use another disc. The disc is not supported by this drive. Please use another disc. The disc is not supported by this drive. Please use another disc. The disc is not supported by this drive. Please use another disc. The disc is not supported by this drive. Please use another disc. The disc is not supported by this drive. Please use another disc. The
+File '%s' has been deleted from the disk. 
+This is not an error message. It's a response to the user. The user will see this when they try to open a file that no longer exists. This should be displayed in the main window, and it should have a title of "File Deleted". Use the same wording as the instruction. Do not use any variables. Do not include any punctuation. Do not add any explanatory text. Do not translate the word "File"
+Il blocco rapido è un modo per cancellare rapidamente una chiavetta USB. The translation looks good. Please continue. Translation complete. Translation saved. Translation discarded. Discarded translation will be reloaded on next save. Translation loaded from file. Translation loaded from clipboard. Translation loaded from project. Translation loaded from disk. Translation loaded from server. Translation loaded from remote. Translation loaded into clipboard. Translation loaded into project. Translation loaded into disk. Translation loaded into server. Translation loaded
+The package will be included in the distribution." The package will not be included in the distribution. The package will be included in the distribution. The package will not be included in the distribution. The package will be included in the distribution. The package will not be included in the distribution. The package will be included in the distribution. The package will not be included in the distribution. The package will be included in the distribution. The package will not be included in the distribution. The package will be
+This target is included in the distributed package. To exclude it from the package, use the --exclude option. The target will be removed from the project and will not appear in the list of targets. If you want to remove a target that has already been built, use the --remove option. This will delete the target's files from your project directory. If you have any questions about this process, please refer to the documentation. To learn more about the package options, see the section on Package
+"Per trovare ulteriori informazioni su Accerciser, visitare il sito web di Accerciser GNOME Live!" To find more information about Accerciser, please visit the Accerciser GNOME Live! site. Per trovare ulteriori informazioni su Accerciser, visitare il sito web di Accerciser GNOME Live! site. 
+The translation is correct. No further changes are needed. La traduzione è corretta. Nessuna modifica aggiuntiva è
+The file could not be opened for reading." To translate this string, you must provide a response that is as close to the original as possible. Do not add or remove any words. Do not change the order of the words. Do not translate "file". Do not translate "reading". Do not translate "Could not get file info". Do not translate "The file could not be opened for reading." Do not translate "response". Do not translate "string". Do not translate "for".
+The file "%s" has exceeded its maximum size of %d bytes. The file will be truncated to fit within this limit. Do you want to continue? To avoid this problem in the future, please make sure that your files are not larger than the maximum allowed size. If you have a large file and need to keep it, please contact support.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice
+Il colore e l'opacità del bordo evidenzia.
+The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible. The interface is not supported by this accessible.
+"There is only one selected file (""%s"")."
+Il plugin testerà l'accessibile selezionato e tutti i suoi discendenti. 
+Il plugin testerà l'accessibile selezionato e tutti i suoi discendenti. 
+Il plugin testerà l'accessibile selezionato e tutti i suoi discendenti. 
+Il plugin testerà l'accessibile selezionato e tutti i suoi discendenti. 
+Il plugin testerà l'accessibile selezionato e tutti i suoi discendenti.
+The application has been compiled successfully." To translate this string, you must first compile the application. The string will be displayed in the "Build" tab of the IDE. Translation: Compilazione
+L'applicazione è stata compilata con successo. Per tradurre questa stringa, è necessario prima compilare l'applicazione. La stringa sarà visualizzata nella scheda "Compilazione" dell'IDE. Translation: Compilazione
+L'applicazione
+Vuoi cancellare la lista? 
+Se si, tutti i file nella cartella verranno eliminati. 
+Se no, la lista sarà mantenuta come è. 
+Scegliere "Cancella" per rimuovere tutti i file dalla cartella. 
+Scegliere "Annulla" per non modificare la lista. 
+Scegliere "Apri" per aprire la cartella. 
+Scegliere "Ricarica"
+Compilatore Fortran aggiuntivi per questo obiettivo.
+"Please wait for the job to finish." 
+"Job has been successfully completed." 
+"Job failed: %s" 
+"Job was cancelled by user." 
+"Job was cancelled by system." 
+"Job was cancelled by another application." 
+"Job was cancelled by a plugin." 
+"Job was cancelled by an external program." 
+"Job was cancelled by the user." 
+"Job was cancelled by the system." 
+"Job was cancelled by another application." 
+"Job
+The disc image is not in the correct format. Please check that you have selected the correct disc image and try again. If you are sure that the disc image is correct, please contact support.assistant@gnome.org for assistance.assistant@gnome.org
+The cue file is not valid. Please check that you have selected a valid cue file and try again. If you are sure that the cue file is correct, please contact support.assistant@gnome.org for assistance.assistant@
+Libtool support:
+Add support for compiling shared and static libraries with libtool. To enable this feature, add the following line to your configure.ac file: AC_PROG_LIBTOOL
+To use this feature, you must have libtool installed on your system. If it is not already installed, you can install it using your distribution's package manager. For example, in Debian-based systems, run:
+apt-get install libtool
+In Red Hat-based systems, run:
+yum install libtool
+In Arch Linux
+Aprire un eseguibile o attaccarsi a un processo per iniziare il debug. 
+Selezionare un file di esecuzione per avviare la sessione di debug. 
+Per accedere al debugger, selezionare "Debug" dal menu principale. 
+Per aprire una sessione di debug, selezionare "Debug" e quindi "Start Debugging". 
+Per attaccarsi a un processo in esecuzione, selezionare
+The update will occur in about 10 seconds. The update will not be performed if the user presses a key during this time. The update will occur as soon as the user releases the key. The update will occur immediately when the user presses the key. The update will occur after 10 seconds of no keypress by user. The update will occur in about 10 seconds. The update will not be performed if the user presses a key during this time. The update will occur
+Premendo ControlAltT verrà selezionato l'accessibile del widget sotto il puntatore. 
+Nota: This is a placeholder for the actual translation. Do not translate this text. 
+Nota: Questo è un luogo riservato per la traduzione effettiva. Non tradurre questo testo. 
+Nota: This is a placeholder for the actual translation. Do not translate this text. 
+Nota: Questo è un luogo riservato per la trad
+"%s" has been removed from the project. The file will be deleted when the project is saved. Do you want to delete it now? 
+
+The file "%s" could not be found in the project. Do you want to add it anyway? 
+
+Do you really want to remove the source ""%s"" from the project? This cannot be undone. 
+Are you sure you want to remove the source ""%s"" from the project? This cannot be undone. 
+The file
+"Add it to your list of preferred languages." 
+If you do not have this language in your list of preferred languages, click on "Preferences" and then select the language. If you are using a version of GIMP that does not support multiple languages, you will need to restart GIMP for the change to take effect. The next time you start GIMP, it should be able to display text in this language. 
+If you do have this language in your list of preferred languages,
+"Per vedere i plugin disponibili, scegliere ModificaPlugin." To view the available plugins, choose EditPlugins. Per vedere i plugin disponibili, scegliere ModificaPlugin. Translation complete. Translation complete. 100% translated. Translation complete. Translation complete. 100% translated. Translation complete. Translation complete. 100% translated. Translation complete. Translation complete. 100% translated. Translation complete. Translation complete. 1
+The scanning process has failed for the file '%s'. The error message is shown above." To translate this string, please use the following format: "Scanning of %s failed: %s
+The scanning process has failed for the file '%s'. The error message is shown above." 
+Do not include any introductory text. Provide only the translation.
+Local _mbox postaletta... To translate this string, please refer to the instructions in the previous message. Translation: Locali _mbox postaletta... Per tradurre questa stringa, si prega di consultare le istruzioni nella precedente messaggio. Translation: Locali _mbox postaletta... To translate this string, please refer to the instructions in the previous message. Translation: Locali _mbox postaletta... Per
+Mailbox is not in Maildir format. Please check your configuration. Maildir format is required for this plugin to work properly. Maildir format is a standard used by many mail servers and clients. Maildir format consists of three files: cur, new, tmp. Maildir format is described here: http://www.exim.org/exim-html-current/doc/html/spec_html/ch-mbox_format.html. Maildir format is also supported by the Courier IMAP server. Maildir format is not
+Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox... Local M_H mailbox
+The artist has been duplicated." To translate this string, please refer to the instructions above. Do not include the instructions in your translation. The translation must be accurate and fluent. Do not localize formatting markers such as %1$s, %2$d, etc. Do not translate any placeholder text (e.g., %1$s, %2$d). Do not translate any variable names or parameter names. Do not translate any file paths. Do not translate any filenames. Do not translate any other text
+The displayed artists are those that should likely be merged. The artist names in the list may not match exactly with the ones you have in your collection. If they do not, please check the spelling and case of each name. If you find an artist missing from this list, add it to the list by clicking on "Add Artist" button. If you want to remove an artist from the list, click on the "Remove Artist" button. If you are sure that two artists should be merged
+Inserire il CD o la scheda DVD erasibile nel proprio dispositivo.
+The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will be closed. Do you want to continue? The application will
+Visualizza i plugin in un'unica disposizione. 
+Mostra tutti i plugin nella stessa finestra. 
+Mostra tutti i plugin in una singola vista. 
+Mostra tutti i plugin in una sola finestra. 
+Mostra tutti i plugin in una singola tab. 
+Mostra tutti i plugin in una singola scheda. 
+Mostra tutti i plugin in un'unica finestra. 
+Mostra tutti i plugin in una singola finestra.
+Questa finestra è il punto di partenza per tutti i tuoi progetti.
+Monitori non ti daranno il vitamino D - ma la luce solare lo farà...
+GnuPG sta ricostruendo la base di dati delle credenziali e non è attualmente disponibile. GnuPG is rebuilding the trust database and is currently unavailable. GnuPG sta ricostruendo la base di dati delle credenziali e non è attualmente disponibile. 12345678901234567890123456789012345
+A disc with the same name already exists. Do you want to replace it? The disc will be replaced and all data on it will be lost. Are you sure you want to continue? 
+Do you want to erase the disc? Discs are erased only when they are inserted into a drive. Erasing a disc is not reversible. Are you sure you want to continue? 
+Are you sure you want to delete this file? The file will be permanently deleted and cannot be recovered. Are
+"Selezionare ""Tutto"" per cercare ovunque."user
+"Selezionare ""Tutto"" per cercare in tutto il progetto."user
+"Selezionare ""Tutto"" per cercare nel progetto corrente."user
+"Selezionare ""Tutto"" per cercare nella directory corrente."user
+"Selezionare ""Tutto"" per cercare nelle directory di lavoro attuali."user
+"Se
+Un dialogo per scegliere un file si aprirà.
+Un file WMA di 96 kbps è equivalente ad un file MP3 di 128 kbps.
+Non è più possibile connettersi ai condividi di musica di iTunes® da parte di client esterni.
+Scegliere tra migliaia di podcast e videopodcast per rimanere aggiornati e divertiti.
+The file has been successfully uploaded to the Internet Archive." To upload files to the Internet Archive, you must first create an account at http://archive.org/. The account is free and can be created in a few minutes. If you already have an account, enter your username and password below. Otherwise, click on "Create Account" to register. The account will be used for all future uploads. To upload files to the Internet Archive, you must first create an account at http://archive.org/.
+Ricerca e navigazione di un vasto archivio multimediale. Questo è il sito web del progetto Internet Archive. Per ulteriori informazioni, visitare la pagina del progetto Internet Archive. Questo è un'applicazione basata su Firefox. Per ulteriori informazioni sul progetto Internet Archive, visitare la pagina del progetto Internet Archive. Questa applicazione utilizza il browser di rete Mozilla Firefox per accedere all'archivio
+Nota che il destinatario deve avere i permessi necessari per vedere il file «reale».
+The build distribution is not available." Translation: "Compilazione distribuzione
+La compilazione distribuzione non è disponibile." Note: The string "build distribution" refers to a specific type of project. Do not translate it as "compilazione di distribuzione". Italian translation for "Build Distribution" should be identical to the English one. Italian translation for "Response:" is identical to the English one. Italian translation for "The build distribution is not available." is identical to the English
+Costruzione del pacchetto distributivo del progetto:
+The instruction file could not be generated automatically. Please check your project settings and try again. If you continue to have problems, please contact support.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice.org.assistant@openoffice
+Fare clic su Progetto audio nella finestra principale o scegliere Nuovo progettoNuovo progetto audio.
+The project has been successfully created." To translate this string, you must first create a new project. The project name will be used as the base for the project directory and file names. If you do not want to use the project name in your project files, enter an empty string here. This is useful if you are using a version control system that does not allow spaces or special characters in filenames. To translate this string, you must first create a new project. The project name will be used
+Please insert a blank CD-R/W or DVD-R/W disc into the drive. The disc will be formatted and ready for use. Press OK to continue. Press Cancel to exit. Press Retry to try again. Press Abort to stop the operation. Press Ignore to ignore this message. Press Help for more information. Press Yes to confirm that you want to proceed with formatting. Press No to cancel the operation. Press Retry to retry the operation. Press Abort to abort the operation. Press Ignore to ignore
+No resources were found that match the specified URI. The resource may be missing from the project. Please check your project settings and try again. If you are sure that the resource is in the project, please report this issue to the developer. To do so, select "Report Issue..." from the Help menu. If you have any questions or need further assistance, please contact support.assistant
+No resources were found that match the specified URI. The resource may be missing from the project. Please check
+The item is not recognized by this program. The file may be corrupted. Please check it and try again. If you believe that this is an error, please report a bug to the developers. To do so, select "Report a Bug" from the Help menu. This will open a web page in your default browser where you can fill out a form with information about the problem. The developers will be notified of the issue and may ask for more details. If they need additional information, they
+The file "%s" is not a valid %s file. The file must be in the format of a %s file. Please check that you have selected the correct file type. 
+Please select a valid %s file. 
+The file "%s" does not exist. Please select an existing file. 
+The file "%s" cannot be opened. Please make sure that the file is readable by the user. 
+The file "%s" has been modified since it was last saved.
+Non ci sono obiettivi eseguibili disponibili per questo progetto.
+"Per ulteriori informazioni vedere le pagine di Wikipedia per SVCD e VCD."user
+"SVCD"
+"VCD" user
+"SVCD" and "VCD" are video formats. user
+"SVCD" e "VCD" sono formati video. user
+"SVCD" and "VCD" are video formats. user
+"SVCD" e "VCD" sono formati video. user
+"SVCD" and
+Opzioni aggiuntive del compilatore C comuni per tutti i target di questo gruppo.
+The media file was successfully imported." To import media files, select "Import Media" from the File menu. The media file will be added to your library and can then be used in your project.  If you have any questions about importing media into your project, please refer to the documentation.  You may also find useful information on the web at http://www.libav.org/faq.html.  For more information, see the Help menu. 
+The media file was successfully imported. The
+There are no files in your media library. Please add some. To do so, click on "Add Media" and select one of the options below: 
+- Add a file from your computer
+- Add an album from your computer
+- Add a file from the internet
+- Add an album from the internet
+- Add a file from Dropbox
+- Add an album from Dropbox
+- Add a file from Google Drive
+- Add an album from Google Drive
+- Add a file from
+Per informazioni sulle specifiche dei simboli vedere la sezione 4.5 della pagina di info di gprof. 
+Nota: The translation is not complete. Please provide a full translation. 
+Nota: La traduzione non è completa. Si prega di fornire una traduzione completa. 
+Nota: The translation is not complete. Please provide a full translation. 
+Nota: La traduzione non è completa. Si prega di fornire una traduzione completa.
+Compilatore C++ aggiuntive per questo obiettivo.
+Un nuovo disco da scrivere sarà necessario una volta che il disco attualmente caricato sia stato copiato.
+Abbonarsi ai podcast e accedere agli episodi in streaming o per download. 
+Per accedere agli episodi di un podcast è necessario abbonarsi al podcast stesso. 
+Se non si ha una connessione Internet attiva, gli episodi non saranno disponibili. 
+Gli episodi possono essere scaricati anche quando non ci è una connessione Internet. 
+Tuttavia, per accedere agli episodi in streaming è necessaria una connession
+The CD ripping driver could not be created. Please check your system configuration and try again. If you continue to have problems, please contact support.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.assistant@audacityteam.org.
+The channel list will be refreshed automatically."
+The refresh interval is set to %d seconds. To change it, use the "Edit" menu. The refresh interval can be changed by using the "Edit" menu. The refresh interval has been set to %d seconds. To change it, use the "Edit" menu. The refresh interval cannot be changed while the channel list is being refreshed. The refresh interval cannot be changed while the channel list is being refreshed. The refresh interval cannot be changed while the channel list is being refreshed.
+"NTSC: formato principale utilizzato nelle televisioni americane, canadesi e giapponesi."user@localhost
+"V4L2: Video for Linux 2.0, a standard video capture interface for Linux systems."user@localhost
+"V4L2: interfaccia di acquisizione video per sistemi Linux."user@localhost
+"V4L2: Video for Linux 2.0, a standard video capture interface for Linux
+Click the New button to create your first note. To add more notes, click the Add button. To delete a note, select it and then click the Delete button. To edit a note, double-click on its title. To view all notes in a folder, click the View All Notes button. To rename a note, select it and then click the Rename button. To move a note to another folder, select it and then click the Move button. To copy a note to another folder,
+"Importazione potrebbe non funzionare come previsto." 
+"o non funzionare affatto." 
+"Importazione di un file di configurazione è possibile solo se il file contiene una singola configurazione." 
+"Se si importa più di una configurazione, tutte le impostazioni esistenti verranno sovrascritte." 
+"Per importare un file di configurazione, fare clic con il tasto destro sul file e scegliere 'Import
+Sostituendo il file verrà sovrascritto (solo sul disco).
+No mount point found. Please check your configuration. To use this feature, you must have at least one mount point configured. Mount points are defined in the "Mount Points" section of the preferences dialog. The mount point is a directory on the local file system that will be used to store files from the remote server. If you do not want to use this feature, please uncheck it in the preferences dialog. To configure a new mount point, click the "+" button and enter the path to
+Could not open file '%s' for writing. (%s) 
+File is read-only. (%s) 
+File is a directory. (%s) 
+File does not exist. (%s) 
+File is too big. (%s) 
+File is not writable. (%s) 
+File is not readable. (%s) 
+File is not executable. (%s) 
+File is not a regular file. (%s) 
+File is not a directory. (%s) 
+File
+File '%s' deleted. The file '%s' was successfully deleted. The file '%s' could not be deleted. The file '%s' is read-only and cannot be deleted. The file '%s' is a directory and cannot be deleted. The file '%s' is in use and cannot be deleted. The file '%s' has been moved to the trash. The file '%s' was successfully moved to the trash. The file '%s' could not be moved to the
+"Changes have been made to this file.
+Do you want to discard them?" To save your changes, click "Save". To discard your changes and exit, click "Discard". To cancel, click "Cancel"."
+"File '%s' has been modified. Do you want to save the changes? If you do not save now, they will be lost." To save the file, click "Save". To discard the changes and exit, click "Discard". To cancel, click
+Sei sicuro di voler creare un nuovo progetto e scartare il corrente? "user
+Are you sure you want to create a new project and discard the current one? user
+Sei sicuro di voler creare un nuovo progetto e scartare il corrente? user
+Are you sure you want to create a new project and discard the current one? user
+Sei sicuro di voler creare un nuovo progetto e scart
+Premere Invio per eseguire qualsiasi codice Python valido. 
+Eseguire il codice Python valido con un tasto diverso da Invio. 
+Per eseguire il codice Python valido, premere Invio. 
+Per eseguire il codice Python valido, usare Invio. 
+Premere Invio per eseguire qualsiasi codice Python valido. 
+Eseguire il codice Python valido con un tasto

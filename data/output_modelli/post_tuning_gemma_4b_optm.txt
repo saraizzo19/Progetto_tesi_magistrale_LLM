@@ -1,0 +1,174 @@
+Puoi utilizzare ownCloud come posizione di archiviazione e editor online.
+Certo, ecco la traduzione:
+
+Assicurati di avere tutti i documenti necessari prima di partire.
+Allarmi
+Avviso prima della scadenza:
+giorno(i).
+"Sei sicuro di voler eliminare tutti gli elementi della lista da fare completati nella categoria "%s"?"
+Progettista interfaccia glade
+Gestione Attività
+Plugin Todo per Anjuta.
+Il disco in "%s" non è supportato.
+Utilizzo: billreminderd [OPZIONI...] Opzioni: --help, -h, -?	Mostra questo messaggio.
+Non è stato possibile creare il file FIFO denominato %s.
+Costruisci Progetto
+Cartella di directory principale del progetto:
+Impossibile creare il progetto.
+Barra dei menu e cinque tipi di progetto tra cui scegliere.
+Mostra il numero di nodi visualizzati se l'elemento viene espanso.
+Certo, ecco la traduzione:
+
+La vita è troppo breve per essere infelice.
+I dati sono troppo grandi per il disco nemmeno con l'opzione di sovraesposizione.
+Non sono riuscito a trovare il tubo giusto per il processo.
+(pid=%d)
+File di blocco trovato: Probabilmente il programma è stato terminato inaspettatamente.
+Ecco la traduzione:
+
+La vita è un viaggio pieno di sorprese e sfide. Non aver paura di sbagliare, perché gli errori sono lezioni preziose che ci aiutano a crescere. Abbraccia il cambiamento, sii aperto alle nuove esperienze e non smettere mai di sognare. Credi in te stesso e nelle tue capacità, e tutto sarà possibile. Ricorda, la felicità si trova dentro di noi, quindi coltiva l'amore,
+Verifica l'integrità dei file.
+Certo, ecco la traduzione:
+
+La sua risposta è stata ricevuta.
+Ecco le informazioni sull'artista dal sito Wikipedia nel pannello di visualizzazione.
+Non verranno scritti dati sul disco (artista, titolo, ecc.).
+Please provide the English text you would like me to translate. I need the original text to perform the translation and then you can click the "Check" button.
+Trascina l'immagine dalla lista di stile dell'immagine per selezionare come vuoi posizionare l'immagine.
+Assicura la tua sicurezza e quella dei tuoi cari con un sistema di allarme affidabile. Offriamo soluzioni personalizzate per ogni esigenza, dalla protezione della tua abitazione al controllo del tuo business. Contattaci oggi stesso per una consulenza gratuita.
+L'interruzione del servizio è fallita.
+"Il servizio non era attivo!"
+Certo, ecco la traduzione:
+
+Assicurati di aver salvato il tuo lavoro prima di procedere.
+Seleziona il metodo di suddivisione dal menu a tendina Metodo.
+Ecco la traduzione:
+
+Assicurati di avere una connessione internet stabile per garantire un download rapido e senza interruzioni.
+Assicura la tua sicurezza e quella dei tuoi cari con un'assicurazione completa. Offriamo polizze personalizzate per ogni esigenza, dalla protezione sanitaria alla tutela legale. Contattaci oggi stesso per una consulenza gratuita.
+Impossibile modificare lo script.
+Nuovo acceleratore...
+Grafico Attivo
+Ecco una rappresentazione grafica di come la quantità di vendite è aumentata nel tempo.
+
+**Tipo di grafico:** Line Chart (Grafico a linee)
+Tipo VCD:
+Crea un SVCD per creare un Super Video CD.
+"%s" non è una cartella valida.
+Impossibile analizzare l'utilizzo del disco.
+Elimina progetto
+Assicura la tua sicurezza e quella dei tuoi cari con un'assicurazione completa. Proteggi la tua casa, la tua auto e la tua vita da imprevisti. Contatta oggi stesso i nostri esperti per una consulenza personalizzata.
+Vuoi davvero svuotare il progetto corrente?
+Comuni flag aggiuntivi del compilatore C++ per tutti i target di questo gruppo.
+Essenzialmente, Accerciser è uno strumento di "at-poke" di nuova generazione.
+Importo “{0}”
+iTunes® 7 ha introdotto nuove incompatibilità e attualmente funziona solo con altri client iTunes® 7.
+Non ci sono video da scrivere su disco.
+Ecco la traduzione:
+
+Assicuratevi di avere un backup completo dei vostri dati prima di procedere. In caso di problemi, potrebbe essere necessario ripristinare il sistema a uno stato precedente. Se riscontrate errori, consultate la sezione FAQ o contattate l'assistenza tecnica per ulteriore assistenza.
+Installare il Progetto:
+Impossibile pulire il progetto.
+Si concentra sulla fornitura di un'interfaccia utente semplice e funzionale, ma potente per uno sviluppo efficiente.
+Assicurati di voler rimuovere tutti gli elementi completati?
+Ecco il testo tradotto:
+
+La chiave per il successo risiede nella perseveranza e nella dedizione al proprio lavoro. Non arrenderti di fronte alle difficoltà, ma impara da esse e continua ad andare avanti con determinazione. Credi in te stesso e nelle tue capacità, e tutto sarà possibile. Ricorda, ogni piccolo passo conta.
+Il file '%s' è stato eliminato dal disco.
+L'eliminazione rapida è un metodo per cancellare rapidamente un disco.
+Includere nella distribuzione:
+Certo, ecco la traduzione:
+
+Assicura il tuo futuro con noi.
+Per maggiori informazioni su Accerciser, visita Accerciser GNOME Live!
+Impossibile ottenere le informazioni sul file.
+Questo file è troppo grande.
+Il colore e l'opacità del bordo evidenziato.
+Le interfacce supportate dall'accessibile selezionato appaiono come sensibili.
+C'è solo un file selezionato (“%s”).
+Assicura la tua sicurezza e quella dei tuoi cari con un'assicurazione affidabile. Proteggi il tuo futuro e quello della tua famiglia da imprevisti e rischi. Contatta oggi stesso i nostri esperti per una consulenza personalizzata.
+Compila
+Certo, ecco la traduzione:
+
+Assicurati che questo sia ciò che desideri.
+Aggiungere ulteriori flag del compilatore Fortran per questo obiettivo.
+Ci sono lavori incompiuti, si prega di attendere che siano terminati.
+Non è un'immagine disco valida né un file cue valido.
+Supporto Libtool:
+Supporta la compilazione di librerie condivise e statiche con libtool.
+Assicura la tua sicurezza e quella dei tuoi cari. Non rischiare, prendi le dovute precauzioni.
+L'aggiornamento avviene dopo 10 secondi di assenza di input da parte dell'utente.
+Premere ControlAltt selezionerà l'accessibilità del widget sotto il cursore.
+Sei sicuro di voler rimuovere la fonte “%s” dal progetto?
+Se non è così, aggiungilo dalle preferenze.
+Per visualizzare i plugin disponibili, seleziona Modifica Plugin.
+Scansione di %s fallita: %s
+Posta elettronica locale…
+Cartella Locale Mail_dir...
+"Posta locale M_H..."
+Artisti Duplicati
+Artisti che probabilmente dovrebbero essere uniti.
+Inserisci il CD o DVD nel tuo lettore.
+Ecco la traduzione:
+
+Assicuratevi di avere un piano dettagliato per il futuro.
+Certo, ecco la traduzione:
+
+Assicurati di avere un piano dettagliato per raggiungere i tuoi obiettivi.
+Questa finestra è il punto di partenza per tutti i tuoi progetti.
+I monitor non ti daranno la vitamina D – ma il sole sì…
+GnuPG sta ricostruendo il database di fiducia e al momento è non disponibile.
+Ecco la traduzione:
+
+La vita è un viaggio pieno di sorprese e sfide. Non aver paura di sbagliare, perché gli errori sono lezioni preziose che ci aiutano a crescere. Abbraccia il cambiamento, sii aperto alle nuove esperienze e non smettere mai di imparare. Ricorda, la felicità si trova nelle piccole cose, nell'amore per gli altri e nella gratitudine per ciò che hai. Vivi ogni giorno con passione e coraggio
+Puoi selezionare “In”: Tutto” per cercare ovunque.
+Seleziona un file.
+Un file WMA a 96 kbps è equivalente a un file MP3 a 128 kbps.
+Non è più possibile connettere clienti di terze parti a condivisioni musicali di iTunes®.
+Certo, ecco la traduzione:
+
+Assicurati di avere un buon caffè e ascolta questo podcast!
+Archivio Internet
+Esplora e cerca l'ampio archivio multimediale dell'Internet Archive.
+Assicura la tua sicurezza e quella dei tuoi cari. Non rischiare, prendi le precauzioni necessarie.
+Costruisci Distribuzione
+Creare il pacchetto di distribuzione del Progetto:
+Certo, ecco la traduzione:
+
+Assicurati di avere un'assicurazione sanitaria valida prima di partire.
+Assicurati di avere un account Google attivo per accedere al progetto. Se non hai ancora un account, creane uno. Dopo aver creato l'account, puoi iniziare a lavorare sul tuo progetto.
+Progetto Dati
+Inserisci un CD-R/W o DVD-R/W nel tuo lettore.
+Risorsa recentemente utilizzata non trovata con URI ""%s"".
+Articolo sconosciuto
+"%d."
+Certo, ecco la traduzione:
+
+La vita è troppo breve per essere spesa in cose inutili.
+Per maggiori informazioni, consultare le pagine di Wikipedia per SVCD e VCD.
+Comuni flag aggiuntivi del compilatore per tutti i target di questo gruppo.
+Importa i media nella libreria
+Certo, ecco la traduzione:
+
+È un piacere lavorare con te.
+Per informazioni sulle specifiche dei simboli, vedere la sezione 4.5 della pagina informativa di gprof.
+Ecco la traduzione:
+
+È un piacere lavorare con te. Spero che questa collaborazione sia proficua per entrambi.
+Sarà necessario un nuovo disco registratibile una volta che quello attualmente caricato sarà stato copiato.
+Iscriviti a podcast e ascolta o scarica gli episodi.
+Impossibile creare il driver per la copia di CD.
+Aggiorna automaticamente i canali
+"Aggiorna automaticamente tutti i canali a intervalli regolari."
+NTSC: formato principalmente utilizzato nelle televisioni americane, canadesi e giapponesi.
+Assicura la tua sicurezza e quella dei tuoi cari con un'assicurazione completa. Offriamo polizze personalizzate per ogni esigenza, dalla protezione sanitaria alla tutela del patrimonio. Contattaci oggi stesso per una consulenza gratuita.
+L'importazione potrebbe non funzionare come previsto, o per nulla.
+Assicura la tua sicurezza e quella dei tuoi cari con il nostro sistema di allarme avanzato. Offriamo soluzioni personalizzate per proteggere la tua casa o il tuo business, garantendo massima tranquillità. Contattaci oggi stesso per una consulenza gratuita.
+Impossibile rilevare alcun punto di montaggio.
+Impossibile caricare i valori predefiniti globali e i file di configurazione: %s.
+Il file '%s' è stato eliminato.
+Annulla modifiche
+"Vuoi davvero creare un nuovo progetto e abbandonare quello attuale?"
+Certo, ecco la traduzione:
+
+La vita è un viaggio pieno di sorprese e sfide. È importante abbracciare ogni momento con gratitudine e coraggio, imparando dagli errori e celebrando i successi. Non aver paura di sognare in grande e di perseguire le proprie passioni. Ricorda che il vero valore della vita risiede nelle relazioni che creiamo e nell'impatto positivo che abbiamo sul mondo.
