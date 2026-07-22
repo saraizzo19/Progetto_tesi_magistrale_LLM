@@ -1,0 +1,134 @@
+Consente di utilizzare ownCloud come posizione di archiviazione e editor online.
+Questo file non è stato salvato.
+Allarmi
+Avviso prima della scadenza:
+giorno/i.
+Sei sicuro di voler eliminare tutti gli elementi completati nella categoria "%s"?
+Progettista dell'interfaccia Glade
+Gestione Attività
+Plugin Todo per Anjuta.
+Il disco in "%s" non è supportato.
+Utilizzo: billreminderd [OPZIONI...] Opzioni: --help, -h, -?\tMostra questo messaggio.
+Impossibile creare il file FIFO denominato %s.
+Costruisci Progetto
+Creazione della directory sorgente del progetto:
+Impossibile creare il progetto.
+Mostra la barra dei menu e i cinque tipi di progetto tra cui scegliere.
+La seconda colonna indica il numero di nodi che verranno visualizzati se l'elemento viene espanso.
+Includi questo obiettivo nel pacchetto distribuito.
+La dimensione dei dati è troppo grande per il disco, anche con l'opzione di sovrascrittura.
+Non è stato possibile ottenere il tubo giusto per il processo.
+(pid=%d)
+File di blocco trovato: probabilmente il programma è stato interrotto in modo imprevisto.
+Inserire un DVD scrivibile con almeno %i MiB di spazio libero.
+Consente di verificare l'integrità dei file.
+Fai clic con il tasto destro su uno dei plugin elencati per configurarne la visualizzazione.
+Visualizza le informazioni sull'artista da Wikipedia nel pannello di contesto.
+“Nessuna informazione sulla traccia (artista, titolo, ...) verrà scritta sul disco.”
+Clicca sul pulsante Verifica per avviare il controllo di integrità.
+Seleziona dall'elenco a tendina Stile immagine come desideri posizionare l'immagine.
+Non possono essere ripresi automaticamente la prossima volta che si esegue Banshee.
+Interruzione del servizio non riuscita.
+Il servizio non era in funzione!
+Vuoi perdere le modifiche e chiudere?
+Dal menu a tendina Metodo, seleziona il metodo di divisione.
+Seleziona uno dei due plugin e fai clic su Configura.
+Puoi scegliere quali plugin attivare per il tuo progetto.
+Impossibile modificare lo script
+Nuovo acceleratore...
+Grafico attivo
+Che tipo di grafico dovrebbe essere visualizzato?
+Sezione VCD tipo:
+Scegli "Crea un SVCD" per creare un Super Video CD.
+"%s" non è una cartella valida.
+Impossibile analizzare l'utilizzo del disco.
+Elimina progetto
+Seleziona file
+Vuoi davvero svuotare il progetto corrente?
+Flag comuni aggiuntivi del compilatore C++ per tutti i target di questo gruppo.
+Fondamentalmente, Accerciser è uno strumento di allenamento all'avanguardia.
+Importa "„{0}”
+iTunes® 7 ha introdotto nuovi problemi di compatibilità e attualmente funziona solo con altri client iTunes® 7.
+Non ci sono video da scrivere su disco.
+Non è presente alcun disco da copiare.
+Installazione del progetto:
+Impossibile pulire il progetto.
+Si concentra sulla fornitura di un'interfaccia utente semplice e intuitiva, pur essendo potente per uno sviluppo efficiente.
+Sei sicuro di voler eliminare tutti gli elementi completati della lista delle cose da fare?
+Inserire un disco riscrivibile contenente i dati.
+Il file '%s' è stato eliminato dal disco.
+La cancellazione rapida è un modo per cancellare velocemente un disco.
+Includere nella distribuzione:
+Includere questo obiettivo nel pacchetto distribuito.
+Per maggiori informazioni su Accerciser, visita l'Accerciser GNOME Live!
+Impossibile ottenere informazioni sul file.
+Questo file è troppo grande.
+Il colore e l'opacità del bordo dell'evidenziazione.
+Le interfacce supportate dall'accessibilità selezionata vengono visualizzate come sensibili.
+Esiste un solo file selezionato ("%s").
+Il plugin testerà l'elemento selezionato accessibile e tutti i suoi discendenti.
+Compilare
+Vuoi cancellare la lista?
+Ulteriori flag del compilatore Fortran per questo target.
+Ci sono lavori in corso, attenda che siano terminati.
+Sembra non essere un’immagine disco valida né un file di cue valido.
+Supporto per Libtool:
+Aggiungi supporto per compilare librerie condivise e statiche con libtool.
+Apri un eseguibile o collegati a un processo per iniziare il debug.
+L'aggiornamento avviene dopo 10 secondi di inattività da parte dell'utente.
+Premendo Control+Alt verrà selezionato l'elemento accessibile del widget che si trova sotto il puntatore.
+Sei sicuro di voler rimuovere la sorgente "%s" dal progetto?
+Altrimenti, aggiungilo dalle preferenze.
+Per visualizzare i plugin disponibili, scegli ModificaPlugin.
+Scansione di %s fallita: %s
+Casella di posta locale _mbox...
+Casella di posta Local Mail_dir...
+Casella di posta locale M_H...
+Artisti duplicati
+Vengono visualizzati artisti che dovrebbero probabilmente essere uniti.
+Inserisci il CD o DVD riscrivibile nell'unità disco.
+Questo potrebbe causare comportamenti impropri o instabilità.
+Visualizza i plugin in un'unica schermata.
+Questa finestra è il punto di partenza per tutti i tuoi progetti.
+I monitor non ti forniscono vitamina D – ma il sole sì…
+GnuPG sta ricostruendo il database di fiducia ed è attualmente non disponibile.
+Inserire un CD o DVD scrivibile.
+Puoi selezionare "Trova in: Tutto" per cercare ovunque.
+Si aprirà una finestra di selezione file.
+Un WMA a 96 kbps equivale a un MP3 a 128 kbps.
+Non è più possibile per client di terze parti connettersi alle condivisioni musicali di iTunes®.
+Rimani intrattenuto e aggiornato con podcast e videopodcast.
+Internet Archive
+Esplora e cerca nell’ampia collezione multimediale dell’Internet Archive.
+Il destinatario deve avere le autorizzazioni corrette per visualizzare il file 'reale'.
+Costruzione Distribuzione
+Creazione del pacchetto di distribuzione del Progetto:
+Impossibile generare automaticamente.
+Clicca su Progetto audio nella finestra principale oppure scegli FileNuovo progettoNuovo progetto audio.
+Progetto Dati
+Inserisci un CD-R/RW o DVD-R/RW nel lettore.
+Nessuna risorsa utilizzata di recente trovata con l'URI "%s".
+Oggetto sconosciuto
+"%d."
+Non ci sono target eseguibili disponibili per questo progetto.
+Per maggiori informazioni, consultare le pagine di Wikipedia relative a SVCD e VCD.
+Flag comuni aggiuntivi del compilatore C per tutti i target di questo gruppo.
+Importa i media nella libreria
+La tua libreria multimediale è vuota.
+Per informazioni sulle specifiche dei simboli, consultare la sezione 4.5 della pagina info di gprof.
+Ulteriori flag del compilatore C++ per questo target.
+Sarà necessario un nuovo supporto scrivibile una volta che quello attualmente caricato sarà stato copiato.
+Iscriviti ai podcast e ascolta in streaming o scarica gli episodi.
+Impossibile creare il driver per la copia di CD.
+Aggiorna automaticamente i canali
+Aggiorna automaticamente tutti i canali a intervalli regolari.
+NTSC: formato utilizzato principalmente nei televisori americani, canadesi e giapponesi.
+Clicca sul pulsante Nuovo per creare la tua prima nota.
+L'importazione potrebbe funzionare come previsto, oppure no, o non funzionare affatto.
+Sostituendolo, sovrascriverà il suo contenuto (solo sul disco).
+Impossibile rilevare alcun punto di montaggio.
+Impossibile caricare le impostazioni globali e i file di configurazione: %s.
+Il file '%s' è stato eliminato.
+Annulla modifiche
+Vuoi davvero creare un nuovo progetto e abbandonare quello attuale?
+Premi Invio per eseguire qualsiasi codice Python valido.
